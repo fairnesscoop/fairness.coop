@@ -1,0 +1,5 @@
+baseURL: "http://fairness.coop/"
+languageCode: "fr-FR"
+title: "Fairness"
+params:
+  tagline: "Concevoir responsable"
