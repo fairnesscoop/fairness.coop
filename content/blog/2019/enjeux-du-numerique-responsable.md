@@ -1,5 +1,5 @@
 ---
-title: "Quels sont les enjeux du numerique responsable ?"
+title: "Quels sont les enjeux du numérique responsable ?"
 publicationDate: 09/12/2019
 description: Le numérique représente aujourd'hui 4% des émissions mondiales de gaz à effet de serre.
 readtime: 5
@@ -27,6 +27,6 @@ Nous contribuons également bénévolement à diverses initiatives : [Collectif 
 Pour un numérique plus responsable en entreprise il y a deux pistes :
 
 * Allonger la vie des équipements. Réparer, réutiliser, éviter le neuf. Car la production d'équipements neufs est l'impact le plus important sur l'environnement.
-* Aller vers une démarche d'écoconception. Améliorer les outils ou le faire dans les nouveaux outils, en allégeant et en les rendant accessibles. Il ne s'agit pas seulement d'optimiser du code (cela est important mais n'a que très peu d'impact), mais réfléchir globalement sur une fonctionnalité, de l'idée à son déploiement sur les serveurs, et enfin, penser à sa maintenance (une fonctionnalité peut être gourmande si l'application est beaucoup utilisée) et à sa fin de vie.iorer les outils existants.
+* Aller vers une démarche d'écoconception. Améliorer les outils ou le faire dans les nouveaux outils, en allégeant et en les rendant accessibles. Il ne s'agit pas seulement d'optimiser du code (cela est important mais n'a que très peu d'impact), mais réfléchir globalement sur une fonctionnalité, de l'idée à son déploiement sur les serveurs, et enfin, penser à sa maintenance (une fonctionnalité peut être gourmande si l'application est beaucoup utilisée) et à sa fin de vie.
 
 *Photo de [Boudewijn Huysmans sur Unsplash](https://unsplash.com/@boudewijn_huysmans)*
