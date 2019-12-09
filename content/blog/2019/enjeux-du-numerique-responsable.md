@@ -1,10 +1,10 @@
 ---
-title: "Quels Sont Les Enjeux Numerique Responsable ?"
-publicationDate: 09-12-2019
+title: "Quels sont ses enjeux du numerique responsable ?"
+publicationDate: 09/12/2019
 description: Le numérique représente aujourd'hui 4% des émissions mondiales de gaz à effet de serre.
-readtime : 5 minutes
+readtime : 5
 thumbnail: enjeux-du-numerique-responsable.jpg
-author : Les coopérateurs Fairness
+author: Les coopérateurs Fairness
 draft: true
 ---
 
@@ -20,7 +20,7 @@ Au sein de notre coopérative Fairness, nous proposons nos compétences de déve
 
 En plus de l'économie d'énergie et donc l'économie financière (car moins d'équipements, moins de serveurs, etc ...), cela aide à ne pas créer d'obsolescence sur les terminaux (un site web devrait correctement fonctionner sur un téléphone âgé de 5 ans). Il faut réfléchir dès aujourd'hui à des outils résilients ET aidant les utilisateurs à plus de résilience.
 
-Nous contribuons également bénévolement à diverses initiatives : Collectif conception numérique responsable, Réinventer le numérique avec la Fing, sensibilisations à travers le podcast Techologie et à travers des conférences sur l'impact environnemental du numérique notamment auprès d'étudiants et du mentorat de projets d'intérêts général avec l'association Latitudes.
+Nous contribuons également bénévolement à diverses initiatives : [Collectif conception numérique responsable](https://www.conception-numerique-responsable.com/), [Réinventer le numérique avec la Fing](https://https://reset.fing.org/), sensibilisations à travers le podcast [Techologie](https://techologie.net/) et à travers des conférences sur l'impact environnemental du numérique notamment auprès d'étudiants et du mentorat de projets d'intérêts général avec l'association [Lattitudes](https://https://www.latitudes.cc/).
 
 ## Quelles actions mettre en place pour un numérique plus responsable dans son entreprise ?
 
