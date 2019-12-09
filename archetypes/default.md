@@ -1,6 +1,6 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+publicationDate: "{{ now.Format "02-01-2006" }}"
 description: <description>
 readtime : <X> minutes
 thumbnail: <nom de l'image>

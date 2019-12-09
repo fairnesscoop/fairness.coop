@@ -1,7 +1,24 @@
 # Fairness.coop
 
-After git clone the project :  
+## Install
 
-$ hugo to generate the public folder
+* Install Hugo : https://gohugo.io/getting-started/installing
 
-$ hugo server -D to launch the localhost:1313
+For MacOS
+
+    $ brew install hugo
+
+For Ubuntu
+
+    $ sudo apt-get install hugo
+
+##After git clone the project :  
+
+Generate the public folder
+
+    $ hugo
+    
+
+Launch the localhost:1313 
+
+    $ hugo server -D
