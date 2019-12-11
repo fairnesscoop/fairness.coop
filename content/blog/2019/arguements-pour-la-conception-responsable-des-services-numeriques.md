@@ -12,4 +12,3 @@ draft: true
 Et oui, loin de coûter aux entreprises, une conception responsable des outils numériques aurait plutôt tendance à faire réaliser des économies. Même si cela peut prendre un peu plus de temps de réflexion au moment de la conception. Toutes fonctionnalités sont vraiment indispensables ? Comment se concentrer sur le réel besoin du client avant de penser aux espaces publicitaires ?
 
 [Lire la suite sur le blog de greenit.fr](https://www.greenit.fr/2019/10/08/6-arguments-pour-la-conception-responsable-des-services-numeriques/)
-

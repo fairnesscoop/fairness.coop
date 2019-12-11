@@ -1,9 +1,9 @@
 {{ partial "head.html" . }}
+
 {{ partial "header.html" . }}
+
 <main>
-    {{ $pages := .Pages }}
-    {{ $pages = .Site.RegularPages }}
-    {{ range $pages.ByDate.Reverse}}
+    {{ range .Paginator.Pages}}
     <section>
         <div class="content">
             <h2 id="{{ .File.TranslationBaseName }}"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
@@ -28,6 +28,10 @@
         </div>
     </section>
     {{end}}
+
+    {{ partial "pagination" . }}
+
 </main>
+
 {{ partial "footer.html" . }}
 
