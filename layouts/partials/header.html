@@ -14,4 +14,11 @@
             <a href="/blog/">Blog</a>
         </div>
     </section>
+
+    {{ if .RegularPages }}
+        <section class="title">
+            <h1>{{ .Section | humanize }}</h1>
+        </section>
+    {{end}}
+
 </header>

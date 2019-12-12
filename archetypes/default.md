@@ -1,10 +1,9 @@
 ---
 title: "{{ replace .Name "-" " " | default  }}"
-publicationDate: "{{ now.Format "02/01/2006" }}"
+publishDate: "{{ now.Format "2006-01-02" }}"
 description: <description>
 readtime: <X>
 thumbnail: <nom de l'image>
 author: Les coopérateurs Fairness
-draft: true
 ---
 

@@ -1,11 +1,10 @@
 ---
 title: "Quels sont les enjeux du numérique responsable ?"
-publicationDate: 25/11/2019
+publishDate: 2019-11-25
 description: Le numérique représente aujourd'hui 4% des émissions mondiales de gaz à effet de serre.
 readtime: 5
 thumbnail: enjeux-du-numerique-responsable.jpg
 author: Les coopérateurs Fairness
-draft: true
 ---
 
 ## Quels sont les principaux enjeux du numérique responsable ?
