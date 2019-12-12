@@ -5,7 +5,6 @@ description: Quels sont les arguments à mettre en avant pour convaincre une org
 readtime: 10
 thumbnail: logo-cnumr.png
 author: Les coopérateurs Fairness
-draft: true
 ---
 ## 1. L’économie financière
 

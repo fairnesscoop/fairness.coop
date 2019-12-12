@@ -5,7 +5,6 @@ description: Experts dans la réalisation de produits web et mobile, nous intég
 readtime: 5
 thumbnail: references.png
 author: Les coopérateurs Fairness
-draft: true
 ---
 ## Caisse Nationale d’Assurance Maladie (CNAM)
 
@@ -14,3 +13,4 @@ Accompagnement coaching agile
 ## Radio France
 
 Refonte de l'outil de contributions des chaines de Radio France.
+

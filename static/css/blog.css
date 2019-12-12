@@ -116,6 +116,10 @@ footer li a {
     font-style: italic;
 }
 
+.article-content img {
+    width: 100%;
+}
+
 @media screen and (min-width: 668px) {
     main section {
         flex-wrap: nowrap;
@@ -230,15 +234,14 @@ footer li a {
 
 a[rel=prev], a[rel=next]{
     font-weight: bold;
-    font-size: 1em;
 }
 
-.only-dekstop{
+.visible-large-screen{
     display: none;
 }
 
 @media screen and (min-width: 668px) {
-    .only-dekstop {
+    .visible-large-screen {
         display: inline;
     }
 }

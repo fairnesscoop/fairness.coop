@@ -5,7 +5,6 @@ description: A chaque équipe son fonctionnement, à chaque entreprise ses valeu
 readtime: 15
 thumbnail: remue-meninges.png
 author: Les coopérateurs Fairness
-draft: true
 ---
 De façon très concrète, nous avons deux objectifs premiers (et pour certains malheureusement opposés) à atteindre : **satisfaire les clients** et **être heureux de venir travailler tous les jours**.
 

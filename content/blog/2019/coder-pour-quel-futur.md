@@ -5,7 +5,6 @@ description: On va parler de l'Anthropocène, des impacts du numérique, d'obés
 readtime: 15
 thumbnail: wall-e-square.png
 author: Les coopérateurs Fairness
-draft: true
 ---
 Je suis Richard et le web est ma passion depuis 1996, époque où on se connectait à Internet avec un modem 33,6 kbit/s. Mon histoire personnelle a fait que j'étais conscient de la force de la nature et de son impact sur la vie des hommes. Mais comme beaucoup, je ne voyais pas ce que je pouvais y faire.
 

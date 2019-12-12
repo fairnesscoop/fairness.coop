@@ -5,7 +5,6 @@ description: Les recruteurs aussi font de la veille. Si si, je vous jure, de la 
 readtime: 10
 thumbnail: vieprovieperso-square.png
 author: Les coopérateurs Fairness
-draft: true
 ---
 Je fais partie de cette catégorie un peu particulière de recruteurs “IT”, de chercheurs de devs, de recruteurs de l’impossible, dénicheurs de pépites, chasseurs de l’extrême. Je ne vous fais pas un tableau : recruter des personnes qui sont parmi les plus sollicitées du marché dans un secteur sous tension et dans lequel la demande est supérieure à l’offre... c’est du sport.
 

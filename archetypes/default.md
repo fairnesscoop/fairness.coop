@@ -5,6 +5,5 @@ description: <description>
 readtime: <X>
 thumbnail: <nom de l'image>
 author: Les coopérateurs Fairness
-draft: true
 ---
 

@@ -5,7 +5,6 @@ description: Rassemblés en une société coopérative de professionnels du web,
 readtime: 10
 thumbnail: fairness.png
 author: Les coopérateurs Fairness
-draft: true
 ---
 À Paris, le 23 octobre 2019.
 
