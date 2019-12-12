@@ -12,7 +12,7 @@ L'idée de base est de faire une revue en équipe de l'architecture d'une User S
 
 On y passe le temps qu'il faut, entre 5 et 20 minutes, avec tous les devs de l'équipe, un stylo et un tableau blanc.
 
-![Design review](/image_blog/design-review.png)
+![Design review](/blog/images/design-review.png)
 
 Concrètement, celui qui va prendre le ticket conduit la revue de design. On commence par la lecture de la User Story qui a été rédigée pendant les ateliers avec le Product Owner. On discute ensuite en équipe de la façon dont on veut construire le code. La personne en charge de l'US dessine l'architecture sur le tableau sous forme de schéma ou de dessin d'interface avec les différentes interactions. Elle note aussi le ou les nommages choisis. Parfois, on regarde également le code existant pour voir comment notre User Story s'intègre à l'existant.
 

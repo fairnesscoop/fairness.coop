@@ -10,7 +10,7 @@ Je suis Richard et le web est ma passion depuis 1996, époque où on se connecta
 
 > « Je ne veux plus me mentir »
 
-![Nicolas Hulot qui annonce sa démission du gouvernement](/image_blog/nicolas-hulot.png)
+![Nicolas Hulot qui annonce sa démission du gouvernement](/blog/images/nicolas-hulot.png)
 
 Fin août 2018, **la démission de Nicolas Hulot** du gouvernement m'a littéralement choqué. « Je ne veux plus me mentir », ce sont ses mots. J'en avais les larmes aux yeux. Pas pour la personne mais plus pour ce qu'il représentait. Donc même lui avouait que c'était peine perdue, que c'était très difficile de faire bouger les choses de l'intérieur ?
 
@@ -32,7 +32,7 @@ Ensuite, il y a le **déclin de l'extraction d'une grande variété de matières
 
 Adolescent, j'adorais les **films catastrophes américains**. Naïvement, je pensais que notre monde pourrait prendre fin dans une collision avec un astéroïde comme dans Armageddon, mais sans Bruce Willis pour nous sauver. Ou avec une invasion de méchants extraterrestres qui viendraient nous péter la gueule, comme dans Independance Day. Ou bien, scénario à la The Walking Dead, nous disparaissions dans une apocalypse zombie. Malheureusement, notre futur semblerait être plus proche du film *Wall-E* c'est à dire une planète poubelle, sans vie, mais à la différence près, qu'il n'y aurait ni robot nettoyeur (*Wall-E*) ni vaisseau spacial (*l'Axiom*) pour nous sauver.
 
-![Image extraite du film Wall-e où l'on voit le robot essayer de nettoyer une planète ravagée et qui croule sous les déchets.](/image_blog/wall-e.png)
+![Image extraite du film Wall-e où l'on voit le robot essayer de nettoyer une planète ravagée et qui croule sous les déchets.](/blog/images/wall-e.png)
 
 Dès 1972, des scientifiques du MIT dans un rapport, connu sous le nom de « Rapport Meadows » ou « Rapport du Club de Rome » qu'ils intitulent "[Les limites à la croissance dans un monde fini](https://fr.wikipedia.org/wiki/Les_Limites_%C3%A0_la_croissance)", alertent sur **les conséquences sur l'environnement d'une croissance avec des ressources finies**.
 
@@ -60,7 +60,7 @@ En septembre dernier, est paru un article qui a fait le buzz : [Software disench
 
 Par exemple, la page d'accueil d'Airbnb fait [170 requêtes et charge une image de 3 Mo ](https://tonsky.me/blog/pwa/) , tout ça pour un formulaire de 4 champs. Comment 900 développeurs de Airbnb, très bien payés ont pu pondre ça ?
 
-![Usine à gaz](/image_blog/usine-a-gaz.gif)
+![Usine à gaz](/blog/images/usine-a-gaz.gif)
 
 Un autre très bon article lui emboite le pas : [Le monde du logiciel est en train de se détruire... Manifeste pour un développement plus durable ](https://greenspector.com/fr/articles/2018-12-11-manifeste-developpement-plus-durable/). Si on doit trouver un parallèle entre nos sites ou applications et l'industrie des énergies fossiles, nous concevons aujourd'hui des **usines à gaz**.
 

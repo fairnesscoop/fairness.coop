@@ -18,7 +18,7 @@ Bien sûr, il y a le sacro saint salaire, indémodable, toujours au goût du jou
 
 On arrive vite à parler de l’équilibre entre la vie professionnelle et la vie personnelle. Là aussi me direz-vous, sujet très débattu en ce moment. Sauf que les personnes que je rencontre pour leur proposer de venir coder et apprendre chez nous n’arrêtent jamais de coder et d’apprendre. Jamais. Où est le pro ? Où est le perso ?
 
-![Comment ça vous avez une vie privée ?](/image_blog/comment-ca-vie-privee.png)
+![Comment ça vous avez une vie privée ?](/blog/images/comment-ca-vie-privee.png)
 
 Un de mes collègues me disait l’autre jour que pour lui, le côté pro est corrélé au stress qui peut naître de la pression d’un client demandant une évolution sur une appli dans l’urgence. Mais passer du temps le soir (alors même que ce n’est pas indispensable), sur une nouvelle techno qu’il doit apprendre à maîtriser pour un projet ne lui paraissait pas être une contrainte qui empiétait sur sa vie perso.
 
@@ -36,7 +36,7 @@ Des entreprises qui peuvent répondre à 3 grands objectifs:
 
 J’ai l’impression d’enfoncer des portes ouvertes mais mon expérience en entretiens me montre qu’il est parfois intéressant de revenir aux fondamentaux.
 
-![Comment ça vous avez une vie privée ?](/image_blog/vieprovieperso.png)
+![Comment ça vous avez une vie privée ?](/blog/images/vieprovieperso.png)
 
 Je crois que le luxe dans ce secteur, c’est de pouvoir choisir des clients ou du moins des projets et savoir quels sont les produits, les buts et les causes pour lesquelles les équipes auront envie de travailler.
 

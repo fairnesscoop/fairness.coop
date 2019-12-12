@@ -8,7 +8,7 @@ author: Les coopérateurs Fairness
 ---
 Des conférences, des *lightning-talks*, un "bar Open Source" mais aussi pour la première fois, un service de [vélotypie](https://afup.org/news/1060-la-velotypie-sinvite-au-forum-php-2019) était disponible pour retranscrire les conférences en direct, bien pratique pour les malentendants et même pour les quelques conférences en anglais.
 
-![Echanges avec Kévin Dunglas pour podcast echo](/image_blog/podcast.jpg)
+![Echanges avec Kévin Dunglas pour podcast echo](/blog/images/podcast.jpg)
 
 photo : [Julien Pauli](http://pic.jpauli.tech/#15721175616118)
 
@@ -150,7 +150,7 @@ Nous avons adoré la keynote de fin "Pratiquons la physique avec Star Wars !" de
 
 Par ailleurs, nous avons pris la parole lors d'un [lightning-talk de 5 minutes sur comment mesurer l'impact environnemental d'un site web](https://twitter.com/afup/status/1187397963385053189) en dressant les impacts environnementaux et sociaux notamment à la production de nos terminaux.
 
-<p style="text-align: center"><img alt="Lightning Talk ForumPHP" src="/image_blog/lightningtalk.jpg" style="width: 50%;"></p>
+<p style="text-align: center"><img alt="Lightning Talk ForumPHP" src="/blog/images/lightningtalk.jpg" style="width: 50%;"></p>
 
 Nous avons traîné notre micro et avons enregistré [l'ambiance lors d'un épisode spécial ForumPHP](https://soundcloud.com/podcastecho/hors-serie-au-coeur-du-forumphp-2019) du podcast Echo. Écoutez aussi [notre entretien avec Kévin Dunglas pour un web éthique et décentralisé](https://soundcloud.com/podcastecho/38-favoriser-le-web-decentralise-et-ethique-avec-kevin-dunglas).
 

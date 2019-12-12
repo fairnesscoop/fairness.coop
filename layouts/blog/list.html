@@ -19,11 +19,11 @@
             <div class="image">
                 <a href="{{ .Permalink }}" aria-labelledby="{{ .File.TranslationBaseName }}">
                     <picture>
-                        <source media="(min-width: 599px)" srcset="/image_blog/{{ .Param "thumbnail" }}">
+                        <source media="(min-width: 599px)" srcset="/blog/images/{{ .Param "thumbnail" }}">
                         <source media="(max-width: 598px)"
                                 srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8/5+hHgAHggJ/PchI7wAAAABJRU5ErkJggg=="
                                 sizes="100%">
-                        <img src="/image_blog/{{ .Param "thumbnail" }}" alt=""/>
+                        <img src="/blog/images/{{ .Param "thumbnail" }}" alt=""/>
                     </picture>
                 </a>
             </div>
