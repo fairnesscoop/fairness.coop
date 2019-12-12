@@ -1,1 +1,40 @@
-homepage
+{{ partial "head.html" . }}
+
+{{ partial "header_home.html" . }}
+
+<main>
+    <section class="environnement section-content">
+        <div>
+            <h2>{{ with .Site.GetPage "section" "environnement" }}{{ .Title }}{{ end }}</h2>
+            {{ with .Site.GetPage "section" "environnement" }}{{ .Content }}{{ end }}
+        </div>
+    </section>
+    <section class="clients section-content">
+        <div class="title-col">
+            <h2>{{ with .Site.GetPage "section" "clients" }}{{ .Title }}{{ end }}</h2>
+        </div>
+        <div class="content">
+            {{ with .Site.GetPage "section" "clients" }}{{ .Content }}{{ end }}
+        </div>
+    </section>
+    <section class="cooperateur section-content">
+        <div class="title-col">
+            <h2>{{ with .Site.GetPage "section" "cooperateurs" }}{{ .Title }}{{ end }}</h2>
+        </div>
+        <div class="content">
+            {{ with .Site.GetPage "section" "cooperateurs" }}{{ .Content }}{{ end }}
+        </div>
+    </section>
+    <section class="utilisateurs section-content">
+        <div class="title-col">
+            <h2>{{ with .Site.GetPage "section" "utilisateurs" }}{{ .Title }}{{ end }}</h2>
+        </div>
+        <div class="content">
+            {{ with .Site.GetPage "section" "cooperateurs" }}{{ .Content }}{{ end }}
+        </div>
+    </section>
+</main>
+
+<div class="impact"><div><a href="http://www.ecoindex.fr/resultats/?id=48715">1.3 <span class="unit">gCO2e</span></a></div></div>
+
+{{ partial "footer.html" . }}

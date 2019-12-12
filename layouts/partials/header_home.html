@@ -1,0 +1,25 @@
+<body>
+<header>
+    <section class="banner">
+        <div class="logo">
+            <img src="image/fairness_logo.svg" alt="Fairness"/>
+        </div>
+        <div class="concevoir">
+            <h1>
+                <span class="sitename">{{ .Site.Title }}</span><br>
+                <span class="tagline">{{ $.Param "tagline" }}</span>
+            </h1>
+        </div>
+        <div class="push menu">
+            <a href="/blog/">Blog</a>
+        </div>
+    </section>
+    <section class="fairness">
+        <div class="title-col">
+            {{ with .Site.GetPage "section" "header" }}{{ .Content }}{{ end }}
+        </div>
+        <div class="cercles">
+            <img src="image/cercles.svg" alt="Cercles"/>
+        </div>
+    </section>
+</header>

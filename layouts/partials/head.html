@@ -18,7 +18,12 @@
 
     <link rel="shortcut icon" href="{{ "favicon/favicon.ico" | relURL }}" type="image/x-icon">
     <link rel="stylesheet" href="{{ "css/main.css" | relURL }}">
-    <link rel="stylesheet" href="{{ "css/blog.css" | relURL }}">
+
+    {{ if .IsHome }}
+        <link rel="stylesheet" href="{{ "css/index.css" | relURL }}">
+    {{else}}
+        <link rel="stylesheet" href="{{ "css/blog.css" | relURL }}">
+    {{end}}
 
     <link rel="apple-touch-icon" sizes="57x57" href="{{ "icon/apple-icon-57x57.png" | relURL }}">
     <link rel="apple-touch-icon" sizes="60x60" href="{{ "icon/apple-icon-60x60.png" | relURL }}">
