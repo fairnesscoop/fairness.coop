@@ -1,7 +1,0 @@
----
-section: environnement
-title: Environnement
----
-Le secteur du numérique a un **impact environnemental** de plus en plus important. Les solutions pour réduire ou limiter ces effets ne sont pas uniquement technologiques.
-
-L'éco-conception commence par questionner les besoins des utilisateurs. Nous proposons des [solutions efficaces, pertinentes, conviviales](), qui ne contribuent pas à l'obsolescence des terminaux.

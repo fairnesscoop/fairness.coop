@@ -16,7 +16,9 @@
     </section>
     <section class="fairness">
         <div class="title-col">
-            {{ with .Site.GetPage "section" "header" }}{{ .Content }}{{ end }}
+            {{ with .Site.GetPage "section" "header" }}
+                {{ .Content }}
+            {{ end }}
         </div>
         <div class="cercles">
             <img src="image/cercles.svg" alt="Cercles"/>
