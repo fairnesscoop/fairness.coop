@@ -128,4 +128,4 @@ Des pistes à explorer :
 
 * **travailler moins pour donner du temps**, bénévolement, à des associations, via des initiatives comme [Webassoc](https://www.webassoc.org/).
 
-Si ces sujets vous intéressent, je vous invite à poursuivre en écoutant notre podcast [Techologie](https://techologie.net/), de lire le [rapport pour une sobriété numérique](https://theshiftproject.org/wp-content/uploads/2018/10/2018-10-04_Rapport_Pour-une-sobri%C3%A9t%C3%A9-num%C3%A9rique_Rapport_The-Shift-Project.pdf) et de consulter les articles de [greenit.fr](https://www.greenit.fr/) ou les [notres](https://fairness.coop/blog/) !
+Si ces sujets vous intéressent, je vous invite à poursuivre en écoutant notre podcast [Techologie](https://techologie.net/), de lire le [rapport pour une sobriété numérique](https://theshiftproject.org/wp-content/uploads/2018/10/2018-10-04_Rapport_Pour-une-sobri%C3%A9t%C3%A9-num%C3%A9rique_Rapport_The-Shift-Project.pdf) et de consulter les articles de [greenit.fr](https://www.greenit.fr/) ou les [notres](/blog/) !
