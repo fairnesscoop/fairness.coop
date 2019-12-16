@@ -80,7 +80,7 @@ h2 {
 }
 
 .environnement div {
-    background-image: url('img/leaves.svg');
+    background-image: url('/image/leaves.svg');
     background-repeat: no-repeat;
     background-position: right -20px top;
 }
@@ -107,7 +107,7 @@ h2 {
 .clients .title-col {
     flex-grow: 1;
     padding-top: 70px;
-    background-image: url('img/cercle-clients.svg');
+    background-image: url('/image/cercle-clients.svg');
     background-size: 210px;
     background-repeat: no-repeat;
     background-position: right -50px top;
@@ -116,7 +116,7 @@ h2 {
 .cooperateur .title-col {
     flex-grow: 1;
     padding-top: 70px;
-    background-image: url('img/cercle-coop.svg');
+    background-image: url('/image/cercle-coop.svg');
     background-size: 210px;
     background-repeat: no-repeat;
     background-position: left -50px top;
@@ -126,7 +126,7 @@ h2 {
 .utilisateurs .title-col {
     flex-grow: 1;
     padding-top: 70px;
-    background-image: url('img/cercle-util.svg');
+    background-image: url('/image/cercle-util.svg');
     background-size: 210px;
     background-repeat: no-repeat;
     background-position: right -50px top;
@@ -138,7 +138,7 @@ footer {
 }
 
 .impact {
-    background: url('img/cloud.svg') bottom center no-repeat;
+    background: url('/image/cloud.svg') bottom center no-repeat;
     background-size: 80px;
     width: 80px;
     height: 50px;
@@ -205,7 +205,7 @@ footer {
 
     .environnement div {
         padding-left: 320px;
-        background-image: url('img/leaves.svg');
+        background-image: url('/image/leaves.svg');
         background-repeat: no-repeat;
         background-position: left top;
     }

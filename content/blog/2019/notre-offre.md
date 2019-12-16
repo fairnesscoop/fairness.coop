@@ -35,16 +35,16 @@ author: Les coopérateurs Fairness
 ## Notre démarche
 
 * Immersion métier
-* Conception Lean, itérative, prise en compte des impacts environnementaux et sociétaux ([conception responsable](https://fairness.coop/blog/2019/arguments-pour-la-conception-responsable-des-services-numeriques.html)).
+* Conception Lean, itérative, prise en compte des impacts environnementaux et sociétaux ([conception responsable](/blog/2019/arguments-pour-la-conception-responsable-des-services-numeriques/)).
 * Accessibilité
 * Software craftmanship / Extreme programming
 * Architecture hexagonale du code, Domain Driven Design
 * Pair programming, Mob programming
-* [Revue de design](https://fairness.coop/blog/2019/design-review.html)
+* [Revue de design](/blog/2019/design-review/)
 * Tests unitaires
 * Tests fonctionnels
 * Revue de code
 * Livraison continue / déploiement continu
 * Amélioration continue via des rétrospectives d'équipe
 * Documentation
-* Moments en groupe et hors projets pour se regénérer : nos dojos. Voir notre article [Remues-Méninges collectif](https://fairness.coop/blog/2019/remue-meninges-collectif.html)
+* Moments en groupe et hors projets pour se regénérer : nos dojos. Voir notre article [Remues-Méninges collectif](/blog/2019/remue-meninges-collectif/)
