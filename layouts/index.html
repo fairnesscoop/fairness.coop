@@ -4,7 +4,9 @@
 
 <main>
 
-    {{ with .Site.GetPage "section" "environnement" }}
+    {{ $headless := .Site.GetPage "/home" }}
+    {{ $reusablePages := $headless.Resources.Match "environnement*" }}
+    {{ range $reusablePages }}
         <section class="environnement section-content">
             <div>
                 <h2>{{ .Title }}</h2>
@@ -13,7 +15,9 @@
         </section>
     {{ end }}
 
-    {{ with .Site.GetPage "section" "clients" }}
+    {{ $headless := .Site.GetPage "/home" }}
+    {{ $reusablePages := $headless.Resources.Match "clients*" }}
+    {{ range $reusablePages }}
         <section class="clients section-content">
             <div class="title-col">
                 <h2>{{ .Title }}</h2>
@@ -24,7 +28,9 @@
         </section>
     {{ end }}
 
-    {{ with .Site.GetPage "section" "cooperateurs" }}
+    {{ $headless := .Site.GetPage "/home" }}
+    {{ $reusablePages := $headless.Resources.Match "cooperateurs*" }}
+    {{ range $reusablePages }}
         <section class="cooperateur section-content">
             <div class="title-col">
                 <h2>{{ .Title }}</h2>
@@ -35,7 +41,9 @@
         </section>
     {{ end }}
 
-    {{ with .Site.GetPage "section" "utilisateurs" }}
+    {{ $headless := .Site.GetPage "/home" }}
+    {{ $reusablePages := $headless.Resources.Match "utilisateurs*" }}
+    {{ range $reusablePages }}
         <section class="utilisateurs section-content">
             <div class="title-col">
                 <h2>{{ .Title }}</h2>

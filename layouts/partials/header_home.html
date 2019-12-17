@@ -16,8 +16,10 @@
     </section>
     <section class="fairness">
         <div class="title-col">
-            {{ with .Site.GetPage "section" "header" }}
-                {{ .Content }}
+            {{ $headless := .Site.GetPage "/home" }}
+            {{ $reusablePages := $headless.Resources.Match "header*" }}
+            {{ range $reusablePages }}
+            {{ .Content }}
             {{ end }}
         </div>
         <div class="cercles">

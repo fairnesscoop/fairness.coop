@@ -2,7 +2,7 @@
 <html lang="{{ .Site.LanguageCode }}">
 <head>
     <meta charset="utf-8">
-    <title>{{ .Title }}. Blog Fairness</title>
+    <title>{{ .Title }}. {{ .Section | humanize }} Fairness</title>
 
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -43,3 +43,4 @@
     <meta name="msapplication-TileImage" content="{{ "icon/ms-icon-144x144.png" | relURL }}">
     <meta name="theme-color" content="#ffffff">
 </head>
+
