@@ -107,7 +107,7 @@ Pas de chef de projet, l'équipe s'auto-gère. Pas de relation client - prestata
 
 * Co-création avec un interlocuteur unique porteur du projet (product owner) qui est disponible pour répondre (aux heures de bureau) à nos questions tout au long du projet.
 * Immersion métier : nous travaillons bien que lorsque nous avons compris votre métier et vos problématiques. C'est la phase autrement appelée "Vis ma vie".
-* Itérations graphiques : ateliers de travail pour la direction graphique du site. 3 rounds d'aller/retour pour finaliser le rendu général.
+* Itérations graphiques : ateliers de travail pour la direction graphique du site. Rounds d'aller/retour pour finaliser le rendu général.
 * Cadrage pour aligner l'équipe, sous forme d'ateliers pour écrire chaque User Story (la spécification fonctionnelle la plus atomique et testable possible). Réflexion sur les architectures technique, organisationnelle et de l'information : globalement le comment on fabrique le site.
 * Itérations de 2 semaines. Pendant chaque itération, au moins un atelier (2 si possible), pour définir le prochaine itération, et défricher les itérations suivantes, et toujours avoir une vue macro sur l'objectif à atteindre.
 * Rétrospective d'équipe afin de s'améliorer
@@ -153,7 +153,7 @@ D'un point de vue graphique, l'enjeu sera d'accompagner les nouveaux parcours ut
 
 Nous nous appuierons sur un premier atelier destiné à élaborer ensemble le brief créatif. Nous travaillerons ensuite sur deux alternatives graphiques, intégrant UX et UI, qui vous seront présentées sur une home page et une autre page clé du futur site web. Cette présentation fera l’objet d’une second atelier qui vous permettra de questionner et challenger les pistes créatives, ainsi que de choisir l’une des deux orientations proposées. L’alternative graphique retenue fera l’objet d’un jeu de 5 allers-retours. Les maquettes des pages restantes seront ensuite déclinées suivant la charte graphique validée ensemble, et optimisées également sur la base de 5 allers-retours.
 
-La refonte du site web peut également être l’occasion de faire évoluer l’identité visuelle du cabinet. Un lifting du logotype pourrait être envisagé, accompagné de propositions de déclinaison sur vos différents livrables (publications, plaquettes, etc…). Le niveau d’évolution du logotype (simple lifting ou refonte), ainsi que le nombre et le choix des supports faisant l’objet de ce retravail seront à définir ensemble.
+La refonte du site web peut également être l’occasion de faire évoluer son identité visuelle. Un lifting du logotype pourrait être envisagé, accompagné d'une nouvelle charte graphique. Dans une démarche d'éco-conception, l'idée est de travailler à partir de codes à la fois modernes et intemporels : le site n'étant pas soumis aux effets de mode, il est possible de le conserver longtemps.
 
 Le travail proposé inclut la cession de droits exclusifs de reproduction, d’adaptation et de représentation à des fins de diffusion sur support imprimé et internet, dans le monde entier, pour la durée légale des droits patrimoniaux conformément à l’article L123-1 du Code de la Propriété Intellectuelle.
 
@@ -222,7 +222,7 @@ Il est important par exemple d'avoir une documentation permettant pour un dével
 
 La documentation et les user stories (spécifications) sont stockées dans la base de code du projet afin de garantir qu'elle est toujours à portée de main.
 
-## 13. Planning
+## 13. Planning estimatif
 
 * Décembre - Janvier : immersion métier, itérations graphismes et itération 0
 * Janvier - Avril 2020 : itérations de développement
