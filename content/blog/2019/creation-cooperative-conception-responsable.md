@@ -34,4 +34,3 @@ Chacun contribue en tant que membre du [collectif Conception Numérique Responsa
 *Morning Coworking République,  
 2 Rue Dieu,  
 75010 Paris*
-

@@ -237,9 +237,3 @@ Nous accompagnons nos clients dans la conception responsable de services numéri
 Autant que possible, nous ne souhaitons pas avoir une simple relation client / prestataire mais une relation de partenaires, de transparence et de confiance.
 
 Nous sommes enthousiastes à l’idée de travailler entre organisations responsables et également nous avons hâte d’apprendre de votre métier et de votre organisation.
-
-
-
-
-
-

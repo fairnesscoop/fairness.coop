@@ -118,5 +118,3 @@ CF Experts est une plateforme de communication et d'échanges sur la mucoviscido
     <li>PHPUnit</li>
 </ul>
 {{</rawhtml>}}
-
-

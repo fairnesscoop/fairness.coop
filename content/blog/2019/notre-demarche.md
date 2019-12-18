@@ -163,5 +163,3 @@ La documentation et les user stories (spécifications) sont stockées dans la ba
 ## Conclusion
 
 Nous accompagnons nos clients dans la conception responsable de services numériques. Nous privilégions les clients dont leurs activités sont responsables ou contributrices à l'intérêt général.
-
-
