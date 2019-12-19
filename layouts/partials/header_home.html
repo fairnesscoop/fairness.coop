@@ -16,9 +16,10 @@
     </section>
     <section class="fairness">
         <div class="title-col">
-            {{ $headless := .Site.GetPage "/home" }}
-            {{ $reusablePages := $headless.Resources.Match "header*" }}
-            {{ range $reusablePages }}
+            {{ $headlessHome := .Site.GetPage "/home" }}
+
+            {{ $headerSection := $headlessHome.Resources.Match "header*" }}
+            {{ range $headerSection }}
             {{ .Content }}
             {{ end }}
         </div>
