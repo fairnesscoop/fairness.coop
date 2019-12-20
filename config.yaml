@@ -5,4 +5,4 @@ params:
   tagline: "Concevoir responsable"
 paginate: 5
 permalinks:
-  blog: /blog/:year/:title.html
+  blog: /blog/:year/:filename.html
