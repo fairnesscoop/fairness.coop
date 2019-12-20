@@ -16,8 +16,11 @@
     </section>
     <section class="fairness">
         <div class="title-col">
-            {{ with .Site.GetPage "section" "header" }}
-                {{ .Content }}
+            {{ $headlessHome := .Site.GetPage "/home" }}
+
+            {{ $headerSection := $headlessHome.Resources.Match "header*" }}
+            {{ range $headerSection }}
+            {{ .Content }}
             {{ end }}
         </div>
         <div class="cercles">

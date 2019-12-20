@@ -157,4 +157,3 @@ Par ailleurs, nous avons pris la parole lors d'un [lightning-talk de 5 minutes s
 Nous avons traîné notre micro et avons enregistré [l'ambiance lors d'un épisode spécial ForumPHP](https://soundcloud.com/podcastecho/hors-serie-au-coeur-du-forumphp-2019) du podcast Echo. Écoutez aussi [notre entretien avec Kévin Dunglas pour un web éthique et décentralisé](https://soundcloud.com/podcastecho/38-favoriser-le-web-decentralise-et-ethique-avec-kevin-dunglas).
 
 Nous tenions à remercier l'AFUP et tous les bénévoles pour l'organisation et à l'année prochaine les 20 ans !
-
