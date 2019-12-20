@@ -3,9 +3,11 @@ title: "Etamine"
 proposalTitle: "Etamine.coop"
 date: "2019-11-25"
 author: Les coopérateurs Fairness
+aliases:
+    - /proposal/etamine.html
 ---
 
-Sommaire : 
+Sommaire
 
 1. [Qui sommes nous ?](#1-qui-sommes-nous)
 2. [Notre compréhension du besoin](#2-notre-compréhension-du-besoin)
