@@ -6,4 +6,4 @@ Notre coopération est essentielle pour comprendre votre métier. Notre implicat
 
 Nous privilégions les approches Lean et Agiles pour atteindre votre objectif en maîtrisant le budget tout comme la qualité logicielle.
 
-[Nos offres](https://fairness.coop/blog/2019/notre-offre). [Nos références](https://fairness.coop/blog/2019/references/).
+[Nos offres](https://fairness.coop/blog/2019/notre-offre.html/). [Nos références](https://fairness.coop/blog/2019/references/).
