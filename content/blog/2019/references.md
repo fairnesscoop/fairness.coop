@@ -5,6 +5,8 @@ description: Experts dans la réalisation de produits web et mobile, nous intég
 readtime: 5
 thumbnail: references.png
 author: Les coopérateurs Fairness
+aliases:
+    - /blog/2019/references.html
 ---
 ## Caisse Nationale d’Assurance Maladie (CNAM)
 

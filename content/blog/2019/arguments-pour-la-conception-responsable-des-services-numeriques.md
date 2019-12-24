@@ -5,6 +5,8 @@ description: Quels sont les arguments à mettre en avant pour convaincre une org
 readtime: 10
 thumbnail: logo-cnumr.png
 author: Les coopérateurs Fairness
+aliases:
+    - /blog/2019/arguments-pour-la-conception-responsable-des-services-numeriques.html
 ---
 ## 1. L’économie financière
 

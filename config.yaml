@@ -4,5 +4,4 @@ title: "Fairness"
 params:
   tagline: "Concevoir responsable"
 paginate: 5
-permalinks:
-  blog: /blog/:year/:filename.html
+

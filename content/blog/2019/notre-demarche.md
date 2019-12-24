@@ -5,6 +5,8 @@ description: Rassemblés en une société coopérative de professionnels du web,
 readtime: 15
 thumbnail: fairness.png
 author: Les coopérateurs Fairness
+aliases:
+    - /blog/2019/notre-demarche.html
 ---
 Sommaire :
 
