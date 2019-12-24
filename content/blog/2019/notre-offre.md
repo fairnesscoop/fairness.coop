@@ -5,6 +5,8 @@ description: Notre offre d'accompagnement, nos compétences langages, technologi
 readtime: 5
 thumbnail: notre-offre.png
 author: Les coopérateurs Fairness
+aliases:
+    - /blog/2019/notre-offre.html
 ---
 ## Accompagnement
 

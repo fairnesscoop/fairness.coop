@@ -5,6 +5,8 @@ description: Le numérique représente aujourd'hui 4% des émissions mondiales d
 readtime: 5
 thumbnail: enjeux-du-numerique-responsable.jpg
 author: Les coopérateurs Fairness
+aliases:
+    - /blog/2019/enjeux-du-numerique-responsable.html
 ---
 
 ## Quels sont les principaux enjeux du numérique responsable ?
