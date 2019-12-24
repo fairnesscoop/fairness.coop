@@ -5,6 +5,8 @@ description: Nous étions au ForumPHP 2019 qui se tenait à guichet fermé encor
 readtime: 15
 thumbnail: lightningtalk.jpg
 author: Les coopérateurs Fairness
+aliases:
+    - /blog/2019/forum-php-2019.html
 ---
 Des conférences, des *lightning-talks*, un "bar Open Source" mais aussi pour la première fois, un service de [vélotypie](https://afup.org/news/1060-la-velotypie-sinvite-au-forum-php-2019) était disponible pour retranscrire les conférences en direct, bien pratique pour les malentendants et même pour les quelques conférences en anglais.
 

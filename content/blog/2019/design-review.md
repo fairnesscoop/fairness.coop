@@ -5,6 +5,8 @@ description: "Arrivé dans ma nouvelle équipe depuis plus d'un an maintenant, j
 readtime: 5
 thumbnail: design-review.png
 author: Les coopérateurs Fairness
+aliases:
+    - /blog/2019/design-review.html
 ---
 Arrivé dans ma nouvelle équipe depuis plus d'un an maintenant, je voudrais faire un point sur les bonnes pratiques que j'ai découvertes avec mes collègues et l'impact que ça a eu sur ma façon de travailler. Je vais commencer par une pratique un peu particulière qui a révolutionné ma façon de travailler en équipe : **la revue de design ou "design review"**.
 

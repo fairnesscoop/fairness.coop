@@ -11,6 +11,9 @@ hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 # Go To Public folder
 cd public
 
+# Switch branch to gh-pages
+git checkout gh-pages
+
 # Add changes to git.
 git add .
 

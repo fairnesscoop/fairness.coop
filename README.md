@@ -12,6 +12,10 @@ For Ubuntu
 
     $ snap install hugo
 
+## Git clone the project
+
+    $ git clone --recurse-submodules git@github.com:fairnesscoop/fairness.coop.git
+
 ## Usage
 
 Generate the public folder
