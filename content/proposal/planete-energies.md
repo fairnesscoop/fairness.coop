@@ -216,8 +216,6 @@ aujourd’hui majoritairement utilisées. Elle se couple très bien avec le lang
 fonctionnalités proposées par cette base de données, nous recommandons l’installation de sa dernière version stable.
 Nous choisirons le moteur de base de données le plus adapté à votre projet.
 
-Nous sommes enthousiastes à l’idée de travailler entre coopératives responsables et également nous avons hâte
-d’apprendre de votre métier et de votre organisation.
 Pour le moteur de recherche fulltext et à facettes (filtres) pour les documents nous préconisons le produit open source
 Elasticsearch.
 
