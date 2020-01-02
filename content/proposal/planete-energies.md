@@ -63,6 +63,7 @@ Ce site Internet est vieillissant tant en terme technique qu'au niveau design. L
 tout en appliquant une démarche d'écoconception.
 
 Les fonctionnalités prévues :
+
 - des articles riches en termes de média (vidéos, images, tableau de chiffre) mais avec plus de flexibilité qu'actuellement.
 - un maillage entre les contenus
 - un flux d'actualités de type AFP (mais mieux lié avec les contenus froids)
