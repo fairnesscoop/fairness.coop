@@ -1,0 +1,44 @@
+{{ partial "head.html" . }}
+
+{{ partial "header.html" . }}
+
+<section class="team">
+
+    {{ $pages := .Pages }}
+
+    {{ range $pages}}
+
+        <div class="onePerson">
+
+            <div class="onePerson__picture">
+                <img src="{{ .Params.picture }}" alt="photo de profil">
+            </div>
+            
+
+            <div class="onePerson__description">
+                <div class="name">{{ .Params.firstname }} {{ .Params.lastname }}</div>
+                <div class="title">{{ .Params.title }}</div>
+            </div>
+
+            <div class="onePerson__link">
+                <div class="githubAndTwitter">
+                    <a href="{{ .Params.github }}"><i class="fab fa-github"></i></a>
+                </div>
+                <div class="githubAndTwitter">
+                    <a href="{{ .Params.twitter }}"><i class="fab fa-twitter"></i></a>
+                </div>
+            </div>
+            <!--
+            <div class="onePerson__viewCV">
+                <div class="link">
+                    <a href="#">Voir le CV</a>
+                </div>
+            </div>
+            -->
+        </div>
+
+    {{end}}  
+
+</section>
+
+{{ partial "footer.html" . }}
