@@ -1,3 +1,3 @@
 ---
-section: proposition
+type: proposition
 ---

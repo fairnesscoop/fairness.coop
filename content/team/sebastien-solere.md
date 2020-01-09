@@ -2,7 +2,8 @@
 firstname: Sebastien
 lastname: Solere
 title: Coach agile
-picture: https://randomuser.me/api/portraits/men/50.jpg
+picture: sebastien-solere.png
+altPicture: sebastien-solere-alt.png
 github: '#'
 twitter: '#'
 ---

@@ -38,37 +38,6 @@
     z-index:0;
 }
 
-.onePerson__viewCV{
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    display:none;
-    background-color: rgba(86, 181, 205, 0.9);
-    z-index: 10;
-}
-
-.onePerson__viewCV .link{
-    display:flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    position: absolute;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-}
-
-.onePerson__viewCV .link a{
-    color:white;
-    text-decoration: none;
-    border: 2px solid white;
-    border-radius: 60px;
-    padding: 8px 45px
-}
-
 .onePerson:hover .onePerson__viewCV{
     display:inline;
     

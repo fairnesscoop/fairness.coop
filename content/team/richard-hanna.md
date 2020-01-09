@@ -2,7 +2,8 @@
 firstname: Richard
 lastname: Hanna
 title: Développeur senior
-picture: https://randomuser.me/api/portraits/men/51.jpg
+picture: richard-hanna.png
+altPicture: richard-hanna-alt.png
 github: '#'
 twitter: '#'
 ---

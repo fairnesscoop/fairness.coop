@@ -11,9 +11,8 @@
         <div class="onePerson">
 
             <div class="onePerson__picture">
-                <img src="{{ .Params.picture }}" alt="photo de profil">
+                <img src="/team/images/{{ .Params.picture }}" alt="image de profil de {{ .Params.firstname }} {{ .Params.lastname }}" onmouseover="this.src='/team/images/{{ .Params.altPicture }}'" onmouseout="this.src='/team/images/{{ .Params.picture }}'"/>
             </div>
-            
 
             <div class="onePerson__description">
                 <div class="name">{{ .Params.firstname }} {{ .Params.lastname }}</div>
@@ -28,13 +27,7 @@
                     <a href="{{ .Params.twitter }}"><i class="fab fa-twitter"></i></a>
                 </div>
             </div>
-            <!--
-            <div class="onePerson__viewCV">
-                <div class="link">
-                    <a href="#">Voir le CV</a>
-                </div>
-            </div>
-            -->
+
         </div>
 
     {{end}}  
