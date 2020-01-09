@@ -1,6 +1,6 @@
 ---
 firstname: Nicolas
-lastname: Deviart
+lastname: Dievart
 title: Développeur senior
 picture:
 altPicture:
