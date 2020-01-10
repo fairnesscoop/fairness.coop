@@ -1,4 +1,7 @@
 <body>
+
+{{ partial "menu.html" . }}
+
 <header>
     <section class="banner">
         <div class="logo">
@@ -11,7 +14,7 @@
             </a>
         </div>
         <div class="push menu">
-            <a href="/blog/">Blog</a>
+            <img id="buttonMenu" src="{{ "image/menu-blue.svg" | relURL }}" alt="Menu">
         </div>
     </section>
 
