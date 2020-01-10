@@ -11,16 +11,17 @@ Sommaire
 2. [Notre compréhension du besoin](#2-notre-compréhension-du-besoin)
 3. [Méthodologie](#3-méthodologie)
 4. [Ecoconception](#4-ecoconception)
-5. [Graphisme](#5-graphisme)
-6. [Accessibilité](#6-accessibilité)
-7. [Préconisations technologiques](#7-préconisations-technologiques)
+5. [Design UX / UI](#5-design-ux--ui)
+6. [Préconisations technologiques](#7-préconisations-technologiques)
+7. [Accessibilité](#6-accessibilité)
 8. [Suivi d'audience](#8-suivi-d-audience)
 9. [Hébergement](#9-hébergement)
 10. [Tierce Maintenance Applicative (TMA)](#10-tierce-maintenance-applicative-tma)
-11. [Résilience](#11-résilience) 
+11. [Résilience](#11-résilience)
 12. [Engagements réciproques](#12-engagements-réciproques)
-13. [Planning](#13-planning) 
-14. [Conclusion](#conclusion) 
+13. [Planning](#13-planning)
+14. [Conditions de facturation](#14-conditions-de-facturation)
+15. [Conclusion](#conclusion)
 
 ## 1. Qui sommes nous ?
 
@@ -64,18 +65,18 @@ tout en appliquant une démarche d'écoconception.
 
 Les fonctionnalités prévues :
 
-- des articles riches en termes de média (vidéos, images, tableau de chiffre) mais avec plus de flexibilité qu'actuellement.
-- un maillage entre les contenus
-- un flux d'actualités de type AFP (mais mieux lié avec les contenus froids)
-- espace enseignant
-- la possibilité de commander des conférences
-- un moteur de recherche performant en saisie texte libre ou à filtres
-- de la flexibilité pour tagger les campagnes marketing
-- une accessibilité correct au regard des standards du marché
-- responsive y compris sur la commande de conférence
-- repenser la navigation en termes de parcours et de niveau
-- plus d’interaction entre le site et les réseaux sociaux
-- créer des quizz à la volée
+* des articles riches en termes de média (vidéos, images, tableau de chiffre) mais avec plus de flexibilité qu'actuellement.
+* un maillage entre les contenus
+* un flux d'actualités de type AFP (mais mieux lié avec les contenus froids)
+* espace enseignant
+* la possibilité de commander des conférences
+* un moteur de recherche performant en saisie texte libre ou à filtres
+* de la flexibilité pour tagger les campagnes marketing
+* une accessibilité correct au regard des standards du marché
+* responsive y compris sur la commande de conférence
+* repenser la navigation en termes de parcours et de niveau
+* plus d’interaction entre le site et les réseaux sociaux
+* créer des quizz à la volée
 
 D'autres fonctionnalités sont à explorer selon le budget restant : recherche vocale, gérer des newsletters, chatbots,
 podcasts, plus de gamification, infographies interactives...
@@ -123,7 +124,8 @@ L’agilité, c’est aussi s’adapter à la situation projet en partant de son
 * Richard Hanna, développeur senior Fairness.
 * Nicolas Dievart, développeur senior Fairness.
 * Thomas Chatenet, développeur junior Fairness.
-* [Céline Berthaut](https://celineberthaut.fr/), graphiste indépendante.
+* [Céline Berthaut](https://celineberthaut.fr/) et Laure Barrière, directrices artistiques indépendantes.
+* Designer UX
 
 Pas de chef de projet, l'équipe s'auto-gère. Pas de relation client - prestataire, nous sommes partenaires.
 
@@ -184,16 +186,93 @@ Pour en savoir plus
 * [Présentation Retour d'expérience écoconception / conception responsable](https://speakerdeck.com/supertanuki/retour-dexperience-conception-numerique-responsable)
 * [Présentaion Impact environnemental de mon site web](https://speakerdeck.com/supertanuki/impact-environnemental-de-mon-site-web)
 
-## 5. Graphisme
+## 5. Design UX / UI
 
-@todo
+### Accompagnement UX (expérience utilisateur)
 
-## 6. Accessibilité
+#### 1. Recherche utilisateur
 
-Il est important aujourd'hui que les produits numériques n'excluent pas. Nous recommandons une intégration HTML en
-respectant les règles d'accessibilité des contenus Web (WCAG) 2.0. Bonne nouvelle, cela ne coûte pas plus cher.
+La phase de recherche utilisateurs est fondamentale pour s’assurer de répondre au mieux aux attentes des utilisateurs.
+Elle permet de faire ressortir les attentes, les émotions de chaque cible. 
 
-## 7. Préconisations technologiques
+Exemples de livrables : 
+
+* Fiche persona : Les personas sont une description documentée de l’utilisateur type d’un service ou d’une application.
+Ils permettent d’avoir une représentation personnifiée des utilisateurs.
+* Carte d’empathie : Cet outil permet d’aller au-delà des données statistiques afin de visualiser l’environnement,
+les comportements, les soucis et les aspirations des clients.
+
+#### 2. Benchmark 
+
+Auditer les sites concurrents mais également les acteurs référents sur les problématiques identifiées afin de s’inspirer
+des bonnes pratiques.
+
+#### 3. Animation d’ateliers 
+
+La phase d’idéation met vos équipes en énergie pour apporter des solutions innovantes sur les problématiques identifiées.
+Dans le cadre de la refonte du site Planète Énergies, nous prévoyons 3 ateliers de deux jours.
+Nous vous proposons d’accompagner ces ateliers d’une prestation de facilitation graphique. Cette compétence permet de
+mettre en image les concepts et idées développés lors de l’atelier et de fournir un compte rendu visuel et synthétique.
+
+#### 4. Maquettage
+
+En s’appuyant sur la connaissance utilisateurs, les bonnes pratiques et votre expertise, nous réaliserons des wireframes
+des interfaces qui répondent aux problématiques identifiées. Le nombre de parcours et de wireframes dépendra des étapes
+précédentes.
+
+#### 5. Tests utilisateurs 
+
+Nous proposons de soumettre les maquettes aux utilisateurs pour valider ou rectifier les interfaces avant de passer à
+l’étape de design graphique (UI).
+
+### Direction artistique et interface utilisateur
+
+Cette partie de la mission sera assurée par un binôme composé de 2 directrices artistiques (Céline Berthaut et Laure Barrière).
+
+#### 1. Ateliers de co-création
+
+Nous proposons 2 jours d’ateliers destinés à identifier les enjeux en terme d’image, tel que le positionnement marketing
+du nouveau site, les valeurs à transmettre, le ton, etc. Nous recommandons d’accompagner ces ateliers d’une prestation
+de facilitation graphique.
+
+#### 2. Identité visuelle 
+
+À partir des informations collectées (connaissance utilisateurs, bonnes pratiques et enjeux d’image), nous concevrons et
+créerons une identité visuelle forte, différenciante et adaptée à votre cible, suivant les principes d’éco-conception web.
+Nous vous proposerons plusieurs pistes créatives. La piste retenue fera l’objet d’une dizaine d’allers-retours avec votre
+équipe afin d’aboutir à une version validée. Nous serons alors en mesure de vous fournir le brandbook du nouveau site web
+comportant toutes les informations utiles telles que le choix des typographies et leur utilisation, les références couleurs,
+les grands principes de mise en page, les éléments graphiques divers, les usages (do et don’t), etc.
+
+#### 3. Iconographie
+
+Nous porterons une attention particulière au choix des types de visuels et de leurs traités graphiques. Cette phase nous
+semble d’autant plus importante qu’il s’agit d’un site à visée pédagogique, où la didactique visuelle est indispensable
+à la vulgarisation du propos. De plus, les choix iconographiques ont un impact direct sur le poids des pages
+(ex : illustrations ou graphiques vectoriels vs photographies). Nos propositions porteront sur les éléments graphiques
+statiques du site ainsi que sur l’illustration des contenus dynamiques présents et à venir. Elles feront l’objet
+de 5 à 7 allers-retours avec votre équipe. Nous vous fournirons à l’issue de cette phase une charte iconographique qui
+donnera les guidelines nécessaires à l’agence en charge de produire les contenus ultérieurs.
+
+#### 4. Maquettes
+
+À partir de l’identité visuelle validée, nous créerons les maquettes de pages correspondant aux parcours utilisateurs et
+wireframes élaborés lors de la phase UX. En fonction des choix iconographiques, nous pourrons être amenés à réaliser de
+nouvelles illustrations, schémas, graphiques et pictogrammes qui devront faire l’objet d’un devis précis, que nous ne
+pourrons établir qu’à ce stade. 
+
+Les maquettes feront l’objet d’allers-retours avec votre équipe ainsi que de tests utilisateurs. Une fois validées,
+elles seront transmises au développeurs pour intégration.
+
+#### 5. Suivi de production
+
+L’équipe DA / UI se tiendra à votre disposition lors de la phase de développement, afin de valider, à l’occasion de points
+réguliers, le respect de la charte graphique et de répondre aux questions éventuelles.
+
+NB : nous ne prévoyons pas à ce stade d’achat de licence typographique (l’éco-conception implique de travailler avec des
+polices système ou à minima des typographies libres de droit), ni d’achat d’art. 
+
+## 6. Préconisations technologiques
 
 Notre orientation Open Source nous pousse à utiliser un maximum de solutions issues de cette communauté.
 
@@ -251,6 +330,11 @@ Nous proposons de nous appuyer sur des briques open source éprouvées pour cont
 Planètes Énergies tout en s'inspirant des UX/UI et des architectures techniques éprouvées sur les CMS open source.
 Une phase de test peut être envisagée pour recueillir les retours utilisateurs et rédacteurs et intégrer ces retours
 afin de s'approcher de l'outil le plus pertinent possible.
+
+## 7. Accessibilité
+
+Il est important aujourd'hui que les produits numériques n'excluent pas. Nous recommandons une intégration HTML en
+respectant les règles d'accessibilité des contenus Web (WCAG) 2.0. Bonne nouvelle, cela ne coûte pas plus cher.
 
 ## 8. Suivi d'audience
 
@@ -320,14 +404,20 @@ salariés et dirigeants. Nous le ferons à titre gracieux.
 
 ## 13. Planning
 
-* Janvier - mars : immersion métier, itérations graphismes et itération de cadrage
-* Mars - décembre 2020 : itérations de développement
+* Février - avril : immersion métier, itérations de cadrage, UX et UI
+* Mars - décembre 2020 : itérations UI/UX et développement
 * Mise en production finale : décembre 2020.
 
 Comme présenté dans notre démarche, ce document n'est pas exhaustif et n'a pas lieu d'engagement sur le périmètre.
 Nous nous engageons sur des moyens.
 Le budget et le planning sont fixes, seul le périmètre est variable avec pour objectif un service sobre,
 pertinent et convivial pour les utilisateurs.
+
+## 14. Conditions de facturation
+
+* Acompte d'un premier mois au début du projet.
+* Facturation chaque mois du temps passé.
+* Paiement à 30 jours après établissement de la facture.
 
 ## Conclusion
 
