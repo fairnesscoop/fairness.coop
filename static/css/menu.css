@@ -16,7 +16,7 @@
   flex-direction: column;
 }
 
-/close-msg{
+.close-msg{
   text-decoration: none;
   position:fixed;
   top: 5px;
