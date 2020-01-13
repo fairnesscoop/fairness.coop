@@ -5,3 +5,13 @@ params:
   tagline: "Concevoir responsable"
 paginate: 5
 
+menu:
+  main:
+  - identifier: contact
+    name: Contactez nous
+    url: 
+  - identifier: coop
+    name: La coopérative
+    url: /blog/2019/creation-cooperative-conception-responsable/
+
+

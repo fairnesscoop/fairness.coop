@@ -65,7 +65,15 @@ nav .links li a{
     visibility:hidden;
   }
 
-  .link:hover .link__bar{
+  .link li{
+    order: 2;
+  }
+
+  .link div{
+    order: 1;
+  }
+
+  .link li:hover +.link__bar{
     visibility:visible !important;
   }
 }

@@ -6,30 +6,15 @@
 
     <ul class="links">
 
-            <div class="link"> 
-            <li><a href="#">coop</a></li>
-            <div class="link__bar"></div>
-
-            </div>  
-            <div class="link"> 
-                <div class="link__bar"></div>
-                <li><a href="#">coop</a></li>
-            </div>
+        {{ range .Site.Menus.main }}
 
             <div class="link"> 
+                <li><a href="{{ .URL | absLangURL }}">{{.Name}}</a></li>
                 <div class="link__bar"></div>
-                <li><a href="#">coop</a></li>
-            </div>  
+            </div> 
+        
+        {{end}}
 
-            <div class="link"> 
-                <div class="link__bar"></div>
-                <li><a href="#">coop</a></li>
-            </div>  
-
-            <div class="link"> 
-                <div class="link__bar"></div>
-                <li><a href="#">coop</a></li>
-            </div>  
     </ul>
 
 </nav>
