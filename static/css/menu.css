@@ -25,8 +25,8 @@
 
 .close-msg::after {
   content: "\00D7";
-  font-weight: bolder;
-  font-size: 4em;
+
+  font-size: 5em;
   color:white;
 }
 
@@ -78,4 +78,3 @@
   }
   
 }
-
