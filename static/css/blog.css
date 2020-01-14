@@ -77,14 +77,6 @@ footer li a {
     text-decoration: none;
 }
 
-.menu a {
-    font-weight: bold;
-    color: #103b69;
-    border: 1px solid #103b69;
-    padding: 10px;
-    border-radius: 20px;
-}
-
 .article-content {
     font-size: 1.2em;
     line-height: 1.6em;
