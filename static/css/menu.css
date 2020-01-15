@@ -16,18 +16,22 @@
   flex-direction: column;
 }
 
+.close-menu{
+  width: 100%;
+  text-align: right;
+  position:absolute;
+  top: 5px;
+}
+
 .close-msg{
   text-decoration: none;
-  position:fixed;
-  top: 5px;
-  right: 50px;
 }
 
 .close-msg::after {
   content: "\00D7";
-
   font-size: 5em;
   color:white;
+  margin-right: 0.5em;
 }
 
 .main-menu .links{
