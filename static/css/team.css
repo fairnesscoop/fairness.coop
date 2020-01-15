@@ -39,8 +39,7 @@
 }
 
 .onePerson:hover .onePerson__viewCV{
-    display:inline;
-    
+    display:inline;  
 }
 
 .onePerson__picture img{
@@ -74,10 +73,8 @@
 
 .githubAndTwitter{
     margin: 0px 8px;
-
 }
 
 .githubAndTwitter img {
     height: 20px;
-
 }

@@ -1,5 +1,5 @@
 ---
-firstname: Helene
+firstname: Hélène
 lastname: Maître
 title: Agiliste / Product Owner
 picture: helene-maitre.png
