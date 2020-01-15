@@ -2,7 +2,7 @@
 <html lang="{{ .Site.LanguageCode }}">
 <head>
     <meta charset="utf-8">
-    <title>{{ .Title }}. {{ .Section | humanize }} Fairness</title>
+    <title>{{ .Title }}. {{ .Type | humanize }} Fairness</title>
 
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -23,6 +23,7 @@
         <link rel="stylesheet" href="{{ "css/index.css" | relURL }}">
     {{else}}
         <link rel="stylesheet" href="{{ "css/blog.css" | relURL }}">
+        <link rel="stylesheet" href="{{ "css/team.css" | relURL }}">
     {{end}}
 
     <link rel="apple-touch-icon" sizes="57x57" href="{{ "icon/apple-icon-57x57.png" | relURL }}">
