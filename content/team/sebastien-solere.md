@@ -1,9 +1,8 @@
 ---
 firstname: Sebastien
 lastname: Solere
-title: Coach agile
+title: Coach / Facilitateur agiles
 picture: sebastien-solere.png
 altPicture: sebastien-solere-alt.png
-github: '#'
-twitter: '#'
+twitter: 'https://twitter.com/sebsolere'
 ---

@@ -18,12 +18,19 @@
             </div>
 
             <div class="onePerson__link">
-                <div class="githubAndTwitter">
-                    <a href="{{ .Params.github }}"><i class="fab fa-github"></i></a>
-                </div>
-                <div class="githubAndTwitter">
-                    <a href="{{ .Params.twitter }}"><i class="fab fa-twitter"></i></a>
-                </div>
+
+                {{ if (isset .Params "github") }}
+                    <div class="githubAndTwitter">
+                        <a href="{{ .Params.github }}"><img src="/image/GitHub.svg"></a>
+                    </div>
+                {{end}}
+
+                {{ if (isset .Params "twitter") }}
+                    <div class="githubAndTwitter">
+                        <a href="{{ .Params.twitter }}"><img src="/image/Twitter.svg"></a>
+                    </div>
+                {{end}}
+
             </div>
 
         </div>
