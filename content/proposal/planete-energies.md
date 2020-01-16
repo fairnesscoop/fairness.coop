@@ -1,7 +1,7 @@
 ---
 title: "Planète Énergies"
 proposalTitle: "Planète Énergies"
-date: "2020-01-02"
+date: "2020-01-16"
 author: Les coopérateurs Fairness
 ---
 
@@ -11,7 +11,7 @@ Sommaire
 2. [Notre compréhension du besoin](#2-notre-compréhension-du-besoin)
 3. [Méthodologie](#3-méthodologie)
 4. [Ecoconception](#4-ecoconception)
-5. [Design UX / UI](#5-design-ux-ui)
+5. [Design UX / UI](#5-design-ux--ui)
 6. [Préconisations technologiques](#6-préconisations-technologiques)
 7. [Accessibilité](#7-accessibilité)
 8. [Suivi d'audience](#8-suivi-d-audience)
@@ -20,7 +20,7 @@ Sommaire
 11. [Résilience](#11-résilience)
 12. [Engagements réciproques](#12-engagements-réciproques)
 13. [Planning](#13-planning)
-14. [Conditions de facturation](#14-conditions-de-facturation)
+14. [Estimation budgétaire](#14-estimation-budgétaire)
 15. [Conclusion](#conclusion)
 
 ## 1. Qui sommes nous ?
@@ -331,6 +331,22 @@ Planètes Énergies tout en s'inspirant des UX/UI et des architectures technique
 Une phase de test peut être envisagée pour recueillir les retours utilisateurs et rédacteurs et intégrer ces retours
 afin de s'approcher de l'outil le plus pertinent possible.
 
+### SEO
+
+Le SEO, Search Engine Optimisation, que nous intégrons à notre développement est le SEO technique qu'on appelle aussi
+le référencement naturel. Autrement dit, le travail fait sur l'application pour qu'elle soit optimisée pour que ses
+contenus soient indexés par les robots des moteurs de recherche.
+
+Le SEO technique s'appuie sur différents leviers :
+
+* Accessibilité des contenu et les ressources par les robots.
+* Interprétation des contenus : structuration des pages et répertoires, structure des pages HTML, sémantique HTML.
+* Maillage interne entre contenus et gestion de la profondeur.
+* Optimisation des performances web.
+
+De plus, pour conserver le référencement actuel du site, il s'agira de conserver les urls actuelles ou de gérer les
+redirections des anciennes urls vers les nouvelles.
+
 ## 7. Accessibilité
 
 Il est important aujourd'hui que les produits numériques n'excluent pas. Nous recommandons une intégration HTML en
@@ -349,6 +365,13 @@ Toutefois nous recommandons le suisse Infomaniak qui a une charte écologique.
 Le français OVH est une alternative intéressante en terme d'impact environnemental, et surtout vos données restent en France.
 Nous pouvons aussi envisager de travailler avec un hébergeur engagé chez les Chatons https://chatons.org/fr,
 Collectif des Hébergeurs Alternatifs, Transparents, Ouverts, Neutres et Solidaires.
+
+Dans le contrat d'hébergement, nous veillerons à avoir des sauvegardes régulières de la base de données, par exemple
+une fois par heure.
+
+Pour rendre accessible le site depuis plusieurs pays et pas seulement la France tout en gardant une performance optimale,
+il s'agira d'utiliser des CDN (Content Delivery Network) permettant de redonder (mise en cache) les pages statiques du
+site.
 
 Les frais d'hébergement ou toute autre service sont à votre charge, vous permettant d'être indépendants de nous.
 
@@ -408,15 +431,69 @@ salariés et dirigeants. Nous le ferons à titre gracieux.
 * Mars - décembre 2020 : itérations UI/UX et développement
 * Mise en production finale : décembre 2020.
 
+## 14. Estimation Budgétaire
+
 Comme présenté dans notre démarche, ce document n'est pas exhaustif et n'a pas lieu d'engagement sur le périmètre.
 Nous nous engageons sur des moyens.
 Le budget et le planning sont fixes, seul le périmètre est variable avec pour objectif un service sobre,
 pertinent et convivial pour les utilisateurs.
 
-## 14. Conditions de facturation
+### 1. Partie Développement
 
-* Acompte d'un premier mois au début du projet.
-* Facturation chaque mois du temps passé.
+280 jours x 1000 € HT = 280 000 € HT
+
+* Engagement de moyen, trois développeurs de Mars à Décembdepuis plusieurs paysre 2020.
+* Mars à Juin et Septembre à Décembre : 30 jours développeurs par mois environ
+* Juillet et Août : 20 jours développeurs par mois environ
+
+### 2. Partie UX / UI (hors facilitation graphique) 
+
+70 jours x 1 000 € HT = 70 000 € HT
+
+**Détail du nombre de jours UX :**
+
+* Un UX designer
+* Recherche utilisateurs : 10 jours
+* Benchmark : 2 jours
+* Animation d’ateliers (3 ateliers de 2j + préparation) : 8 jours
+* Prototypage des écrans : 10 jours
+
+Total UX : 30 jours
+
+**Détail de nombre de jours DA/UI :**
+
+* Deux DA/UI
+* Ateliers de co-création (2 ateliers de 1 jour + préparation) : 4 jours 
+* Identité visuelle : 10 jours
+* Iconographie : 10 jours
+* Maquettes : 12 jours
+* Suivi de production : 4 jours
+
+Total DA / UI : 40 jours
+
+### 3. Option facilitation graphique : 
+
+* Ateliers - phase UX : 6 jours
+* Ateliers - phase DA / UI : 2 jours
+
+Total facilitation graphique : 8 jours x 1 500 € HT = 12 000 € HT
+
+### Total estimatif hors option
+
+350 000 € HT
+
+### Tierce Maintenance Applicative (TMA)
+
+Il nous parait tôt pour décider dès maintenant du temps alloué en TMA.
+Cela peut être 2, 3 jours ou plus par mois selon vos besoins.
+Nous appliquerons un tarif journalier de 1000€ HT.
+Nous vous proposons de rediscuter du temps à allouer quelques mois avant la fin du projet.
+
+### Conditions de facturation
+
+* Acompte d'un premier mois au début du projet. Montant à déterminer ensemble en tenant compte du nombre de jours et des
+compétences mobilisés.
+* Facturation en fin de chaque mois du temps passé.
 * Paiement à 30 jours après établissement de la facture.
 
 ## Conclusion
