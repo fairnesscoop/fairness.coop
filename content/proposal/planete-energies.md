@@ -442,7 +442,7 @@ pertinent et convivial pour les utilisateurs.
 
 280 jours x 1000 € HT = 280 000 € HT
 
-* Engagement de moyen, trois développeurs de Mars à Décembdepuis plusieurs paysre 2020.
+* Engagement de moyen, trois développeurs de Mars à Décembre 2020.
 * Mars à Juin et Septembre à Décembre : 30 jours développeurs par mois environ
 * Juillet et Août : 20 jours développeurs par mois environ
 
@@ -450,9 +450,10 @@ pertinent et convivial pour les utilisateurs.
 
 70 jours x 1 000 € HT = 70 000 € HT
 
+Engagement de moyen, 1 UX, 1 DA, 1 UI.
+
 **Détail du nombre de jours UX :**
 
-* Un UX designer
 * Recherche utilisateurs : 10 jours
 * Benchmark : 2 jours
 * Animation d’ateliers (3 ateliers de 2j + préparation) : 8 jours
@@ -462,7 +463,6 @@ Total UX : 30 jours
 
 **Détail de nombre de jours DA/UI :**
 
-* Deux DA/UI
 * Ateliers de co-création (2 ateliers de 1 jour + préparation) : 4 jours 
 * Identité visuelle : 10 jours
 * Iconographie : 10 jours
