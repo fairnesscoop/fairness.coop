@@ -3,3 +3,4 @@ title: "Fairness, coopérative de conception responsable de projets Web et mobil
 author: Les coopérateurs Fairness
 description: Fairness est une coopérative qui vous accompagne dans la conception responsable de vos projets Web et mobiles
 ---
+
