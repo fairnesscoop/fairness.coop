@@ -1,20 +1,20 @@
 <nav id="menu" class="main-menu">
+    <div class="subcontainer">
+        <div class="close-menu">
+            <a href="#" class="close-msg"></a>
+        </div>
 
-    <div class="close-menu">
-        <a href="#" class="close-msg"></a>
+        <ul class="links">
+
+            {{ range .Site.Menus.main }}
+
+                <div class="link">
+                    <li><a href="{{ .URL | absLangURL }}">{{.Name}}</a></li>
+                    <div class="link__bar"></div>
+                </div>
+
+            {{end}}
+
+        </ul>
     </div>
-
-    <ul class="links">
-
-        {{ range .Site.Menus.main }}
-
-            <div class="link"> 
-                <li><a href="{{ .URL | absLangURL }}">{{.Name}}</a></li>
-                <div class="link__bar"></div>
-            </div> 
-        
-        {{end}}
-
-    </ul>
-
 </nav>
