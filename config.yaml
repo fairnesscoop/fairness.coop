@@ -5,3 +5,29 @@ params:
   tagline: "Concevoir responsable"
 paginate: 5
 
+menu:
+  main:
+  - identifier: contact
+    name: Contactez nous
+    url: mailto:equipe(at)fairness.coop
+  - identifier: coop
+    name: La coopérative
+    url: /blog/2019/creation-cooperative-conception-responsable/
+  - identifier: equipe
+    name: L'équipe
+    url: /team/
+  - identifier: notre-offre
+    name: Notre offre
+    url: /blog/2019/notre-offre/
+  - identifier: nos-references
+    name: Nos références
+    url: /blog/2019/references/
+  - identifier: blog
+    name: Blog
+    url: /blog/
+  - identifier: podcast-echo
+    name: Podcast echo
+    url: https://podcastecho.github.io/
+  - identifier: podcast-techologie
+    name: Podcast techologie
+    url: https://techologie.net/

@@ -8,15 +8,6 @@ h1 {
     font-weight: lighter;
 }
 
-.menu a {
-    text-decoration: none;
-    font-weight: bold;
-    color: #ffffff;
-    border: 1px solid #ffffff;
-    padding: 10px;
-    border-radius: 20px;
-}
-
 .fairness {
     font-weight: lighter;
     letter-spacing: 0.05em;
