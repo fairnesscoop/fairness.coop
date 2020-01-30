@@ -2,7 +2,6 @@
 
 <header>
     <section class="banner">
-        {{ partial "menu.html" . }}
         <div class="logo">
             <a href="/"><img src="{{ "image/fairness_logo.svg" | relURL }}" alt="Fairness"></a>
         </div>
@@ -15,6 +14,7 @@
         <div class="push menu">
             <a href="#menu"><img src="{{ "image/menu-blue.svg" | relURL }}" alt="Menu"></a>
         </div>
+        {{ partial "menu.html" . }}
     </section>
 
     {{ if .RegularPages }}
