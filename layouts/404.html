@@ -1,6 +1,33 @@
-<main id="main">
-    <div>
-        <h1 id="title">Page non trouvée</h1>
-        <a href="{{ "/" | relURL }}">Retourner à la page d'accueil</a>
+<head>
+    <title>404 - Page non trouvée</title>
+    <link rel="stylesheet" href="{{ "css/404.css" | relURL }}">
+    <link rel="stylesheet" href="{{ "css/main.css" | relURL }}">
+    <link rel="stylesheet" href="{{ "css/menu.css" | relURL }}">
+</head>
+<body>
+    <header>
+        <section class="banner">
+            <div class="logo">
+                <a href="/"><img src="{{ "image/fairness_logo.svg" | relURL }}" alt="Fairness"></a>
+            </div>
+            <div class="concevoir">
+                <a href="/">
+                    <span class="sitename">{{ .Site.Title }}</span><br>
+                    <span class="tagline">{{ $.Param "tagline" }}</span>
+                </a>
+            </div>
+            <div class="push menu">
+                <a href="#menu"><img src="{{ "image/menu-blue.svg" | relURL }}" alt="Menu"></a>
+            </div>
+            {{ partial "menu.html" . }}
+        </section>
+
+    </header>
+    <div class="container_not-found">
+        <div class="not-found">
+            <h1 id="title">Page non trouvée</h1>
+        </div>
+        <hr>
+        <a class="redirection" href="{{ "/" | relURL }}">Retourner à la page d'accueil</a>
     </div>
-</main>
+</body>
