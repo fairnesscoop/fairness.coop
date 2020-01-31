@@ -1,7 +1,7 @@
 ---
 title: "Les bonnes résolutions Fairness"
 publishDate: "2020-01-31"
-description: Toute l'équipe Fairness vous souhaite une bonne année. À cette occasion, nous avons partagé chaque jour de janvier nos bonnes résolutions sur les réseaux sociaux. Les voici toutes réunient dans un seul et même article.
+description: Toute l'équipe Fairness vous souhaite une bonne année. À cette occasion, nous avons partagé chaque jour de janvier nos bonnes résolutions sur les réseaux sociaux. Les voici toutes réunies dans un seul et même article.
 readtime: 5
 thumbnail: calendar-fairtips.jpg
 author: Les coopérateurs Fairness
