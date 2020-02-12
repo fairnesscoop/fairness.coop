@@ -214,22 +214,15 @@ créatives, ainsi que de choisir l’une des deux orientations proposées.
 
 L’alternative graphique retenue fera l’objet d’un jeu de 5 allers-retours. 
 
-### Site vitrine
+### Site Internet
 
 Les maquettes des pages restantes du site seront déclinées suivant la charte graphique validée ensemble, et optimisées
 sur la base de 5 allers-retours.
 
-### Intranet
+### Plateforme de partage de documents en ligne
 
 Les maquettes des pages principales de l’intranet seront déclinées suivant la charte graphique validée ensemble,
 et optimisées sur la base de 5 allers-retours.
-
-### Evolution de l’identité visuelle (option)
-
-La refonte du site web peut également être l’occasion de faire évoluer l’identité visuelle du cabinet. Un lifting du
-logotype pourrait être envisagé, accompagné de propositions de déclinaison sur vos différents livrables
-(publications, plaquettes, etc…). Le niveau d’évolution du logotype (simple lifting ou refonte), ainsi que le nombre
-et le choix des supports faisant l’objet de ce retravail seront à définir ensemble.
 
 ### Cession de droits
 
@@ -318,8 +311,8 @@ Nous accompagnons nos clients dans le cadre de la Tierce Maintenance Applicative
 mesure. Il couvre les bugs, les mises à jour de sécurité, les petites évolutions ou la vérification des sauvegardes
 automatiques auprès de l'hébergeur et récupération de données en cas de demande.
 
-Par expérience par rapport à la volumétrie du périmètre couvert dans cette proposition nous préconisons de prévoir
-1 jour par mois selon le même tarif journalier. Cette durée sera à ajuster selon vos besoins.
+Par expérience et par rapport au périmètre couvert dans cette proposition (Site Internet et GED) nous préconisons
+de provisionner 6 jours de développeur par an. Cette provision sera à ajuster selon vos besoins.
 
 Nous utilisons des outils de bug-tracking (Jira, Trello, sur Github ou autre) permettant de suivre les incidents et
 leur résolution. L’outil permet de jalonner les évolutions, de programmer les maintenances et de prioriser les tickets.
@@ -362,7 +355,7 @@ par exemple en markdown).
 * Plan de reprise d'activité (Cf chapitre [Résilience](#12-résilience))
 * Fichiers sources de la charte graphique.
 * Documentation intégrée à l'outil et/ou imprimable (PDF).
-* Une demie-journée de formation à l'utilisation avancée de la solution mise en œuvre.
+* Une demie-journée de formation ouverte à tous les collaborateurs concernés pour l'utilisation avancée de la solution.
 
 ## 13. Budget et planning
 
@@ -378,24 +371,39 @@ pertinent et convivial pour les utilisateurs.
 certifié écoconception
 * L’alternative graphique retenue fera l’objet d’un jeu de 5 allers-retours. 
 * Planning : mars à avril 2020
-* Budget : x jours à 500 €HT et 1 jour développeur à 580 €HT soit un total de x €HT
+* Budget : 8 jours à 500 €HT et 1 jour développeur à 580 €HT soit un total de 4580 €HT
 
 ### Plateforme de partage de documents en ligne
 
 * Les maquettes des pages principales de l’intranet seront déclinées suivant la charte graphique validée ensemble,
 et optimisées sur la base de 5 allers-retours.
-* 2 ateliers de conception
-* Planning : avril à juin 2020
-* Budget : x jours graphiste à 500 €HT et 46 jours développeurs à 580 €HT soit un total de xxx €HT
+* 2 ateliers de co-conception
+* Budget : 4 jours graphiste à 500 €HT et 46 jours développeurs à 580 €HT soit un total de 28680 €HT
+* Planning : avril à mai 2020
+* Mise en ligne début juin 2020
 
 ### Site Internet
 
 * Les maquettes des pages restantes du site seront déclinées suivant la charte graphique validée ensemble, et optimisées
 sur la base de 5 allers-retours.
-* 3 ateliers de conception
+* 3 ateliers de co-conception
+* Budget : 3 jours graphiste à 500 €HT et 35 jours développeurs à 580 €HT soit un total de 21800 €HT
 * Planning : avril à juin 2020
-* Budget : x jours graphiste à 500 €HT et 35 jours développeurs à 580 €HT soit un total de xxx €HT
 * Mise en ligne le 30 juin 2020
+
+### Tierce Maintenance Applicative (TMA)
+
+Provision de 6 jours développeur par an à 580 €HT soit un total de 3480 €HT par année.
+Cette provision pourra être ajustée à la baisse ou à la hausse selon vos besoins.
+
+### Évolution de l’identité visuelle (optionnel)
+
+La refonte du site web peut également être l’occasion de faire évoluer l’identité visuelle du cabinet. Un lifting du
+logotype pourrait être envisagé, accompagné de propositions de déclinaison sur vos différents livrables
+(publications, plaquettes, etc…). Le niveau d’évolution du logotype (simple lifting ou refonte), ainsi que le nombre
+et le choix des supports faisant l’objet de ce retravail seront à définir ensemble.
+
+Budget : 3000 €HT
 
 ## Conclusion
 
