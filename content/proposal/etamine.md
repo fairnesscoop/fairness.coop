@@ -20,9 +20,10 @@ Sommaire
 9. [Hébergement](#9-hébergement)
 10. [Tierce Maintenance Applicative (TMA)](#10-tierce-maintenance-applicative-tma)
 11. [Open source](#11-open-source)
-12. [Résilience](#12-résilience) 
-13. [Budget et planning](#13-budget-et-planning) 
-14. [Conclusion](#conclusion) 
+12. [Résilience](#12-résilience)
+13. [Livrables](#13-livrables)
+14. [Budget et planning](#14-budget-et-planning) 
+15. [Conclusion](#conclusion)
 
 ## 1. Qui sommes nous ?
 
@@ -57,7 +58,7 @@ Etamine.coop décrit le métier de la coopérative et liste les références. Le
 années. La refonte voulue se découpe en plusieurs lots :
 
 * De rafraîchir le graphisme mais aussi mettre en place un outil de gestion de contenu efficace.
-* De créer un extranet / intranet avec une base documentaires avec un moteur de recherche simple à l'emploi.
+* De créer un extranet / intranet avec une base documentaires et un moteur de recherche simple à l'emploi.
 
 Ce nouveau site doit correspondre aux valeurs d'Etamine : que son empreinte environnemental soit la plus
 réduite possible. Pour cela, une démarche : l'écoconception. Il s'agit d'intégrer les impacts environnementaux
@@ -347,7 +348,7 @@ prendre en cas de sinistre pour revenir sur un environnement fonctionnel en cas 
 détail sur l'utilisation des sauvegardes, prestataires / identifiants utilisés pour l'hébergement et les sauvegardes,
 etc.
 
-### Livrables
+## 13. Livrables
 
 * Le code source hébergé sur un repository Github ou Gitlab qui vous appartient.
 * Spécifications (ou users stories) conservées dans un dossier dédié dans la base de code (format à déterminer,
@@ -357,7 +358,7 @@ par exemple en markdown).
 * Documentation intégrée à l'outil et/ou imprimable (PDF).
 * Une demie-journée de formation ouverte à tous les collaborateurs concernés pour l'utilisation avancée de la solution.
 
-## 13. Budget et planning
+## 14. Budget et planning
 
 Compte tenu des informations à notre connaissance, voici notre estimation pour les différents lots.
 
