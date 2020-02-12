@@ -1,7 +1,7 @@
 ---
 title: "Etamine"
 proposalTitle: "Etamine.coop"
-date: "2020-02-11"
+date: "2020-02-12"
 author: Les coopérateurs Fairness
 aliases:
     - /proposal/etamine.html
