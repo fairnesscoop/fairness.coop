@@ -1,9 +1,12 @@
 <head>
     <title>404 - Page non trouvée</title>
-    <link rel="stylesheet" href="{{ "css/404.css" | relURL }}">
-    <link rel="stylesheet" href="{{ "css/main.css" | relURL }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="stylesheet" href="{{ "css/menu.css" | relURL }}">
+    <link rel="stylesheet" href="{{ "css/main.css" | relURL }}">
+    <link rel="stylesheet" href="{{ "css/blog.css" | relURL }}">
+    <link rel="stylesheet" href="{{ "css/404.css" | relURL }}">
 </head>
+<html>
 <body>
     <header>
         <section class="banner">
@@ -21,13 +24,15 @@
             </div>
             {{ partial "menu.html" . }}
         </section>
-
     </header>
-    <div class="container_not-found">
-        <div class="not-found">
-            <h1 id="title">Page non trouvée</h1>
+    <main>
+    <section class="not-found-content">
+        <div class="not-found-content_content">
+            <h1>Page non trouvée</h1>
+            <p>
+                Désolé, la page que vous cherchez n'existe pas ou plus.
+            </p>
         </div>
-        <hr>
-        <a class="redirection" href="{{ "/" | relURL }}">Retourner à la page d'accueil</a>
-    </div>
-</body>
+    </section>
+    </main>
+    {{ partial "footer.html" . }}

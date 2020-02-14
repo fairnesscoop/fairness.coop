@@ -6,10 +6,35 @@
     text-decoration: none;
 }
 
-.container_not-found{
+.container-not-found{
     text-align: center;
 }
 
 .redirection{
     color: rgb(91, 195, 191)
+}
+
+.not-found-content{
+    width: 80%;
+    background-color: #F2F2F2;
+    min-height: 300px;
+    margin:auto;
+}
+
+.not-found-content_content{
+    margin:auto;
+}
+
+@media screen and (max-width: 599px) {
+    .container-not-found{
+        font-size: 0.75em;
+    }
+
+    .not-found-content{
+        width: 100%;
+    }
+
+    .not-found-content_content{
+        padding:10px;
+    }
 }
