@@ -5,6 +5,8 @@ description: "Arrivé dans ma nouvelle équipe depuis plus d'un an maintenant, j
 readtime: 5
 thumbnail: design-review.png
 author: Les coopérateurs Fairness
+gCO2e: 1.3
+EcoindexLink: http://www.ecoindex.fr/resultats/?id=63632
 aliases:
     - /blog/2019/design-review.html
 ---

@@ -5,6 +5,8 @@ description: Les recruteurs aussi font de la veille. Si si, je vous jure, de la 
 readtime: 10
 thumbnail: vieprovieperso-square.png
 author: Les coopérateurs Fairness
+gCO2e: 1.32
+EcoindexLink: http://www.ecoindex.fr/resultats/?id=63634
 aliases:
     - /blog/2019/equilibre-vie-pro-vie-perso.html
 ---

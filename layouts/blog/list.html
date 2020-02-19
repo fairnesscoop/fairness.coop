@@ -35,5 +35,9 @@
 
 </main>
 
+{{ if isset .Params "gco2e" }}
+    <div class="blue-impact"><div><a href="{{ .Params.EcoindexLink }}">{{ .Params.gCO2e }} <span class="unit">gCO2e</span></a></div></div>
+{{ end }}
+
 {{ partial "footer.html" . }}
 

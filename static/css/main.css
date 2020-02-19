@@ -85,6 +85,38 @@ footer {
     padding: 0 20px;
 }
 
+.blue-impact {
+    background: url('/image/blue-cloud.svg') bottom center no-repeat;
+    background-size: 80px;
+    width: 80px;
+    height: 50px;
+    bottom: 10px;
+    right: 10px;
+    position: fixed;
+    padding-bottom: 2px;
+}
+
+
+.blue-impact div {
+    width: 80px;
+    height: 50px;
+    text-align: center;
+    font-size: 0.8em;
+    font-weight: bold;
+    display: table-cell;
+    vertical-align: bottom;
+}
+
+.blue-impact div a {
+    color: #233344;
+    text-decoration: none;
+}
+
+.blue-impact span.unit {
+    display: block;
+    font-size: 0.8em;
+}
+
 footer ul {
     display: flex;
     flex-direction: row;

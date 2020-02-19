@@ -56,6 +56,8 @@
 
 </main>
 
-<div class="impact"><div><a href="http://www.ecoindex.fr/resultats/?id=48715">1.3 <span class="unit">gCO2e</span></a></div></div>
+{{ if isset .Params "gco2e" }}
+    <div class="impact"><div><a href="{{ .Params.EcoindexLink }}">{{ .Params.gCO2e }} <span class="unit">gCO2e</span></a></div></div>
+{{ end }}
 
 {{ partial "footer.html" . }}

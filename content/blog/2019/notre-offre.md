@@ -5,6 +5,8 @@ description: Notre offre d'accompagnement, nos compétences langages, technologi
 readtime: 5
 thumbnail: notre-offre.png
 author: Les coopérateurs Fairness
+gCO2e: 1.31
+EcoindexLink: http://www.ecoindex.fr/resultats/?id=63629
 aliases:
     - /blog/2019/notre-offre.html
 ---

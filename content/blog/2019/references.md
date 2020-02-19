@@ -5,6 +5,8 @@ description: Experts dans la réalisation de produits web et mobile, nous intég
 readtime: 5
 thumbnail: references.png
 author: Les coopérateurs Fairness
+gCO2e: 1.34
+EcoindexLink: http://www.ecoindex.fr/resultats/?id=63628
 aliases:
     - /blog/2019/references.html
 ---
