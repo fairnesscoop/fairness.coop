@@ -1,7 +1,7 @@
 ---
 title: "Ceebios"
-proposalTitle: "Refonte du site Ceebios"
-date: "2020-02-05"
+proposalTitle: "Démarche d'écoconception nouveau site Ceebios"
+date: "2020-02-19"
 author: Les coopérateurs Fairness
 ---
 
@@ -18,9 +18,9 @@ Sommaire
 9. [Hébergement](#9-hébergement)
 10. [Tierce Maintenance Applicative (TMA)](#10-tierce-maintenance-applicative-tma)
 11. [Résilience](#11-résilience)
-12. [Open source et open data](#12-open-source-et-open-data)
-13. [Budget et planning](#13-budget-et-planning)
-14. [Conditions de facturation](#14-conditions-de-facturation)
+12. [Contribution aux communs](#12-contribution-aux-communs)
+13. [Livrables](#13-livrables)
+14. [Budget et planning](#14-budget-et-planning)
 15. [Conclusion](#conclusion)
 
 ## 1. Qui sommes nous ?
@@ -53,17 +53,22 @@ c'est à dire réduire au minimum la quantité de ressources informatiques néce
 information pertinentes aux utilisateurs du site. Il s'agit aussi d'une démarche de conception plus responsable
 notamment en prenant en compte l'accessibilité dès le début du projet.
 
-Le site actuel est trop gros : indice E de la page d'accueil sur ecoindex.fr, 5974 Ko téléchargés et 114 requêtes serveur
-effectuées.
+Le site actuel est trop gros : indice E de la page d'accueil sur ecoindex.fr, près de 6 Mo téléchargés et 114 requêtes
+serveur effectuées.
+
+Durant cette démarche d'écoconception, un guide de bonnes pratiques sera au fur et à mesure écrit à l'attention des
+animateurs du site : rédacteurs, contributeurs, graphistes, développeurs...
 
 La cible du site : les entreprises, les étudiants (une page dédiée) et le grand public (pour l'instant pas adressé
-sur la version actuelle).
+sur la version actuelle). Ceebios souhaite mettre mieux en avant ses activités. Il existe un espace adhérents avec
+un seul mot de passe générique pour tous.
+De plus, il est envisagé que le nouveau site soit en plusieurs langues (français, anglais).
 
-Ceebios souhaite mettre mieux en avant ses activités. Il existe un espace adhérents avec un seul mot de passe générique
-pour tous.
+L'optimisation du référencement naturel (SEO) est important : la sémantique HTML et les différentes entêtes seront
+respectés. La conservation du référencement du site actuel est également nécessaire : garder les mêmes urls ou
+rediriger les anciennes urls vers les nouvelles.
 
-Durant cette démarche d'écoconception, un guide de bonnes pratiques seront au fur et à mesure écrit à l'attention des
-animateurs du site : rédacteurs, contributeurs, graphistes, développeurs...
+L'objectif est de publier cette nouvelle version avant l'évènement Biomim’expo qui se tien les 20 et 21 octobre 2020.
 
 ## 3. Méthodologie
 
@@ -123,7 +128,7 @@ finaliser le rendu général.
 * Cadrage pour aligner l'équipe, sous forme d'ateliers pour écrire chaque User Story (la spécification fonctionnelle
 la plus atomique et testable possible).
 Réflexion sur les architectures technique, organisationnelle et de l'information : globalement le comment on fabrique le site.
-* Itérations de 2 semaines. Pendant chaque itération, au moins un atelier (2 si possible), pour définir le prochaine
+* Itérations (de 2 semaines par exemple). Pendant chaque itération, au moins un atelier, pour définir le prochaine
 itération, et défricher les itérations suivantes, et toujours avoir une vue macro sur l'objectif à atteindre.
 * Rétrospective d'équipe afin de s'améliorer
 * Mise en production finale
@@ -146,7 +151,13 @@ Et, à chaque itération :
 Les démarches d'écoconception et d'accessibilité sont en place dès le tout début du projet.
 
 Nous formons une équipe : graphiste, porteur du projet, développeurs participent dès le départ à la co-création afin de
-mettre en place ces bonnes pratiques. Cela peut être le choix d'utiliser une police système, la taille et poids des images,
+mettre en place ces bonnes pratiques.
+
+La démarche d'écoconception est normée (ISO 14062) : c'est l'intégration des aspects environnementaux dans la conception
+et le développement de produit. Cela passe par une définition d’une unité fonctionnelle à étudier
+(« rechercher et consulter un article » par exemple). 
+
+Cela passe par des optimisations comme le choix d'utiliser une police système, la taille et poids des images,
 la génération de pages statiques, éviter les "embed" de carte ou de vidéo... différents leviers afin qu'une page web
 reste une page web sobre, c'est à dire une information claire pour l'utilisateur, alléger de tout gras numérique.
 
@@ -154,14 +165,13 @@ Nous préconisons de concevoir avec une approche "mobile-first" afin d'aller à 
 disponibles à la fois sur mobile et sur écran de bureau.
 
 Pour mesurer l’empreinte technique de chaque page (poids, complexité, etc.) et l’empreinte environnementale associée
-(gaz à effet de serre et eau), nous utiliserons ecoindex.fr. Nous pourrions (à voir ensemble) déterminer un critère ou
-des critères à respecter pour chacune des pages du site.
+(gaz à effet de serre et eau), nous utiliserons ecoindex.fr. Nous pourrions ensemble déterminer un critère ou
+des critères à respecter pour chacune des pages du site et un budget (Ko, empreinte environnemental) à respecter pour
+les unités fonctionnelles étudiées (peut mobiliser une navigation sur plusieurs pages).
 
-Le principe est surtout d'être exemplaire et d'aligner son site avec son métier dans la performance énergétique et
-l'empreinte environnemental.
-
-Nous vous soumettons aussi la proposition d'avoir une page sur votre site expliquant la démarche d’écoconception et
-quels sont les impacts environnementaux et sociaux du numérique. Nous vous aiderons à rédiger ce contenu.
+Le principe est d'être exemplaire. Nous vous soumettons aussi la proposition d'avoir une page sur votre site expliquant
+la démarche d’écoconception et quels sont les impacts environnementaux et sociaux du numérique. Nous vous aiderons à
+rédiger ce contenu.
 
 Pour en savoir plus
 
@@ -171,12 +181,16 @@ Pour en savoir plus
 
 ## 5. Design UX / UI
 
+Chloé Lequette s'est proposée de prendre le rôle de designer UX / UI pour ce projet.
 
-
-
-
+Nous vous accompagnons à travers d'ateliers en amenant nos compétences en terme d'éco-conception. L'idée est de
+travailler en amont du développement sur l'expérience utilisateur (UX) par exemple en établissant des maquettes des
+principaux parcours utilisateurs. Ensuite, nous travaillerons le design graphique (UI), la page d'accueil et les autres
+pages clé à déterminer ensemble.
 
 ## 6. Préconisations technologiques
+
+### Approche orientée open source et artisanat du logiciel
 
 Notre orientation Open Source nous pousse à utiliser un maximum de solutions issues de cette communauté.
 
@@ -185,18 +199,27 @@ Nous sommes des artisans du web et du logiciel. Nous adhérons à la pensée Sof
 Notre approche s'inspire des conceptions en Domain Driven Design, en architecture hexagonale, ou en Tests Driven
 Development.
 
-https://getgrav.org/ qui permet de concevoir des sites rapides basés sur la génération statique de pages, c'est à dire
-sans utilisation de base de données à la consultation des pages.
+### Gestion des contenus (CMS)
+
+[Grav](https://getgrav.org/) est un CMS qui permet de concevoir des sites rapides basés sur la génération statique
+de pages, c'est à dire sans utilisation de base de données à la consultation des pages.
 
 Ce principe est le plus efficace car il sollicite le moins possible le serveur et pour l'utilisateur,
 c'est une page qui se charge rapidement.
 
 L'autre avantage de cette architecture, c'est la sécurité qui est renforcée du fait que le contenu est déjà généré et
-qu'il y a donc moins de risque d'injection SQL ou de cross-site scripting (XSS).
+qu'il y a donc moins de risque d'injection SQL par exemple.
 
+Grav comporte des [fonctionnalités d'administration](https://learn.getgrav.org/16/admin-panel/page/editor) des contenus
+du site accessibles même pour les personnes non techniques.
 
+Grav gère nativement le [multi-langage](https://learn.getgrav.org/16/content/multi-language) des interfaces et des
+contenus. Nous verrons ensemble quelle stratégie choisir pour la gestion des contenus : arborescence identique quelque
+soit la langue ou bien chaque langue a sa propre arborescence de contenus.
 
-
+Grav est un CMS open source écrit en PHP et qui s'appuie sur des composants [Symfony](https://symfony.com/)
+et [Twig](https://twig.symfony.com/), ce qui est gage de qualité.
+Le projet existe depuis plus de 6 ans et profite [d'une documentation de qualité et d'une importante communauté](https://getgrav.org/about).
 
 ## 7. Accessibilité
 
@@ -205,19 +228,34 @@ respectant les règles d'accessibilité des contenus Web (WCAG) 2.0.
 
 ## 8. Suivi d'audience
 
-Respect des données privées de l'utilisateur (RGPD) et suivi d'audience : instance [Matomo](https://matomo.org/)
-auto hébergée et données anonymisées permettant l'exemption de la demande de consentement pour la pose d'un cookie
-(selon la CNIL).
+Pour suivre l'audience du site et en respect des données privées de l'utilisateur (RGPD), nous recommandons d'installer
+une instance [Matomo](https://matomo.org/) et de l'auto-héberger.
+
+Nous paramétrons Matomo afin que les données soient anonymisées permettant ainsi l'exemption de la demande de
+consentement pour la pose d'un cookie (selon la CNIL).
 
 ## 9. Hébergement
 
 Les hébergements "green" ne sont pas déterminants dans le fait d'écoconcevoir un service numérique.
-Toutefois nous recommandons le suisse Infomaniak qui a une charte écologique.
-Le français OVH est une alternative intéressante en terme d'impact environnemental, et surtout vos données restent en France.
-Nous pouvons aussi envisager de travailler avec un hébergeur engagé chez les Chatons https://chatons.org/fr,
+
+Toutefois nous recommandons le suisse Infomaniak qui est un des seuls hébergeurs à avoir une
+[charte écologique](https://www.infomaniak.com/fr/hebergeur-ecologique/charte-ecologique).
+
+Le français OVH est une alternative intéressante en terme d'impact environnemental, et surtout vos données restent
+en France.
+
+Nous pouvons aussi envisager de travailler avec un hébergeur engagé chez les [Chatons](https://chatons.org/fr),
 Collectif des Hébergeurs Alternatifs, Transparents, Ouverts, Neutres et Solidaires.
 
 Les frais d'hébergement ou toute autre service sont à votre charge, vous permettant d'être indépendants de nous.
+
+Par exemple, pour Infomaniak, le tarif est à partir de 5.75 €/mois et comprenant les prestations suivantes :
+
+* 100 Go d'espace disque SSD
+* Noms de domaines illimités
+* Bases de données MySQL illimitées
+* Sauvegarde dans un autre datacenter
+* Certificats SSL EV et DV (Let's Encrypt, Sectigo) 
 
 ## 10. Tierce Maintenance Applicative (TMA)
 
@@ -238,46 +276,55 @@ Nous cultivons votre indépendance vis à vis de nous. Vous pourrez facilement p
 On fera tout pour que ça ne se produise pas à travers une coopération étroite.
 
 Il est important par exemple d'avoir une documentation permettant pour un développeur de démarrer le projet rapidement.
-Qualité logicielle : des tests unitaires et fonctionnels sont écrits pour garantir fiabilité et pérennité du code.
-Le code métier est découplé du framework et du langage permettant une montée de version plus facilement.
+
+Des tests unitaires et fonctionnels sont écrits pour garantir la fiabilité et la pérennité du code.
+Le code métier est découplé du framework et du langage permettant une montée de version plus facilement
+(Domain Driven Design, architecture hexagonale).
 
 La documentation et les user stories (spécifications) sont stockées dans la base de code du projet afin de garantir
-qu'elle est toujours à portée de main.
+qu'elles sont toujours à portée de main.
 
-## 12. Open source et open data
+## 12. Contribution aux communs
 
-### Code libéré en licence open source
-
-Le code de l'application qui est produit est libéré sous licence open source dès le début du projet et publié sur Gitlab
-ou Github.
-L'intérêt pour vous est la transparence, le code ouvert à amélioration ou la correction de bugs, contribution aux
-communs et donc code réutilisable pour d'autres usages.
-Cela permet à d'autres organismes ou des associations d'utiliser cet outil.
-
-### Contenu libéré en licence creative commons
+Nous préconisons - ce n'est pas une obligation - de mettre votre code en open-source : l'intérêt pour vous est la
+transparence, le code ouvert à amélioration ou la correction de bugs, contribution aux communs et donc code réutilisable
+pour d'autres usages.
 
 Les contenus publiés peuvent être libérés sous licence Creative Commons.
 
-## 13. Budget et planning
+## 13. Livrables
 
-Comme présenté dans notre démarche, ce document n'est pas exhaustif et n'a pas lieu d'engagement sur le périmètre.
-Nous nous engageons sur des moyens. Le budget et le planning sont fixes, seul le périmètre est variable avec pour
-objectif de mettre en ligne un jeu sobre, pertinent et convivial pour les utilisateurs.
+* Le code source hébergé sur un repository Github ou Gitlab qui vous appartient.
+* Documentation démarrage du projet à destination des développeurs et intégrée au code ("Read me").
+* Spécifications (ou users stories) conservées dans un dossier dédié dans la base de code (format à déterminer,
+par exemple en markdown).
+* Guide de bonnes pratiques co-écrit et à l'attention des animateurs du site.
 
-En terme de planning, nous estimons :
+## 14. Budget et planning
 
-* 
+Comme présenté dans notre démarche, cette proposition n'est pas exhaustive et n'a pas lieu d'engagement.
+Nous nous engageons sur des moyens avec un budget et un planning fixes, avec pour objectif un service sobre,
+pertinent et convivial pour les utilisateurs.
 
+Compte tenu des informations à notre connaissance, voici notre estimation pour ce projet.
 
+* 3 ou 4 ateliers de co-conception
+* Budget : 36 jours développeurs à 650 €HT / jour soit un total de 23400 €HT
+* Planning : démarrage au plus tard en avril pour mise en ligne en septembre 2020
 
-## 14. Conditions de facturation
+### Conditions de facturation
 
 Nos conditions de règlement sont :
 
 * 30% à la commande,
-* 40% à mi-projet, après validation d'une démo,
-* 30% à la livraison
+* 40% à mi-projet, après validation d'une version démo intermédiaire,
+* 30% à la livraison,
 * Paiement à 30 jours après établissement de la facture.
+
+### Tierce Maintenance Applicative (TMA)
+
+Provision de 6 jours développeur par an à 650 €HT / jour soit un total de 3900 €HT par année.
+Cette provision pourra être ajustée à la baisse ou à la hausse selon vos besoins.
 
 ## Conclusion
 
