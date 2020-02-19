@@ -98,8 +98,7 @@ adaptative des méthodologies projet.
 Les approches agiles se basent sur quelques principes fondamentaux :
 
 * travailler en coopération pour faire émerger une solution qui correspond aux besoins utilisateur
-* privilégier ce qui apporte le plus de valeur ajoutée aNous sommes prêts à passer plus de temps que prévu s'il le faut afin de finaliser le projet. 
-ux utilisateurs
+* privilégier ce qui apporte le plus de valeur ajoutée aux utilisateurs
 * montrer rapidement ce qu’on construit pour vérifier qu’on est sur la bonne voie
 * savoir se remettre en cause : pour améliorer le produit et pour progresser en tant qu’équipe
 * réaliser un produit de qualité pour pérenniser son utilisation
@@ -181,7 +180,7 @@ Pour en savoir plus
 
 ## 5. Design UX / UI
 
-Chloé Lequette s'est proposée de prendre le rôle de designer UX / UI pour ce projet.
+Chloé Lequette a proposé de prendre le rôle de designer UX / UI pour ce projet.
 
 Nous vous accompagnons à travers d'ateliers en amenant nos compétences en terme d'éco-conception. L'idée est de
 travailler en amont du développement sur l'expérience utilisateur (UX) par exemple en établissant des maquettes des
