@@ -32,6 +32,14 @@
   right:0;
   left:0;
   width:92%;
+  display:flex;
+  justify-content: space-between;
+  margin-top: 20px;
+  align-items:center;
+}
+
+.close-menu img{
+  height: 70px;
 }
 
 .close-msg{
@@ -74,6 +82,10 @@
   .close-menu{
     width:970px;
     margin: auto;
+  }
+
+  .close-menu img{
+    height: auto;
   }
 
   .main-menu .links{
