@@ -7,6 +7,12 @@ thumbnail: calendar-fairtips.jpg
 author: Les coopérateurs Fairness
 gCO2e: 1.32
 EcoindexLink: http://www.ecoindex.fr/resultats/?id=63622
+firstname: Richard
+lastname: Hanna
+picture: richard-hanna.png
+github: https://github.com/supertanuki
+twitter: https://twitter.com/richardhanna
+function: développeur senior
 ---
 ## 1. Déconnexion
 Pour commencer et par respect du [droit à la déconnexion](https://la-petite-boite-a-outils.org/fiche-n-23-le-droit-a-la-deconnexion/), nous ne publierons pas de "bonnes résolutions" les jours fériés et les week-ends.
