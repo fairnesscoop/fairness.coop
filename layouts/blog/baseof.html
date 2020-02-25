@@ -1,17 +1,13 @@
 {{ partial "head.html" . }}
 
 {{ partial "header.html" . }}
-
-<main>
-    <section>
+<div class="container_header-post">
+    <section class="header-post">
         <div class="content">
             <h1>{{ .Title }}</h1>
             <p class="indicators">
                 <img src="{{ "image/date.svg" | relURL }}" alt=""> {{ .PublishDate.Format "02/01/2006" }}
                 <img src="{{ "image/read-time.svg" | relURL }}" alt="" class="read-time"> Temps de lecture : {{ $.Params.readtime }} minutes.
-            </p>
-            <p>
-                {{ .Description }}
             </p>
         </div>
         <div class="image">
@@ -24,10 +20,17 @@
             </picture>
         </div>
     </section>
+</div>
+<main>
+    <div class="description">
+        <p>
+            {{ .Description }}
+        </p>
+    </div>
     <div class="article-content">
-{{ block "main" . }}
+        {{ block "main" . }}
 
-{{end}}
+        {{end}}
     </div>
 </main>
 

@@ -12,34 +12,27 @@ main {
     padding: 0 20px;
 }
 
-main section {
-    font-size: 1.2em;
-    font-weight: lighter;
-    letter-spacing: 0.05em;
-    margin-bottom: 40px;
-    line-height: 1.6em;
-    padding-right: 0px;
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    flex-grow: 1;
-    align-items: stretch;
-    align-content: stretch;
+.container_header-post{
+    background-image: linear-gradient(to right, #F2F2F2 0%, #F2F2F2 79%, #F2F2F2 79%, #F2F2F2 100%);
 }
 
-main section .content, article section {
-    background-color: #F2F2F2;
+main .description{
+    padding: 30px 0px;
+    font-size: 1.3em;
+    font-weight: bold;
+    display:flex;
+    justify-content: center;
 }
 
-main section .content .indicators img {
+section .content .indicators img {
     vertical-align: middle;
 }
 
-main section .content .indicators img.read-time {
+section .content .indicators img.read-time {
     margin-left: 20px;
 }
 
-main section .content h2 a {
+section .content h2 a {
     color: #103b69;
     font-weight: bold;
     text-decoration: none;
@@ -113,38 +106,58 @@ footer li a {
 }
 
 @media screen and (min-width: 668px) {
-    main section {
+
+    .container_header-post{
+        background: conic-gradient(at 67% 30%, #F2F2F2 0%, #00a199 30%, #F2F2F2 50%);
+        height: 350px;
+        margin: 50px 0px;
+    }
+
+    .header-post{
+        display:flex;
+        justify-content: space-between;
+        max-width: 970px;
+        margin: auto;
+    }
+
+    .content{
+        display:flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    section {
         flex-wrap: nowrap;
     }
 
-    main section div {
+    section div {
         padding: 0;
     }
 
-    main section .content {
-        padding: 50px 225px 25px 100px;
+    section .content {
+        padding: 0px 225px 0px 100px;
         min-height: 300px;
     }
 
-    main section .image {
+    section .image {
         width: 175px;
         height: 350px;
         position: relative;
         left: -175px;
     }
 
-    main section .image picture,
-    main section .image img {
+    section .image picture,
+    section .image img {
         border-radius: 50%;
         width: 350px;
     }
 
-    main section:nth-child(2n) .content {
+    section:nth-child(2n) .content {
         order: 2;
         padding: 50px 100px 0 225px;
     }
 
-    main section:nth-child(2n) .image {
+    section:nth-child(2n) .image {
         order: 1;
         left: 0;
     }
@@ -173,7 +186,7 @@ footer li a {
         margin-top: 0;
     }
 
-    main section .content {
+    section .content {
         padding: 10px;
     }
 }

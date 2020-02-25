@@ -4,8 +4,8 @@
 
 <main>
     {{ range .Paginator.Pages}}
-
-        <section>
+    <div class="container_header-post">
+        <section class="header-post">
             <div class="content">
                 <h2 id="{{ .File.TranslationBaseName }}"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
                 <p class="indicators">
@@ -28,6 +28,7 @@
                 </a>
             </div>
         </section>
+    </div>
 
     {{end}}
 
