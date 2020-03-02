@@ -1,7 +1,7 @@
 ---
 firstname: Mathieu
 lastname: Marchois
-function: Développeur senior
+position: Développeur senior
 picture: mathieu-marchois.png
 altPicture: mathieu-marchois-alt.png
 github: 'https://github.com/mmarchois'
