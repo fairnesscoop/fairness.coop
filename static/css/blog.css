@@ -135,7 +135,11 @@ footer li a {
      display:flex;
      flex-direction: column;
      justify-content: center;
- }
+}
+
+.article-author .presentation .presentation-details .name, .function{
+    margin: 5px;
+}
 
 .article-author .presentation .presentation-details .name:first-child{
     font-weight: bold;
@@ -144,6 +148,7 @@ footer li a {
 .article-author .social-reseau{
     display:flex;
     align-items: center;
+    margin-right: 40px;
 }
 
 @media screen and (min-width: 668px) {
@@ -210,16 +215,21 @@ footer li a {
     main section .content {
         padding: 10px;
     }
+
+
     .article-author{
-        flex-direction: column;
-        align-items: center;
         border-radius: 70px;
-        padding: 10px;
+    }
+
+    .article-author .presentation .img img{
+        width: 70px;
     }
 
     .article-author .social-reseau{
-        margin-top: 20px;
+        margin-right: 0px;
     }
+
+
 }
 
 /*Pagination*/

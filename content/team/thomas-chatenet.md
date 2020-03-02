@@ -1,8 +1,9 @@
 ---
 firstname: Thomas
 lastname: Chatenet
-title: Développeur junior
+function: Développeur junior
 picture: thomas-chatenet.png
 altPicture: thomas-chatenet-alt.png
 github: 'https://github.com/ctom77'
+articleAuthor: thomas-chatenet
 ---

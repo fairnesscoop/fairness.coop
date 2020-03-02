@@ -1,9 +1,10 @@
 ---
 firstname: Richard
 lastname: Hanna
-title: Développeur senior
+function: Développeur senior
 picture: richard-hanna.png
 altPicture: richard-hanna-alt.png
 github: 'https://github.com/supertanuki'
 twitter: 'https://twitter.com/richardhanna'
+articleAuthor: richard-hanna
 ---

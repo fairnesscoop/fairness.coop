@@ -30,26 +30,33 @@
 {{end}}
     </div>
 
-    <div class="article-author">
-        <div class="presentation">
-            <div class="img">
-                <img src="/team/images/{{ .Params.picture }}" alt="Photo de profil de {{ .Params.firstname }} {{ .Params.lastname }}">
-            </div>
-            <div class="presentation-details">
-                <p class="name">{{ .Params.firstname }} {{ .Params.lastname }}</p>
-                <p class="function">{{ .Params.function }}</p>
-            </div>
-        </div>
-        <div class="social-reseau">
-            {{ if (isset .Params "github") }}
-                <a class="githubAndTwitter" href="{{ .Params.github }}"><img src="/image/GitHub.svg" alt=""></a>
-            {{end}}
+    {{ $author := where (.Site.RegularPages.RelatedIndices . "articleAuthor" ) "Type" "team" }}
 
-            {{ if (isset .Params "twitter") }}
-                <a class="githubAndTwitter" href="{{ .Params.twitter }}"><img src="/image/Twitter.svg" alt=""></a>
-            {{end}}
+    {{ range $author }}
+
+        <div class="article-author">
+            <div class="presentation">
+                <div class="img">
+                    <img src="/team/images/{{ .Params.picture }}" alt="Photo de profil de {{ .Params.firstname }} {{ .Params.lastname }}">
+                </div>
+                <div class="presentation-details">
+                    <p class="name">{{ .Params.firstname }} {{ .Params.lastname }}</p>
+                    <p class="function">{{ .Params.function }}</p>
+                </div>
+            </div>
+            <div class="social-reseau">
+                {{ if (isset .Params "github") }}
+                    <a class="githubAndTwitter" href="{{ .Params.github }}"><img src="/image/GitHub.svg" alt=""></a>
+                {{end}}
+
+                {{ if (isset .Params "twitter") }}
+                    <a class="githubAndTwitter" href="{{ .Params.twitter }}"><img src="/image/Twitter.svg" alt=""></a>
+                {{end}}
+            </div>
         </div>
-    </div>
+
+    {{ end }}
+
 </main>
 
 {{ if isset .Params "gco2e" }}
