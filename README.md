@@ -2,37 +2,33 @@
 
 ## Install
 
-Install Hugo : https://gohugo.io/getting-started/installing
+You need [docker](https://docs.docker.com/get-docker/) on your machine.
 
-For MacOS
+Run the following command:
 
-    $ brew install hugo
-
-For Ubuntu
-
-    $ snap install hugo
-
-## Git clone the project
-
-    $ git clone --recurse-submodules git@github.com:fairnesscoop/fairness.coop.git
+    make setup
 
 ## Usage
 
-Generate the public folder
-
-    $ hugo
-
 Run the server with hot reloading
 
-    $ hugo server -D
+    make run
 
+Generate the public folder
+
+    make build
 
 ## Deploy
 
-You can make `deploy.sh` executable with
+The deployment is handle by a read-only [repository](https://github.com/fairnesscoop/fairness.coop.static) linked to the public dir.
+You need to build the content of the blog and then commit it to the repository.
 
-    $ chmod +x deploy.sh
+To do that, just run the following:
 
-To deploy
+    make deploy
 
-    $ ./deploy.sh
+## Change Hugo version
+
+If you want to change the Hugo version used, you need to modify the `HUGO_VERSION` env var from [docker/hugo/Dockerfile#L49](docker/hugo/Dockerfile#L49) and then run :
+
+    make build-docker
