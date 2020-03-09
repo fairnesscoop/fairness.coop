@@ -1,12 +1,12 @@
 ---
 title: "Notre transformation en coopérative"
-publishDate: "2020-03-07"
+publishDate: "2020-03-09"
 description: Depuis le 15 Octobre 2019, nous sommes Fairness, une coopérative de 6 personnes. Voici notre cheminement.
 readtime: 10
 thumbnail: fairness.png
 author: Les coopérateurs Fairness
 gCO2e: 1.32
-EcoindexLink: http://www.ecoindex.fr/resultats/?id=63622
+EcoindexLink: http://www.ecoindex.fr/resultats/?id=67961
 ---
 Depuis le 15 Octobre 2019, nous sommes Fairness, une coopérative de 6 personnes.
 
