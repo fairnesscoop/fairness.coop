@@ -10,12 +10,12 @@ EcoindexLink: http://www.ecoindex.fr/resultats/?id=67961
 ---
 Depuis le 15 Octobre 2019, nous sommes Fairness, une coopérative de 6 personnes.
 
-# Genèse 
+## Genèse 
 Il nous semblait important de vous raconter notre cheminement jusqu’à cette étape importante pour nous.
 
 Tout d’abord, Fairness est l’aboutissement d’une réflexion qui a duré plus de 5 ans. Fairness est née de la transformation d’Elao Paris en une coopérative.
 Elao Paris est née en 2015, sur une volonté de Sébastien et Xavier, de vouloir monter à Paris une société un peu différente, avec un management et une hiérarchie très horizontale. Avec une bienveillance et une confiance en tout le monde.
- Richard et Nicolas se sont joints à l’aventure dès le début et ont pu pleinement prendre part à cette forme un peu hybride d’entreprise.
+Richard et Nicolas se sont joints à l’aventure dès le début et ont pu pleinement prendre part à cette forme un peu hybride d’entreprise.
 Bien que la forme juridique de l’entreprise était assez classique, une SAS avec un gérant, qu’on peut retrouver dans beaucoup d’entreprise de ce secteur, la quasi totalité des décisions, des choix de clients, de la gestion de projet étaient collégiales.
 
 Au cours de ces 5 années, beaucoup de choses se sont passées, de nombreux projets, de nombreuses personnes nous ont rejoins et quittés mais l’esprit initial était toujours là.
@@ -28,7 +28,7 @@ Il devenait difficile de communiquer sur notre façon d’être, notre façon de
 
 Nous voulions pouvoir faire transparaitre notre façon de fonctionner directement dans la structure de la société. Et il nous a semblé, de façon tout à fait logique, qu’il fallait qu’on transforme notre entreprise en coopérative.
 
-# Processus
+## Processus
 
 Pour nous transformer, nous avons décider de nous faire accompagner par l’URSCOP, Union régionale des SCOP, qui a l’habitude de gérer ce type de transition.
 
@@ -40,7 +40,7 @@ Notre transition n’était pas très “compliquée”, dans le sens où le gé
 La transition s’est donc majoritairement centrée sur la sortie des actionnaires historiques, et l’entrée, en tant qu’individu, des coopérateurs.
 
 
-## Changement de nom et identité graphique
+### Changement de nom et identité graphique
 
 En parallèle de notre transformation, nous étions obligé de changer de nom. Nous souhaitions avoir une identité qui nous est propre et pouvoir s’émanciper de notre société soeur Elao.
 Nous souhaitions à la fois disposer d’un nom qui nous parle, qui permette de mettre en avant qui nous sommes et en même temps facile à retenir.
@@ -51,19 +51,19 @@ Pour la partie identité graphique, nous avons décidé de nous faire accompagn�
 
 Nous avons réalisé plusieurs ateliers de co-création avec toute l'équipe et Stéphanie Matharet, n’hésitez pas à jeter un oeil à ses travaux ! [https://www.behance.net/matharet](https://www.behance.net/matharet)
 
-## Le nom de domaine
+### Le nom de domaine
 
 Bien évidemment, en tant qu’entreprise du numérique, un des premières questions que nous nous sommes posée a été : Comment réserver un nom de domaine en .coop.
 Sur ce point, nous n’avons pas de réponse miracle. Le tld coop étant réservé aux coopératives, durant notre phase de transition, nous ne pouvions en disposer au moment où nous le souhaitions.
 Nous avons donc pris la décision d’acheter un premier nom de domain sans le fameux tld coop. Une fois la procédure de transformation bien enclenchée, avec une date effective de transformation, nous avons enfin concrétiser la démarche et acheter le nom de domaine fairness.coop. Et effectivement, une vérification, un mois et demi plus tard a été faite concernant notre entreprise, pour vérifier que nous répondions bien aux critères permettant de disposer de ce nom de domaine.
 
-## Structure
+### Structure
 
 Pour faciliter le travail de tous les coopérateurs et décharger le gérant originel, Sébastien, de la charge qu’il avait depuis les débuts, nous avons décidé de nous tourner vers une co-gérance. Ce qui permet de répartir les tâches entre les coopérateurs et ne pas impacter qu’une seule personne. Cela permet aussi, aux coopérateurs gérants, de découvrir leur fonction progressivement.
 
-# Maintenant
+## Maintenant
 
-## Fonctionnement
+### Fonctionnement
 
 Notre fonctionnement était déjà axé sur l’échange constant entre tous les salariés. Nous avons donc continuer ces rituels, nos dojos, qui nous permettent d’échanger sur ce que fait chacun, sur la vie de l’entreprise, sur les décisions à prendre, les choses à venir.
 Ces dojos se déroulent généralement le vendredi, et permettent une vraie synchronisation de chacun.
@@ -71,25 +71,25 @@ Certains d’entre nous étant en mission, même en gardant un contact quotidien
 Ces dojos se déroulent sous la forme de mini assemblée générale, avec un ordre du jour et des décisions à prendre.
 Pour la suite de la journée dojo, je vous renvoie vers notre article [Remue Méninge Collectif](/blog/2019/remue-meninges-collectif.html) où nous détaillons le reste de ce que nous y faisons.
 
-## Financier
+### Financier
 
 La partie financière est forcément une partie qui arrive rapidement sur la table lorsqu'on est tous impliqué dans les décisions budgétaires.
 Il n'y a pas de miracle de ce côté. Ce que nous avons mis en place c'est la transparence des entrées et des sorties pour que tout le monde ait la plus grande visibilité sur où on en est financièrement.
 Cela se concrétise simplement par un tableur mensualisé des coûts et recettes de l'entreprise mis régulièrement à jour.
 Afin également de pouvoir savoir combien chacun amène à l'entreprise (même si cette notion est galvaudée car l'apport n'est pas uniquement financier), chacun est responsable de sa facturation et de l'échange client. Ainsi, la tâche ne pèse pas sur une seule personne et tout le monde a de la visibilité sur ce qui rentre.
 
-## Quotidien
+### Quotidien
 
 Notre quotidien n'a pas spécialement changé par rapport à avant. Là où les choses sont peut-être un peu différentes c'est que nous avons maintenant des "channels" administratif et business dans notre outil de chat interne afin de suivre les différentes nouvelles concernant ces aspects.
 Nos dojos sont aussi des moments où ces sujets sont évoqués afin de garder tout le monde à jour.
 
-## Transparence
+### Transparence
 
 C'est probablement l'un des aspects les plus marquants. Même si nous avions déjà une grande visibilité sur tout ce qui se passait dans l'entreprise avec le fonctionnement précédent, maintenant, cette transparence est encore plus présente.
 Nous avons accès à toutes les infos pour nous faire notre propre idée de l'état de notre entreprise : sur comment est géré l'argent, sur comment se passe la relation commercial avec tel ou tel client.
 Cette transparence est aussi inverse, c'est à dire que tout le monde a une visibilité sur le salaire de chacun, et les décisions d'augmentation sont collégiales. 
 
-# La suite
+## La suite
 
 Il nous reste encore beaucoup à apprendre et à découvrir. Mais nous sommes ravis d'être enfin raccord entre notre façon de fonctionner et notre forme juridique.
 
