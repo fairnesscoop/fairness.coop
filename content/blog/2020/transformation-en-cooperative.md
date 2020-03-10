@@ -8,7 +8,6 @@ author: Les coopérateurs Fairness
 gCO2e: 1.32
 EcoindexLink: http://www.ecoindex.fr/resultats/?id=67961
 ---
-Depuis le 15&nbsp;octobre&nbsp;2019, nous sommes Fairness, une coopérative de 6 personnes.
 
 ## Genèse 
 Il nous semblait important de vous raconter notre cheminement jusqu’à cette étape importante pour nous.
