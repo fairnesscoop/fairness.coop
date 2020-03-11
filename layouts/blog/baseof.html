@@ -1,39 +1,46 @@
 {{ partial "head.html" . }}
 
 {{ partial "header.html" . }}
-<div class="container_header-post">
-    <section class="header-post">
-        <div class="content">
-            <h1>{{ .Title }}</h1>
-            <p class="indicators">
-                <img src="{{ "image/date.svg" | relURL }}" alt=""> {{ .PublishDate.Format "02/01/2006" }}
-                <img src="{{ "image/read-time.svg" | relURL }}" alt="" class="read-time"> Temps de lecture : {{ $.Params.readtime }} minutes.
-            </p>
+
+<section class="article-header">
+    <div class="article-header__content">
+        <h1 class="article-header__content__title">{{ .Title }}</h1>
+        <div class="article-header__date-and-time">
+            <div class="date">
+                <img src="{{ "image/date.svg" | relURL }}" alt="">
+                <p>{{ .PublishDate.Format "02/01/2006" }}</p>
+            </div>
+            <div class="time">
+                <img src="{{ "image/read-time.svg" | relURL }}" alt="" class="read-time">
+                <p> Temps de lecture : {{ $.Params.readtime }} minutes.</p>
+            </div>
         </div>
-        <div class="image">
-            <picture>
-                <source media="(min-width: 599px)" srcset="/blog/images/{{ $.Param "thumbnail" }}">
-                <source media="(max-width: 598px)"
-                        srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8/5+hHgAHggJ/PchI7wAAAABJRU5ErkJggg=="
-                        sizes="100%">
-                <img src="/blog/images/{{ $.Param "thumbnail" }}" alt="">
-            </picture>
-        </div>
-    </section>
-</div>
-<main>
-    <div class="description">
-        <p>
+        <p class="description">
             {{ .Description }}
         </p>
     </div>
+
+    <div class="article-header__image">
+        <picture>
+            <source media="(min-width: 599px)" srcset="{{ "blog/images/calendar-fairtips.jpg" | relURL }}">
+            <source media="(max-width: 598px)"
+                    srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8/5+hHgAHggJ/PchI7wAAAABJRU5ErkJggg=="
+                    sizes="100%">
+            <img src="{{ "blog/images/calendar-fairtips.jpg" | relURL }}" alt="">
+        </picture>
+    </div>
+</section>
+<main>
     <div class="article-content">
+        <p class="description-laptop">
+            {{ .Description }}
+        </p>
+
         {{ block "main" . }}
 
         {{end}}
     </div>
 </main>
-
 {{ if isset .Params "gco2e" }}
     <div class="blue-impact"><div><a href="{{ .Params.EcoindexLink }}">{{ .Params.gCO2e }} <span class="unit">gCO2e</span></a></div></div>
 {{ end }}
