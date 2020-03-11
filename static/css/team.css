@@ -59,7 +59,7 @@
     font-weight: bold;
 }
 
-.onePerson__description #position{
+.onePerson__description .userPosition{
     text-align:center;
     height: 30px;
 }

@@ -34,6 +34,6 @@ menu:
 
 related:
   indices:
-    - name: articleAuthor # The name of the indice, same as Front Matter's .Param key.
+    - name: authorId # The name of the indice, same as Front Matter's .Param key.
       weight: 1 # We don't really need this, but omitting it would disable the indice.
       includeNewer: true # Here our relationship is timeless! This prevents Hugo from ignoring newer posts.

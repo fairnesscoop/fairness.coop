@@ -1,4 +1,5 @@
 ---
+authorId: richard-hanna
 title: "Les bonnes résolutions Fairness"
 publishDate: "2020-01-31"
 description: Toute l'équipe Fairness vous souhaite une bonne année. À cette occasion, nous avons partagé chaque jour de janvier nos bonnes résolutions sur les réseaux sociaux. Les voici toutes réunies dans un seul et même article.
@@ -7,8 +8,6 @@ thumbnail: calendar-fairtips.jpg
 author: Les coopérateurs Fairness
 gCO2e: 1.32
 EcoindexLink: http://www.ecoindex.fr/resultats/?id=63622
-articleAuthor: richard-hanna
-
 ---
 ## 1. Déconnexion
 Pour commencer et par respect du [droit à la déconnexion](https://la-petite-boite-a-outils.org/fiche-n-23-le-droit-a-la-deconnexion/), nous ne publierons pas de "bonnes résolutions" les jours fériés et les week-ends.

@@ -30,7 +30,7 @@
 {{end}}
     </div>
 
-    {{ $author := where (.Site.RegularPages.RelatedIndices . "articleAuthor" ) "Type" "team" }}
+    {{ $author := where (.Site.RegularPages.RelatedIndices . "authorId" ) "Type" "team" }}
 
     {{ range $author }}
 
@@ -44,7 +44,7 @@
                     <p class="position">{{ .Params.position }}</p>
                 </div>
             </div>
-            <div class="social-reseau">
+            <div class="social-network">
                 {{ if (isset .Params "github") }}
                     <a class="githubAndTwitter" href="{{ .Params.github }}"><img src="/image/GitHub.svg" alt=""></a>
                 {{end}}

@@ -145,7 +145,7 @@ footer li a {
     font-weight: bold;
 }
 
-.article-author .social-reseau{
+.article-author .social-network{
     display:flex;
     align-items: center;
     margin-right: 40px;
@@ -225,7 +225,7 @@ footer li a {
         width: 70px;
     }
 
-    .article-author .social-reseau{
+    .article-author .social-network{
         margin-right: 0px;
     }
 
