@@ -1,4 +1,0 @@
-[submodule "public"]
-	path = public
-	url = git@github.com:fairnesscoop/fairness.coop.static.git
-	branch = gh-pages
