@@ -24,7 +24,7 @@ travaillant notamment avec les acteurs professionnels, politiques et sociaux et 
 risques majeurs.
 
 Il ne faudrait pas penser que le numérique résoudra tous les problèmes car il peut être lui même acteur de la
-catastrophe (empreinte environnementale et sociétale). Cependant, la cybersécurité n'est pas prévue comme sujet
+catastrophe ([empreinte environnementale et sociétale](/blog/2019/enjeux-du-numerique-responsable/)). Cependant, la cybersécurité n'est pas prévue comme sujet
 principal mais elle peut être un élément à prendre en compte.
 
 ## Axes de travail proposés
@@ -98,6 +98,7 @@ La participation à ce projet se fait sous forme de partenariat avec la Fing en 
 qu'acteur terrain. Pour en savoir plus : [Numériques tous risques](https://fing.org/actions/numeriques-tous-risques.html).
 
 Chez Fairness, nous contribuerons si on le peut et surtout nous suivrons cette initiative de près
-car cela est très intéressant pour penser le numérique comme outil aidant à plus de résilience.
+car cela est très intéressant pour penser un [numérique plus responsable](/blog/2019/arguments-pour-la-conception-responsable-des-services-numeriques/)
+et comme outil aidant à plus de résilience.
 
 Photo d'illustration : [Kolar.io sur Unsplash](https://unsplash.com/photos/Y073liiv9mQ)
