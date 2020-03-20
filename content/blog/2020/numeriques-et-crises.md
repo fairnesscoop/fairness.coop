@@ -97,4 +97,7 @@ Gaël Musquet avec l'association [Hackers Against Natural Disaster](http://hand.
 La participation à ce projet se fait sous forme de partenariat avec la Fing en tant qu'explorateur ou en tant
 qu'acteur terrain. Pour en savoir plus : [Numériques tous risques](https://fing.org/actions/numeriques-tous-risques.html).
 
+Chez Fairness, nous contribuerons si on le peut et surtout nous suivrons cette initiative de près
+car cela est très intéressant pour penser le numérique comme outil aidant à plus de résilience.
+
 Photo d'illustration : [Kolar.io sur Unsplash](https://unsplash.com/photos/Y073liiv9mQ)
