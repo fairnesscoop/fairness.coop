@@ -25,7 +25,7 @@
     color: #103b69;
     align-items: flex-start;
     font-weight: bold;
-    font-size: 1.5em;
+    font-size: 1.6em;
 }
 
 .article-header__date-and-time{
@@ -154,7 +154,7 @@ footer li a {
     }
 
     .article-header__content{
-        width: 43%;
+        width: 36%;
         display: flex;
         justify-content: center;
         align-items: baseline;
