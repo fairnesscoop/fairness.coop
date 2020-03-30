@@ -31,3 +31,6 @@ menu:
   - identifier: podcast-techologie
     name: Podcast techologie
     url: https://techologie.net/
+
+markup:
+  defaultMarkdownHandler: blackfriday

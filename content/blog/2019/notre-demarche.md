@@ -14,7 +14,7 @@ Sommaire :
 
 1. [Qui sommes nous ?](#1-qui-sommes-nous)
 2. [Méthodologie](#2-méthodologie)
-3. [Ecoconception](#3-ecoconception)
+3. [Écoconception](#3-écoconception)
 4. [Graphisme](#4-graphisme)
 5. [Accessibilité](#5-accessibilité)
 6. [Technologies](#6-technologies)
@@ -88,7 +88,7 @@ Et, à chaque itération :
 * Mise en production en continu (si possible)
 * Capacité d'adapter le périmètre fonctionnel en cas de besoin
 
-## 4. Ecoconception
+## 3. Écoconception
 
 Les démarches d'écoconception et d'accessibilité sont en place dès le tout début du projet.
 
