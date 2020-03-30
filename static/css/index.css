@@ -175,12 +175,7 @@ footer {
         max-width: 530px;
     }
 
-    .banner {
-        height: 200px;
-    }
-
     .fairness {
-        top: -100px;
         line-height: 1.7em;
         margin: 0 auto -40px auto;
     }

@@ -32,6 +32,9 @@ menu:
     name: Podcast techologie
     url: https://techologie.net/
 
+markup:
+  defaultMarkdownHandler: blackfriday
+
 related:
   indices:
     - name: authorId # The name of the indice, same as Front Matter's .Param key.
