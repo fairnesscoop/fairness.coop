@@ -55,10 +55,6 @@
     margin: 0;
 }
 
-.description-laptop{
-    display: none;
-}
-
 section .content h2 a {
     color: #103b69;
     font-weight: bold;
@@ -124,6 +120,14 @@ footer li a {
     width: 100%;
 }
 
+.article-content .description{
+    padding: 30px 0px;
+    font-size: 1.1em;
+    font-weight: bold;
+    display:flex;
+    justify-content: center;
+}
+
 @media screen and (min-width: 800px) {
     .article-header{
         justify-content: flex-end;
@@ -162,19 +166,6 @@ footer li a {
 
     .article-header__content__title{
         font-size: 2em;
-    }
-
-    .article-header__content .description{
-        display:none;
-    }
-
-    .description-laptop{
-        display:inline;
-        padding: 30px 0px;
-        font-size: 1.1em;
-        font-weight: bold;
-        display:flex;
-        justify-content: center;
     }
 }
 @media screen and (min-width: 1300px) {
