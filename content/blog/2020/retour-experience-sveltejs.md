@@ -58,7 +58,7 @@ Cette réunion, qui a convaincu l'équipe, a débouché sur la réalisation d'un
 
 ### Réalisation du POC
 
-Pour réaliser ce POC, en plus de [Svelte](https://svelte.dev/), je me suis appuyé sur [Sapper](https://sapper.svelte.dev/) qui permet de builder des applications très rapidement, faire du SSR etc.
+Pour réaliser cette preuve de concept, en plus de [Svelte](https://svelte.dev/), je me suis appuyé sur [Sapper](https://sapper.svelte.dev/) qui permet de builder des applications très rapidement, faire du SSR (Server Side Rendering), etc.
 
 L'utilisation combinée de ses deux technos est d'une facilité déconcertante. Un exemple simple : **le routing**.
 
