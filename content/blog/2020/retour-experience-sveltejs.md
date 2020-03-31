@@ -32,7 +32,7 @@ Quelques ressources utile si vous voulez découvrez ce language:
 
 ## Prise en main
 
-J'ai découvert SvelteJS lors d'une présentation durant de la DotJS 2019. Cette présentation m'a vraiment emballé et je voulais absolument tester cette énième technologie front. Encore une, me direz vous. Oui mais pas n'importe laquelle !
+J'ai découvert SvelteJS lors d'une présentation durant de la [dotJS 2019](https://www.dotjs.io/schedule/dotjs-2019). Cette présentation m'a vraiment emballé et je voulais absolument tester cette énième technologie front. Encore une, me direz vous. Oui mais pas n'importe laquelle !
 
 Ayant une bonne connaissance de React, la prise en main a été assez rapide. J'ai suivi le tutoriel sur le [site officiel](https://svelte.dev/tutorial/basics) et je dois dire que j'ai été vraiment agréablement surpris.
 C'est la première fois que je trouve une documentation aussi intuitive / interactive. Cela m'a permis de monter rapidement en compétence.
