@@ -1,9 +1,9 @@
 ---
-title: 'SvelteJS, coup de coeur 2020'
+title: 'SvelteJS, plus qu'une simple alternative à React, Vue ou Angular'
 publishDate: '2020-03-02'
-description: Le numérique d'aujourd'hui suppose un monde stable et en croissance alors que le monde de demain est incertain.
+description: Dans cet article je vous fait un retour d'expérience sur l'utilisation de SvelteJS. Plus qu'une simple alternative ? La réponse est oui !
 readtime: 10
-thumbnail: numerique-et-crises.jpg
+thumbnail: svelte.png
 author: mathieu-marchois
 ---
 
@@ -12,7 +12,7 @@ Et pour spoiler un peu, je dois dire que cette techno front est absolument incro
 
 ## Contexte
 
-Actuellement en mission chez [RadioFrance](https://www.radiofrance.fr/) depuis plusieurs mois, je suis en charge de refondre complètement l'intranet permettant, entre autre, de visualiser / gérer les différents flux reçus de la Maison de la radio.
+Actuellement en mission chez [Radio France](https://www.radiofrance.fr/) depuis plusieurs mois, je suis en charge de refondre complètement l'intranet permettant, entre autre, de visualiser / gérer les différents flux reçus de la Maison de la radio.
 
 La refonte s'est portée sur les mêmes choix technologiques que l'existant, à savoir un backend en [Node.js](https://nodejs.org) (<3) et un front en [React](https://fr.reactjs.org/). Cela m'allait parfaitement étant à l'aise sur les deux technos.
 
@@ -23,7 +23,7 @@ Ma mission était (et est toujours) de reprendre cet outil de zéro pour tout re
 
 ## Qu'est ce que SvelteJS ?
 
-Je ne vous ferai pas de présentation détaillée, d'autres l'ont déjà fait et ce ne serait pas forcément le plus pertinent. Je tenais juste à vous faire mon retour d'expérience et comment j'ai réussi à convaincre RadioFrance de partir sur une technologie toute récente.
+Je ne vous ferai pas de présentation détaillée, d'autres l'ont déjà fait et ce ne serait pas forcément le plus pertinent. Je tenais juste à vous faire mon retour d'expérience et comment j'ai réussi à convaincre Radio France de partir sur une technologie toute récente.
 
 Quelques ressources utile si vous voulez découvrez ce language:
 
@@ -37,16 +37,14 @@ J'ai découvert SvelteJS lors d'une présentation durant de la [dotJS 2019](http
 Ayant une bonne connaissance de React, la prise en main a été assez rapide. J'ai suivi le tutoriel sur le [site officiel](https://svelte.dev/tutorial/basics) et je dois dire que j'ai été vraiment agréablement surpris.
 C'est la première fois que je trouve une documentation aussi intuitive / interactive. Cela m'a permis de monter rapidement en compétence.
 
-Très entousiaste à l'idée de me faire la main dessus, j'ai pris un projet interne chez Fairness pour le migrer en SvelteJS (à la base le front était en React).
-La migration a été assez simple et rapide à faire, le projet étant encore en cours de développement il m'a fallu une petite semaine pour reprendre tout ce qui avait été fait.
+Très enthousiaste à l'idée de me faire la main dessus, j'ai pris un projet interne chez Fairness fait en React pour le migrer en SvelteJS.
+La migration a été assez simple et rapide à faire, le projet étant encore en cours de développement. Il m'a fallu une petite semaine pour reprendre tout ce qui avait été fait.
 
-Si vous voulez voir à quoi ca ressemble (dans la vrai vie, et non une todo-list), le projet [Permacoop](https://github.com/fairness/permacoop) est open-source.
-
-## Intégration chez RadioFrance
+## Intégration chez Radio France
 
 ### Présentation
 
-Après m'être fait la main sur le projet interne, je me suis dit que ce serait bien d'en parler à mon équipe chez RadioFrance.
+Après m'être fait la main sur le projet interne, je me suis dit que ce serait bien d'en parler à mon équipe chez Radio France.
 Petite réunion technique au cours de laquelle j'ai pu faire une présentation et expliquer quels seraient les avantages d'une migration vers SvelteJS :
 
 -   Simplicité de prise en main du language.
@@ -56,7 +54,7 @@ Petite réunion technique au cours de laquelle j'ai pu faire une présentation e
 
 Cette réunion, qui a convaincu l'équipe, a débouché sur la réalisation d'une preuve de concept d'une semaine de l'intranet sur lequel je travaillais depuis le début de ma mission (4 mois de développement dessus).
 
-### Réalisation du POC
+### Preuve de concept
 
 Pour réaliser cette preuve de concept, en plus de [Svelte](https://svelte.dev/), je me suis appuyé sur [Sapper](https://sapper.svelte.dev/) qui permet de builder des applications très rapidement, faire du SSR (Server Side Rendering), etc.
 
@@ -74,8 +72,38 @@ Ex: `./routes/blog/posts/[id([0-9]+)].svelte` sera accessible via `blog/posts/12
 
 A la fin de la semaine j'avais terminé la partie visualisation des données. La rapidité de la migration, la simplicité du code a convaincu le client de faire une bascule complète de l'intranet.
 
-En plus de la réalisation de ce POC, il faut dire que le fait que le créateur soit [Rich Harris](https://github.com/Rich-Harris) développeur au [New York Times](https://www.nytimes.com/), a un peu facilité les choses, les corps de métiers étant assez similaire.
+En plus de la réalisation de cette preuve de concept, il faut dire que le fait que le créateur soit [Rich Harris](https://github.com/Rich-Harris) développeur au [New York Times](https://www.nytimes.com/), a un peu facilité les choses, les corps de métiers étant assez similaire.
 
-### Migration complète
+### Migration
 
-## Conclusion
+Quelques chiffres forcément beaucoup plus parlant que de longs discours. A fonctionnalités équivalentes:
+
+Nombre de lignes de codes:
+
+-   React: ~29000
+-   SvelteJS: ~8000
+
+Temps passé:
+
+-   React : 4 mois
+-   SvelteJS: 2 semaines (aussi dû au fait que je connaissais déjà le métier)
+
+Qu'est ce qui peut justifier une aussi grande différence ? Il y a plusieurs raisons, mais celle que je retiens principalement est le fait de ce passer de [Redux](https://redux.js.org/). SvelteJS permet d'avoir une gestion d'état simplifiée et nécéssite donc moins de code, moins de configuration etc.
+
+Le projet tourne aujourd'hui en **production** et je n'ai pas eu de soucis particulier.
+
+### Example de code
+
+Pour des raisons de confidentialité, je ne peux vous partager du code provenant de cette application. Si vous voulez un exemple complet et concret vous pouvez regarder / vous inspirer du projet [Permacoop](https://github.com/fairnesscoop/permacoop). PermaCoop est un ERP open-source (encore en cours de développement) éco-conçu pour les coopératives.
+Le [serveur](https://github.com/fairnesscoop/permacoop/tree/master/server) a été développé avec le framework [NestJS](https://nestjs.com/) et le [client](https://github.com/fairnesscoop/permacoop/tree/master/client) avec SvelteJS. Toute contribution est bien évidement la bienvenue :)
+
+## La suite ?
+
+Cette migration s'est avéré être une véritable réussite et est toujours en cours de développement pour être iso-fonctionnalité à l'ancienne plateforme.
+
+L'ensemble de l'équipe est convaincu par cette techno et prends même du plaisir à travailler dessus. Certains devs back, qui ne voulaient pas entendre parler de front, s'y mettent également.
+
+Ce projet va servir de poisson pilote pour potentiellement migrer toutes les applications frontend de Radio France (france inter, france culture, france info etc.) aujourd'hui en React vers du SvelteJS.
+Un grand changement à venir ? En tout cas, cette technologie fait l'unanimité de par sa performance, son poids léger, et sa facilité de prise en main.
+
+Je vous recommande vraiment de suivre avec attention l'évolution de ce projet. Ce n'est pas pour rien qu'il fait parti des technos les plus plébiscités de 2019. Source [stateofjs](https://2019.stateofjs.com).
