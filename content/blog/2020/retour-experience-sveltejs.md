@@ -70,7 +70,7 @@ Ex: `./routes/blog/posts.svelte` sera accessible via `blog/posts`.
 
 Par dessus tout ça, il est également possible de rajouter des règles d'accès, grâce aux regex notamment, directement sur le nom des fichiers.
 
-Ex: `./routes/blog/posts/[id([0-9]+)].svelte` sera accessible via `blog/posts/12`. Si la regex ne match pas notre URL, une 404 sera alors retournée.
+Ex: `./routes/blog/posts/[id([0-9]+)].svelte` sera accessible via `blog/posts/12`. Si la regex ne matche pas notre URL, une 404 sera alors retournée.
 
 A la fin de la semaine j'avais terminé la partie visualisation des données. La rapidité de la migration, la simplicité du code a convaincu le client de faire une bascule complète de l'intranet.
 
