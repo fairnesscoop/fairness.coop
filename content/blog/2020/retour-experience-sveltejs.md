@@ -54,7 +54,7 @@ Petite réunion technique au cours de laquelle j'ai pu faire une présentation e
 -   Légèreté du code : Svelte est un compilateur qui compilera en VanillaJS uniquement le code dont vous avez besoin. Pas besoin donc de charger l'ensemble du framework. Svelte porte bien son nom !
 -   Rapidité : 30 à 40 fois plus performant que React, Vue ou Angular. La raison majeure ? Il n'y a pas de DOM virtuel.
 
-Cette réunion, qui a convaincu l'équipe, a débouché sur la réalisation d'un POC d'une semaine de l'intranet sur lequel je travaillais depuis le début de ma mission (4 mois de developpement dessus).
+Cette réunion, qui a convaincu l'équipe, a débouché sur la réalisation d'une preuve de concept d'une semaine de l'intranet sur lequel je travaillais depuis le début de ma mission (4 mois de développement dessus).
 
 ### Réalisation du POC
 
