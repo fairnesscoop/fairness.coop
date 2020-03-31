@@ -38,7 +38,7 @@ Ayant une bonne connaissance de React, la prise en main a été assez rapide. J'
 C'est la première fois que je trouve une documentation aussi intuitive / interactive. Cela m'a permis de monter rapidement en compétence.
 
 Très entousiaste à l'idée de me faire la main dessus, j'ai pris un projet interne chez Fairness pour le migrer en SvelteJS (à la base le front était en React).
-La migration a été assez simple et rapide à faire, le projet étant encore en cours de développement il m'a fallait une petite semaine pour reprendre tout ce qui avait était fait.
+La migration a été assez simple et rapide à faire, le projet étant encore en cours de développement il m'a fallu une petite semaine pour reprendre tout ce qui avait été fait.
 
 Si vous voulez voir à quoi ca ressemble (dans la vrai vie, et non une todo-list), le projet [Permacoop](https://github.com/fairness/permacoop) est open-source.
 
