@@ -23,7 +23,7 @@ Ma mission était (et est toujours) de reprendre cet outil de zéro pour tout re
 
 ## Qu'est ce que SvelteJS ?
 
-Je ne vous ferai pas de présentation détaillée, d'autres l'ont déjà fait et ce ne serait pas forcément le plus pertinent. Je tenais juste à vous faire mon retour d'expérience et comment j'ai réussi à convaincre RadioFrance à partir sur une technoligie toute récente.
+Je ne vous ferai pas de présentation détaillée, d'autres l'ont déjà fait et ce ne serait pas forcément le plus pertinent. Je tenais juste à vous faire mon retour d'expérience et comment j'ai réussi à convaincre RadioFrance de partir sur une technologie toute récente.
 
 Quelques ressources utile si vous voulez découvrez ce language:
 
