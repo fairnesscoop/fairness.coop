@@ -1,7 +1,7 @@
 ---
-title: 'SvelteJS, plus qu'une simple alternative à React, Vue ou Angular'
+title: "SvelteJS, plus qu'une simple alternative à React, Vue ou Angular"
 publishDate: '2020-03-02'
-description: Dans cet article je vous fait un retour d'expérience sur l'utilisation de SvelteJS, une migration d'application anciennement React. Nous verrons quels sont ses avantages.
+description: "Dans cet article je vous fait un retour d'expérience sur l'utilisation de SvelteJS, une migration d'application anciennement React. Nous verrons quels sont ses avantages."
 readtime: 10
 thumbnail: svelte.png
 author: mathieu-marchois
@@ -85,12 +85,12 @@ Nombre de lignes de codes:
 
 Temps passé:
 
--   React : 4 mois
+-   React : ~2 mois
 -   SvelteJS: 2 semaines (aussi dû au fait que je connaissais déjà le métier)
 
 Qu'est ce qui peut justifier une aussi grande différence ? Il y a plusieurs raisons, mais celle que je retiens principalement est le fait de se passer de [Redux](https://redux.js.org/). SvelteJS permet d'avoir une gestion d'état simplifiée et nécéssite donc moins de code, moins de configuration etc.
 
-Le projet tourne aujourd'hui en **production** et je n'ai pas eu de soucis particulier.
+Bien que jeune, cette technologie est assez mature pour pouvoir être utilisée en production. Nous n'avons rencontré aucun problème lors du déploiement de l'intranet.
 
 ### Exemple de code
 
@@ -104,7 +104,7 @@ Cette migration s'est avérée être une véritable réussite et est toujours en
 
 L'ensemble de l'équipe est convaincu par cette techno et prend même du plaisir à travailler dessus. Certains devs back, qui ne voulaient pas entendre parler de front, s'y mettent également.
 
-Ce projet va servir de pilote pour potentiellement migrer toutes les applications _frontend_ de Radio France (France Inter, France Culture, France Info), aujourd'hui en React vers du SvelteJS.
-Un grand changement à venir ? En tout cas, cette technologie fait l'unanimité grâe à sa performance, son poids léger et sa facilité de prise en main.
+Ce projet va servir de pilote pour potentiellement migrer toutes les applications _frontend_ de Radio France (France Inter, France Culture, France Musique, France Bleu, Fip, Mouv), aujourd'hui en React vers du SvelteJS.
+Un grand changement à venir ? En tout cas, cette technologie fait l'unanimité grâce à sa performance, son poids léger et sa facilité de prise en main.
 
 Je vous recommande vraiment de suivre avec attention l'évolution de ce projet. Ce n'est pas pour rien qu'il fait partie des [technos les plus plébiscitées de 2019](https://2019.stateofjs.com).
