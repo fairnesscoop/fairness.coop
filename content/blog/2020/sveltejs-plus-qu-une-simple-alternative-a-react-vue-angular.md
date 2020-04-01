@@ -1,7 +1,7 @@
 ---
 title: 'SvelteJS, plus qu'une simple alternative à React, Vue ou Angular'
 publishDate: '2020-03-02'
-description: Dans cet article je vous fait un retour d'expérience sur l'utilisation de SvelteJS. Plus qu'une simple alternative ? La réponse est oui !
+description: Dans cet article je vous fait un retour d'expérience sur l'utilisation de SvelteJS, une migration d'application anciennement React. Nous verrons quels sont ses avantages.
 readtime: 10
 thumbnail: svelte.png
 author: mathieu-marchois
@@ -25,7 +25,7 @@ Ma mission était (et est toujours) de reprendre cet outil de zéro pour tout re
 
 Je ne vous ferai pas de présentation détaillée, d'autres l'ont déjà fait et ce ne serait pas forcément le plus pertinent. Je tenais juste à vous faire mon retour d'expérience et comment j'ai réussi à convaincre Radio France de partir sur une technologie toute récente.
 
-Quelques ressources utile si vous voulez découvrez ce language:
+Quelques ressources utiles si vous voulez découvrir ce language:
 
 -   [Svelte.js : introduction au “compilateur en guise de framework”](https://medium.com/@nilmanduil/svelte-js-le-compilateur-en-guise-de-framework-5473f1d727f8)
 -   [Svelte.js : le compilateur qui s'attaque à React et Vue](http://www.meanjs.fr/svelte-la-librairie-le-compilateur-plutot-qui-sattaque-a-react-et-vue/)
@@ -37,7 +37,7 @@ J'ai découvert SvelteJS lors d'une conférence donnée à la [dotJS 2019](https
 Ayant une bonne connaissance de React, la prise en main a été assez rapide. J'ai suivi le tutoriel sur le [site officiel de Svelte](https://svelte.dev/tutorial/basics) et je dois dire que j'ai été vraiment agréablement surpris.
 C'est la première fois que je trouve une documentation aussi intuitive et interactive. Cela m'a permis de monter rapidement en compétence.
 
-Très enthousiaste à l'idée de me faire la main dessus, j'ai pris un projet interne chez Fairness fait en React pour le migrer en SvelteJS.
+Très enthousiaste à l'idée de me faire la main dessus, j'ai pris un projet interne chez Fairness codé initialement en React pour le migrer en SvelteJS.
 La migration a été assez simple et rapide à faire, le projet étant encore en cours de développement. Il m'a fallu une petite semaine pour reprendre tout ce qui avait été fait.
 
 ## Intégration chez Radio France
@@ -58,7 +58,7 @@ Cette réunion, qui a convaincu l'équipe, a débouché sur la réalisation d'un
 
 Pour réaliser cette preuve de concept, en plus de [Svelte](https://svelte.dev/), je me suis appuyé sur [Sapper](https://sapper.svelte.dev/) qui permet de builder des applications très rapidement, faire du SSR (Server Side Rendering), etc.
 
-L'utilisation combinée de ses deux technos est d'une facilité déconcertante. Un exemple simple : **le routing**.
+L'utilisation combinée de ces deux technos est d'une facilité déconcertante. Un exemple simple : **le routing**.
 
 Qui n'a jamais perdu du temps à mettre en place tout un système de routing sur un projet React ou Vue ? Installation de librairies, configuration, mapping d'un composant à sa route etc.
 
@@ -72,11 +72,11 @@ Ex: `./routes/blog/posts/[id([0-9]+)].svelte` sera accessible via `blog/posts/12
 
 A la fin de la semaine j'avais terminé la partie visualisation des données. La rapidité de la migration, la simplicité du code a convaincu le client de faire une bascule complète de l'intranet.
 
-En plus de la réalisation de cette preuve de concept, il faut dire que le fait que le créateur soit [Rich Harris](https://github.com/Rich-Harris) développeur au [New York Times](https://www.nytimes.com/), a un peu facilité les choses, les corps de métiers étant assez similaire.
+En plus de la réalisation de cette preuve de concept, il faut dire que le fait que le créateur soit [Rich Harris](https://github.com/Rich-Harris) développeur au [New York Times](https://www.nytimes.com/), a un peu facilité les choses, les corps de métiers étant assez similaires.
 
 ### Migration
 
-Quelques chiffres forcément beaucoup plus parlant que de longs discours. À fonctionnalités équivalentes:
+Quelques chiffres forcément beaucoup plus parlants que de longs discours. À fonctionnalités équivalentes:
 
 Nombre de lignes de codes:
 
@@ -88,23 +88,23 @@ Temps passé:
 -   React : 4 mois
 -   SvelteJS: 2 semaines (aussi dû au fait que je connaissais déjà le métier)
 
-Qu'est ce qui peut justifier une aussi grande différence ? Il y a plusieurs raisons, mais celle que je retiens principalement est le fait de ce passer de [Redux](https://redux.js.org/). SvelteJS permet d'avoir une gestion d'état simplifiée et nécéssite donc moins de code, moins de configuration etc.
+Qu'est ce qui peut justifier une aussi grande différence ? Il y a plusieurs raisons, mais celle que je retiens principalement est le fait de se passer de [Redux](https://redux.js.org/). SvelteJS permet d'avoir une gestion d'état simplifiée et nécéssite donc moins de code, moins de configuration etc.
 
 Le projet tourne aujourd'hui en **production** et je n'ai pas eu de soucis particulier.
 
-### Example de code
+### Exemple de code
 
-Pour des raisons de confidentialité, je ne peux vous partager du code provenant de cette application. Si vous voulez un exemple complet et concret vous pouvez regarder et vous inspirer du projet [Permacoop](https://github.com/fairnesscoop/permacoop), un ERP open-source (encore en cours de développement) éco-conçu pour les coopératives.
+Pour des raisons de confidentialité, je ne peux vous partager du code provenant de l'application du client. Si vous voulez un exemple complet et concret vous pouvez regarder et vous inspirer du projet [Permacoop](https://github.com/fairnesscoop/permacoop), un ERP open-source (encore en cours de développement) éco-conçu pour les coopératives.
 
 Le [serveur](https://github.com/fairnesscoop/permacoop/tree/master/server) a été développé avec le framework [NestJS](https://nestjs.com/) et le [client](https://github.com/fairnesscoop/permacoop/tree/master/client) avec SvelteJS. Toute contribution est bien évidement la bienvenue :)
 
 ## La suite ?
 
-Cette migration s'est avérée être une véritable réussite et est toujours en cours de développement pour être iso-fonctionnalité à l'ancienne plateforme.
+Cette migration s'est avérée être une véritable réussite et est toujours en cours de développement pour être iso-fonctionnelle à l'ancienne plateforme.
 
-L'ensemble de l'équipe est convaincu par cette techno et prends même du plaisir à travailler dessus. Certains devs back, qui ne voulaient pas entendre parler de front, s'y mettent également.
+L'ensemble de l'équipe est convaincu par cette techno et prend même du plaisir à travailler dessus. Certains devs back, qui ne voulaient pas entendre parler de front, s'y mettent également.
 
 Ce projet va servir de pilote pour potentiellement migrer toutes les applications _frontend_ de Radio France (France Inter, France Culture, France Info), aujourd'hui en React vers du SvelteJS.
-Un grand changement à venir ? En tout cas, cette technologie fait l'unanimité de par sa performance, son poids léger, et sa facilité de prise en main.
+Un grand changement à venir ? En tout cas, cette technologie fait l'unanimité grâe à sa performance, son poids léger et sa facilité de prise en main.
 
-Je vous recommande vraiment de suivre avec attention l'évolution de ce projet. Ce n'est pas pour rien qu'il fait parti des [technos les plus plébiscitées de 2019](https://2019.stateofjs.com).
+Je vous recommande vraiment de suivre avec attention l'évolution de ce projet. Ce n'est pas pour rien qu'il fait partie des [technos les plus plébiscitées de 2019](https://2019.stateofjs.com).
