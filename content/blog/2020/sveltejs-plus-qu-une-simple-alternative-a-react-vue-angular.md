@@ -1,6 +1,6 @@
 ---
 title: "SvelteJS, plus qu'une simple alternative à React, Vue ou Angular"
-publishDate: '2020-03-02'
+publishDate: '2020-04-02'
 description: "Dans cet article je vous fait un retour d'expérience sur l'utilisation de SvelteJS, une migration d'application anciennement React. Nous verrons quels sont ses avantages."
 readtime: 10
 thumbnail: svelte.png
