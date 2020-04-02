@@ -44,7 +44,7 @@ La migration a été assez simple et rapide à faire, le projet étant encore en
 
 ### Présentation
 
-Après m'être fait la main sur le projet interne, je me suis dit que ce serait bien d'en parler à mon équipe chez Radio France.
+Après m'être fait la main sur [un projet interne](https://github.com/fairnesscoop/permacoop) de notre coopérative, je me suis dit que ce serait bien d'en parler à mon équipe chez Radio France.
 Petite réunion technique au cours de laquelle j'ai pu faire une présentation et expliquer quels seraient les avantages d'une migration vers SvelteJS :
 
 -   Simplicité de prise en main du language.
