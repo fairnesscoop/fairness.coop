@@ -2,9 +2,11 @@
 title: "SvelteJS, plus qu'une simple alternative à React, Vue ou Angular"
 publishDate: '2020-04-02'
 description: "Dans cet article je vous fais un retour d'expérience sur l'utilisation de SvelteJS, une migration d'application anciennement React. Nous verrons quels sont ses avantages."
-readtime: 10
+readtime: 9
 thumbnail: svelte.png
 author: mathieu-marchois
+gCO2e: 1.35
+EcoindexLink: http://www.ecoindex.fr/resultats/?id=70654
 ---
 
 Dans cet article je voudrais vous faire un retour d'expérience sur une techno que j'ai découverte il y a peu : SvelteJS !
@@ -27,8 +29,8 @@ Je ne vous ferai pas de présentation détaillée, d'autres l'ont déjà fait et
 
 Quelques ressources utiles si vous voulez découvrir ce language:
 
--   [Svelte.js : introduction au “compilateur en guise de framework”](https://medium.com/@nilmanduil/svelte-js-le-compilateur-en-guise-de-framework-5473f1d727f8)
--   [Svelte.js : le compilateur qui s'attaque à React et Vue](http://www.meanjs.fr/svelte-la-librairie-le-compilateur-plutot-qui-sattaque-a-react-et-vue/)
+- [Svelte.js : introduction au “compilateur en guise de framework”](https://medium.com/@nilmanduil/svelte-js-le-compilateur-en-guise-de-framework-5473f1d727f8)
+- [Svelte.js : le compilateur qui s'attaque à React et Vue](http://www.meanjs.fr/svelte-la-librairie-le-compilateur-plutot-qui-sattaque-a-react-et-vue/)
 
 ## Prise en main
 
@@ -47,10 +49,10 @@ La migration a été assez simple et rapide à faire, le projet étant encore en
 Après m'être fait la main sur [le projet interne](https://github.com/fairnesscoop/permacoop), je me suis dit que ce serait bien d'en parler à mon équipe chez Radio France.
 Petite réunion technique au cours de laquelle j'ai pu faire une présentation et expliquer quels seraient les avantages d'une migration vers SvelteJS :
 
--   Simplicité de prise en main du language.
--   3 fois moins de code à écrire (et ce n'est pas une blague, voir plus bas pour les chiffres) et donc maintenance plus simple.
--   Légèreté du code : Svelte est un compilateur qui génère en _vanilla Javascript_ uniquement le code dont vous avez besoin. Inutile donc de charger l'ensemble du framework. Svelte porte bien son nom !
--   Rapidité : 30 à 40 fois plus performant que React, Vue ou Angular. La raison majeure ? Il n'y a pas de DOM virtuel.
+- Simplicité de prise en main du language.
+- 3 fois moins de code à écrire (et ce n'est pas une blague, voir plus bas pour les chiffres) et donc maintenance plus simple.
+- Légèreté du code : Svelte est un compilateur qui génère en _vanilla Javascript_ uniquement le code dont vous avez besoin. Inutile donc de charger l'ensemble du framework. Svelte porte bien son nom !
+- Rapidité : 30 à 40 fois plus performant que React, Vue ou Angular. La raison majeure ? Il n'y a pas de DOM virtuel.
 
 Cette réunion, qui a convaincu l'équipe, a débouché sur la réalisation d'une preuve de concept d'une semaine de l'intranet sur lequel je travaillais depuis le début de ma mission (4 mois de développement dessus).
 
@@ -80,13 +82,13 @@ Quelques chiffres forcément beaucoup plus parlants que de longs discours. À fo
 
 Nombre de lignes de codes:
 
--   React: ~29000
--   SvelteJS: ~8000
+- React: ~29000
+- SvelteJS: ~8000
 
 Temps passé:
 
--   React : ~2 mois
--   SvelteJS: 2 semaines (aussi dû au fait que je connaissais déjà le métier)
+- React : ~2 mois
+- SvelteJS: 2 semaines (aussi dû au fait que je connaissais déjà le métier)
 
 Qu'est ce qui peut justifier une aussi grande différence ? Il y a plusieurs raisons, mais celle que je retiens principalement est le fait de se passer de [Redux](https://redux.js.org/). SvelteJS permet d'avoir une gestion d'état simplifiée et nécéssite donc moins de code, moins de configuration etc.
 
