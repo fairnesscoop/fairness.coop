@@ -37,14 +37,14 @@ J'ai découvert SvelteJS lors d'une conférence donnée à la [dotJS 2019](https
 Ayant une bonne connaissance de React, la prise en main a été assez rapide. J'ai suivi le tutoriel sur le [site officiel de Svelte](https://svelte.dev/tutorial/basics) et je dois dire que j'ai été vraiment agréablement surpris.
 C'est la première fois que je trouve une documentation aussi intuitive et interactive. Cela m'a permis de monter rapidement en compétence.
 
-Très enthousiaste à l'idée de me faire la main dessus, j'ai pris un projet interne chez Fairness codé initialement en React pour le migrer en SvelteJS.
+Très enthousiaste à l'idée de me faire la main dessus, j'ai pris [un projet interne](https://github.com/fairnesscoop/permacoop) de notre coopérative codé initialement en React pour le migrer en SvelteJS.
 La migration a été assez simple et rapide à faire, le projet étant encore en cours de développement. Il m'a fallu une petite semaine pour reprendre tout ce qui avait été fait.
 
 ## Intégration chez Radio France
 
 ### Présentation
 
-Après m'être fait la main sur [un projet interne](https://github.com/fairnesscoop/permacoop) de notre coopérative, je me suis dit que ce serait bien d'en parler à mon équipe chez Radio France.
+Après m'être fait la main sur [le projet interne](https://github.com/fairnesscoop/permacoop), je me suis dit que ce serait bien d'en parler à mon équipe chez Radio France.
 Petite réunion technique au cours de laquelle j'ai pu faire une présentation et expliquer quels seraient les avantages d'une migration vers SvelteJS :
 
 -   Simplicité de prise en main du language.
