@@ -1,3 +1,5 @@
-.banner .menu, .goToTop, footer {
-    display: none;
+.banner .menu,
+.goToTop,
+footer {
+  display: none;
 }

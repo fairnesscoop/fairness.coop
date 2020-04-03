@@ -1,80 +1,80 @@
-.team{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    width: 100%;
-    color: rgb(38, 51, 66)
+.team {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  color: rgb(38, 51, 66);
 }
 
 @media screen and (min-width: 668px) {
-    .team {
-        flex-direction: row;
-        flex-wrap: wrap;
-        width: 500px;
-        margin:auto;
-    }
+  .team {
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 500px;
+    margin: auto;
+  }
 }
 
 @media screen and (min-width: 1000px) {
-    .team {
-        flex-direction: row;
-        flex-wrap: wrap;
-        width: 750px;
-        margin:auto;
-    }
-}
-
-.onePerson{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: space-around;
-    margin: 10px;
-    padding: 10px;
-    width: 210px;
-    height: 350px;
-    background-color: rgb(242, 242, 242);
-    position: relative;
-    z-index:0;
-}
-
-.onePerson:hover .onePerson__viewCV{
-    display:inline;  
-}
-
-.onePerson__picture img{
-    height: 150px;
-    width: 150px;
-    border-radius: 50%;
-}
-
-.onePerson__description{
-    margin:18px;
-    display:flex;
-    flex-direction: column;
-    align-items: center;
-}
-
-.onePerson__description .name{
-    font-weight: bold;
-}
-
-.onePerson__description .userPosition{
-    text-align:center;
-    height: 30px;
-}
-
-.onePerson__link{
-    display:flex;
+  .team {
     flex-direction: row;
-    justify-content:center;
-    margin: 10px 10px 20px 10px;
+    flex-wrap: wrap;
+    width: 750px;
+    margin: auto;
+  }
 }
 
-.githubAndTwitter{
-    margin: 0px 8px;
+.onePerson {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  margin: 10px;
+  padding: 10px;
+  width: 210px;
+  height: 350px;
+  background-color: rgb(242, 242, 242);
+  position: relative;
+  z-index: 0;
+}
+
+.onePerson:hover .onePerson__viewCV {
+  display: inline;
+}
+
+.onePerson__picture img {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+}
+
+.onePerson__description {
+  margin: 18px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.onePerson__description .name {
+  font-weight: bold;
+}
+
+.onePerson__description .userPosition {
+  text-align: center;
+  height: 30px;
+}
+
+.onePerson__link {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin: 10px 10px 20px 10px;
+}
+
+.githubAndTwitter {
+  margin: 0px 8px;
 }
 
 .githubAndTwitter img {
-    height: 20px;
+  height: 20px;
 }
