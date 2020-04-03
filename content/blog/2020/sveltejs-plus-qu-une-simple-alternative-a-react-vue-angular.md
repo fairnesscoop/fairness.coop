@@ -4,7 +4,7 @@ publishDate: '2020-04-02'
 description: "Dans cet article je vous fais un retour d'expérience sur l'utilisation de SvelteJS, une migration d'application anciennement React. Nous verrons quels sont ses avantages."
 readtime: 9
 thumbnail: svelte.png
-author: mathieu-marchois
+authorId: mathieu-marchois
 gCO2e: 1.35
 EcoindexLink: http://www.ecoindex.fr/resultats/?id=70654
 ---
