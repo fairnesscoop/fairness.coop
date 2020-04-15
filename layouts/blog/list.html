@@ -8,12 +8,12 @@
     <section>
         <div class="content">
             <h2 id="{{ .File.TranslationBaseName }}"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+            <p>
+                {{ .Description }}
+            </p>
             <p class="indicators">
                 <img src="{{ "image/date.svg" | relURL }}" alt=""> {{ .PublishDate.Format "02/01/2006"  }}
                 <img src="{{ "image/read-time.svg" | relURL }}" alt="" class="read-time"> Temps de lecture : {{ .Params.readtime }} minutes.
-            </p>
-            <p>
-                {{ .Description }}
             </p>
         </div>
         <div class="image">
