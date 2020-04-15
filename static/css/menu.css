@@ -39,7 +39,7 @@
 }
 
 .close-msg::after {
-  content: "\00D7";
+  content: '\00D7';
   font-size: 5em;
   color: white;
 }

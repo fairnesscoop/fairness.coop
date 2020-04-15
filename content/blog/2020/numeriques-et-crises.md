@@ -5,6 +5,7 @@ description: Le numérique d'aujourd'hui suppose un monde stable et en croissanc
 readtime: 6
 thumbnail: numerique-et-crises.jpg
 author: Les coopérateurs Fairness
+authorId: richard-hanna
 ---
 
 Se pose ainsi la question de la résilience de nos sociétés face au dérèglement climatique, face aux catastrophes très

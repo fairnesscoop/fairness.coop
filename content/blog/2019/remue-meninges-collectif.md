@@ -5,6 +5,7 @@ description: A chaque équipe son fonctionnement, à chaque entreprise ses valeu
 readtime: 15
 thumbnail: remue-meninges.png
 author: Les coopérateurs Fairness
+authorId: nicolas-dievart
 gCO2e: 1.32
 EcoindexLink: http://www.ecoindex.fr/resultats/?id=63633
 aliases:

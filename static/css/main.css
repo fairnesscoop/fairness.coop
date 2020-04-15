@@ -86,7 +86,7 @@ footer {
 }
 
 .blue-impact {
-  background: url("/image/blue-cloud.svg") bottom center no-repeat;
+  background: url('/image/blue-cloud.svg') bottom center no-repeat;
   background-size: 80px;
   width: 80px;
   height: 50px;
@@ -147,6 +147,18 @@ footer li a {
 }
 footer li a:hover {
   text-decoration: underline;
+}
+
+/* Code Highlight */
+pre {
+  padding: 10px 15px;
+}
+
+p > code {
+  background: #ccc;
+  color: #333;
+  border-radius: 0.2em;
+  padding: 0 0.2em;
 }
 
 @media screen and (min-width: 947px) {
