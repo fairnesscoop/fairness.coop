@@ -1,10 +1,10 @@
-.main-menu{
-    display:none;
+.main-menu {
+  display: none;
 }
 
-.main-menu:target{
+.main-menu:target {
   display: flex;
-  position:fixed;
+  position: fixed;
   top: 0;
   bottom: 0;
   right: 0;
@@ -17,44 +17,44 @@
   overflow-y: scroll;
 }
 
-.subcontainer{
+.subcontainer {
   width: 100%;
   position: absolute;
-  left:0;
-  top:0;
-  display:flex;
-  flex-direction:column;
+  left: 0;
+  top: 0;
+  display: flex;
+  flex-direction: column;
 }
 
-.close-menu{
-  text-align:right;
-  position:relative;
-  right:0;
-  left:0;
-  width:92%;
+.close-menu {
+  text-align: right;
+  position: relative;
+  right: 0;
+  left: 0;
+  width: 92%;
 }
 
-.close-msg{
+.close-msg {
   text-decoration: none;
 }
 
 .close-msg::after {
   content: "\00D7";
   font-size: 5em;
-  color:white;
+  color: white;
 }
 
-.main-menu .links{
-  padding-inline-start: 0!important;
-  align-self:center;
+.main-menu .links {
+  padding-inline-start: 0 !important;
+  align-self: center;
 }
 
-.main-menu .links li{
+.main-menu .links li {
   padding: 1em;
   list-style: none;
 }
 
-.main-menu .links li a{
+.main-menu .links li a {
   text-decoration: none;
   color: white;
   font-size: 1.5em;
@@ -62,47 +62,45 @@
 }
 
 @media screen and (min-width: 985px) {
-
-  .main-menu:target{
-      align-items: flex-start;
+  .main-menu:target {
+    align-items: flex-start;
   }
 
-  .subcontainer{
-    top:30px;
+  .subcontainer {
+    top: 30px;
   }
 
-  .close-menu{
-    width:970px;
+  .close-menu {
+    width: 970px;
     margin: auto;
   }
 
-  .main-menu .links{
-    align-self:flex-start;
+  .main-menu .links {
+    align-self: flex-start;
   }
 
   .link {
-    display:flex;
-    align-items:center;
+    display: flex;
+    align-items: center;
   }
 
   .link .link__bar {
-    margin-right:30px;
-    width:45vw;
-    height:1px;
-    border-bottom:2px solid white;
-    visibility:hidden;
+    margin-right: 30px;
+    width: 45vw;
+    height: 1px;
+    border-bottom: 2px solid white;
+    visibility: hidden;
   }
 
-  .link li{
+  .link li {
     order: 2;
   }
 
-  .link div{
+  .link div {
     order: 1;
   }
 
-  .link li:hover +.link__bar{
-    visibility:visible !important;
+  .link li:hover + .link__bar {
+    visibility: visible !important;
   }
-  
 }
