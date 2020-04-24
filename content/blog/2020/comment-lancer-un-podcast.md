@@ -119,6 +119,6 @@ leurs questions ou les points qu'ils souhaitent voir creuser.
 Enfin, animer des podcasts nous a permis de rencontrer des personnes passionnantes avec qui échanger.
 Peut-être qu'en d'autres circonstances, cela n'aurait pas été possible.
 
-A vous de jouer !
+À vous de jouer !
 
 Photo d'illustration par [CoWomen](https://unsplash.com/@cowomen)
