@@ -61,7 +61,7 @@ de capter l'ambiance.
 expirations.
 * Evidemment, s'il s'agit d'un téléphone, pensez à le mettre en **mode avion** !
 * Enregistrez **en continue**, et pas grave s'il y a des blancs, des hésitations ou des reprises. Tout cela se gomme
-au montage.en continue
+au montage.
 * En ces temps de distanciation physique à cause de la pandémie, il est possible aussi d'enregistrer un échange à
 distance. Nous avons utilisé Skype qui permet d'enregistrer la conversation, un exemple avec
 [cet épisode](https://techologie.net/episodes/33-covid-19-produire-plus-de-respirateurs-pour-sauver-des-vies).
@@ -111,12 +111,12 @@ publier partout.
 Sollicitez vos auditeurs pour **noter** le podcast sur leur plateforme préférée et de **partager** les épisodes s'ils
 ont aimés.
 
-Pour vous améliorer, demandez à vos auditeurs leurs **_feedbacks_** sur les épisodes.
+Pour vous améliorer, demandez à vos auditeurs leurs _**feedbacks**_ sur les épisodes.
 
 **Impliquez vos auditeurs** en annonçant le thème du prochain épisode et demandez leur de participer en proposant
-leurs questions ou les points qu'ils suhaitent voir creuser.
+leurs questions ou les points qu'ils souhaitent voir creuser.
 
-Enfin, animer des podcasts nous a permis de rencontrer des personnes très intéressantes avec qui échanger.
+Enfin, animer des podcasts nous a permis de rencontrer des personnes passionnantes avec qui échanger.
 Peut-être qu'en d'autres circonstances, cela n'aurait pas été possible.
 
 A vous de jouer !
