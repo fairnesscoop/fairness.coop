@@ -61,7 +61,7 @@
         <h2>{{ .Title }}</h2>
         <div class="listen-and-read__parts">
             <div class="blog">
-                <h3><img src="image/stylo.png" alt="stylo"/>Sur le blog</h3>
+                <h3>Sur le blog</h3>
 
                 {{ $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
                 {{ range first 1 $pages }}
@@ -71,12 +71,12 @@
             </div>
 
             <div class="echo">
-                <h3><img src="image/microphone.png" alt="microphone"/>Podcast Echo</h3>
+                <h3>Podcast Echo</h3>
                 <p><a href="{{.Params.echoPermalink}}">{{.Params.echoTitle}}</a></p>
             </div>
 
             <div class="techologie">
-                <h3><img src="image/plante.png" alt="plante"/>Techologie</h3>
+                <h3>Podcast Techologie</h3>
                 <p><a href="{{.Params.techologiePermalink}}">{{.Params.techologieTitle}}</a></p>
             </div>
         </div>
