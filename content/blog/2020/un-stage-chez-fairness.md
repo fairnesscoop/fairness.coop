@@ -82,9 +82,3 @@ personnes aussi sympathiques et intéressantes. Grâce à ce stage, j’ai pu co
 généralement en PHP en usant de bonnes pratiques et d’une bonne méthodologie de travail. Je sais maintenant à quoi 
 ressemble la vie de développeur et je tiens à remercier toute l’équipe Fairness d’avoir contribué à forger ma première 
 expérience dans ce domaine en acceptant de m’intégrer à leur équipe pour une durée de 6 mois.
-
-
-     
-
-
-
