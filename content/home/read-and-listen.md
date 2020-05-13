@@ -2,9 +2,9 @@
 section: read-and-listen
 title: À lire, à écouter
 
-echoTitle: "#E43 - Quotidien de CTO chez un fournisseur d'énergie renouvelable avec Jean-Michel Blanc"
+echoTitle: "Quotidien de CTO chez un fournisseur d'énergie renouvelable"
 echoPermalink: "https://soundcloud.com/podcastecho/e43-quotidien-de-cto-chez-un-fournisseur-denergie-renouvelable-avec-jean-michel-blanc"
 
-techologieTitle: "#31 Une plateforme vidéo dédiée à la transition"
-techologiePermalink: "https://soundcloud.com/techologie/31-une-plateforme-video-dediee-a-la-transition-avec-nicolas"
+techologieTitle: "Covid-19, produire plus de respirateurs pour sauver des vies"
+techologiePermalink: "https://soundcloud.com/techologie/33-covid-19-produire-plus-de-respirateurs-pour-sauver-des-vies"
 ---
