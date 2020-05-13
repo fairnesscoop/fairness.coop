@@ -79,8 +79,7 @@ Nous utilisons [Audacity](https://www.audacityteam.org/download/) qui est un **l
 open-source et cross-platform (Windows, MacOS ou Linux).
 
 Quoi de plus désagréable que d'avoir des épisodes qui se suivent et dont **les volumes sont hétérogènes** ? Pour
-résoudre ce problème, on utilise [Levelator](http://www.conversationsnetwork.org/levelator) un petit utilitaire, aussi
-disponible pour Windows, MacOS ou Linux.
+résoudre ce problème, on utilise un petit utilitaire, [Levelator](http://www.conversationsnetwork.org/levelator). NB: Levelator n'étant plus maintenu depuis 2015 n'est plus compatible avec la dernière version de MacOs (Catalina) ou sur Ubuntu (18.04).
 
 A moins que vous ne soyez un professionnel du son et que vous faites des effets sonores de folie, la bonne pratique
 pour un podcast dans lequel il y a beaucoup de parler et peu de musique est d'opter pour une sortie **en mono** et non
