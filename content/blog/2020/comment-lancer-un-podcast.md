@@ -1,6 +1,6 @@
 ---
 title: "Comment lancer son podcast"
-publishDate: "2020-04-24"
+publishDate: "2020-05-13"
 description: Notre retour d'expérience sur l'animation et la publication d'un podcast pour que vous aussi vous vous lanciez !
 readtime: 8
 thumbnail: comment-lancer-podcast.jpg
