@@ -25,7 +25,10 @@
     margin:auto;
 }
 
-@media screen and (max-width: 599px) {
+
+
+
+@media screen and (min-width: 599px) {
     .container-not-found{
         font-size: 0.75em;
     }
@@ -36,5 +39,23 @@
 
     .not-found-content_content{
         padding:10px;
+    }
+
+    body{
+        position: relative;
+    }
+
+    header{
+        height: 33vh;
+    }
+
+    main{
+        height: 33vh;
+    }
+
+    footer{
+        position: absolute;
+        bottom: 0;
+        width: 100%;
     }
 }
