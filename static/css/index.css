@@ -123,31 +123,31 @@ h2 {
   background-position: right -50px top;
 }
 
-hr{
+hr {
   width: 80%;
-  padding:1px;
-  background: linear-gradient(90deg, rgba(0,212,225,1) 0%, rgba(107,235,116,1) 0%, rgba(0,212,255,1) 100%);
+  padding: 2px;
+  background: white;
   border: none;
 }
-.listen-and-read{
+.listen-and-read {
   flex-direction: column;
   align-items: flex-start;
 }
 
-.listen-and-read h2{
+.listen-and-read h2 {
   align-self: center;
 }
 
-.listen-and-read a{
+.listen-and-read a {
   color: white;
 }
 
-.listen-and-read__parts{
-  display:flex;
+.listen-and-read__parts {
+  display: flex;
   flex-direction: column;
 }
 
-.listen-and-read__parts img{
+.listen-and-read__parts img {
   width: 25px;
   margin-right: 15px;
 }
@@ -281,13 +281,13 @@ footer {
   .listen-and-read__parts div {
     width: 33%;
     margin: 0 30px;
-    display:flex;
+    display: flex;
     flex-direction: column;
   }
 
   .listen-and-read__parts div h3 {
     margin: 0 0px;
-    width: 100%
+    width: 100%;
   }
 }
 
