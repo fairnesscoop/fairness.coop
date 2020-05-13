@@ -23,6 +23,7 @@
 
 .not-found-content_content {
   margin: auto;
+  padding: 10px;
 }
 
 @media screen and (min-width: 599px) {
