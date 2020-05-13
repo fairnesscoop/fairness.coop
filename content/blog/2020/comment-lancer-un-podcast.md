@@ -98,6 +98,8 @@ Pour le même prix, nous vous recommandons tout de même de tester [Ausha](https
 dédié aux podcasts**, qui permet notamment de publier automatiquement le podcast sur un tas de plateformes
 (Apple Podcasts, Spotify, Deezer...) et d'avoir un site web de présentation du podcast.
 
+Si le thème de votre podcast est autour de la transition écologique, [Imago](https://www.imagotv.fr/podcasts) propose l'hébergement gratuit. Contactez-les de la part de Fairness ;)
+
 Pour que votre podcast soit accessible et profiter par la même occasion du trafic généré par le SEO, proposez **une
 transcription ou un résumé** de l'épisode.
 
