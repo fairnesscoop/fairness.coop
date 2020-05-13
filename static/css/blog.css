@@ -104,6 +104,7 @@ footer li a {
   border: 1px solid #00a199;
   border-radius: 6px;
   padding: 0 10px;
+  margin: 5px;
 }
 
 .article-content blockquote {
@@ -165,7 +166,6 @@ footer li a {
 
   main section .content {
     padding: 50px 225px 25px 100px;
-    min-height: 300px;
   }
 
   main section .image {
