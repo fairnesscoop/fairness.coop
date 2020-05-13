@@ -16,10 +16,10 @@
             </div>
 
             <div class="presentation__contact">
-                <h3><img class="logo" src="{{ "image/at-solid.svg" | relURL }}" alt="logo at">Email</h3>
+                <h3>Email</h3>
                 <p>{{ $.Params.email }}</p>
 
-                <h3><img class="logo" src="{{ "image/phone-alt-solid.svg" | relURL }}" alt="logo de téléphone">Téléphone</h3>
+                <h3>Téléphone</h3>
                 <p>{{ $.Params.phone }}</p>
             </div>
         </div>
@@ -30,7 +30,7 @@
 
     <div class="right">
         <div class="exp">
-            <h2><img class="logo" src="{{ "image/briefcase-solid.svg" | relURL }}" alt="cartable de travail">Expériences professionnelles</h2>
+            <h2>Expériences</h2>
             {{ range .Params.cv.exp }}
             <div class="one-exp">
                 <div class="date">
@@ -48,7 +48,7 @@
         </div>
         <hr>
         <div class="formation">
-            <h2><img class="logo" src="{{ "image/graduation-cap-solid.svg" | relURL }}" alt="chapeau de graduation">Formations</h2>
+            <h2>Formations</h2>
             {{ range .Params.cv.formation }}
             <div class="one-formation">
                 <div class="date">
