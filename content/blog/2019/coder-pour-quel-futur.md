@@ -5,6 +5,9 @@ description: On va parler de l'Anthropocène, des impacts du numérique, d'obés
 readtime: 15
 thumbnail: wall-e-square.png
 author: Les coopérateurs Fairness
+authorId: richard-hanna
+gCO2e: 1.4
+EcoindexLink: http://www.ecoindex.fr/resultats/?id=63631
 aliases:
     - /blog/2019/coder-pour-quel-futur.html
 ---

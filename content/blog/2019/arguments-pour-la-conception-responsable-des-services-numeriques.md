@@ -5,6 +5,8 @@ description: Quels sont les arguments à mettre en avant pour convaincre une org
 readtime: 10
 thumbnail: logo-cnumr.png
 author: Les coopérateurs Fairness
+gCO2e: 1.29
+EcoindexLink: http://www.ecoindex.fr/resultats/?id=63630
 aliases:
     - /blog/2019/arguments-pour-la-conception-responsable-des-services-numeriques.html
 ---

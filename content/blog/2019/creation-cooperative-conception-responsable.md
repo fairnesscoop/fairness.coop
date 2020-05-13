@@ -5,6 +5,8 @@ description: Rassemblés en une société coopérative de professionnels du web,
 readtime: 10
 thumbnail: fairness.png
 author: Les coopérateurs Fairness
+gCO2e: 1.31
+EcoindexLink: http://www.ecoindex.fr/resultats/?id=63625
 aliases:
     - /blog/2019/creation-cooperative-conception-responsable.html
 ---

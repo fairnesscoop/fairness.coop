@@ -5,6 +5,9 @@ description: Les recruteurs aussi font de la veille. Si si, je vous jure, de la 
 readtime: 10
 thumbnail: vieprovieperso-square.png
 author: Les coopérateurs Fairness
+authorId: helene-maitre
+gCO2e: 1.32
+EcoindexLink: http://www.ecoindex.fr/resultats/?id=63634
 aliases:
     - /blog/2019/equilibre-vie-pro-vie-perso.html
 ---
@@ -49,5 +52,3 @@ Enfin, si les futurs salariés que je rencontre se sentent accompagnés jusque d
 Je pense définitivement que cette balance vie pro / vie perso est un peu déconnectée de notre réalité. Nous sommes des humains (oh surprise !) et même s’il est utile de ne pas tout mélanger nous ne pouvons pas cesser d’être mariés ou parents quand nous arrivons au boulot. Tout comme nous n’oublions pas l’existence de nos collègues quand nous rentrons à la maison. Nous n’avons pas à oublier ce qui nous constitue dans l’un ou l’autre des moments de notre journée.
 
 Pourquoi ne pas prendre en compte les états personnels (quand ils sont partagés volontairement) pour la répartition des tickets dans la journée ? Cela demande de l’humilité au premier qui osera se dévoiler et de la bienveillance à celui qui saura l’entendre en daily. Mais cela peut aussi laisser entrevoir la possibilité de la confiance mutuelle. Et croyez moi, ça donne envie de donner le change et de s’engager aussi.
-
-Hélène Maître, product owner et ancienne RH qui se soigne.

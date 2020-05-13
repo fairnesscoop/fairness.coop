@@ -5,6 +5,8 @@ description: Nous étions au ForumPHP 2019 qui se tenait à guichet fermé encor
 readtime: 15
 thumbnail: lightningtalk.jpg
 author: Les coopérateurs Fairness
+gCO2e: 1.37
+EcoindexLink: http://www.ecoindex.fr/resultats/?id=63624
 aliases:
     - /blog/2019/forum-php-2019.html
 ---
