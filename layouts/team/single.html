@@ -7,20 +7,24 @@
         <div class="presentation">
             <div class="presentation__full-name-and-post">
                 <div class="fullname">
-                    <h1>{{ $.Params.firstname }} {{ $.Params.lastname }}</h1>
+                    <h1>{{ .Params.firstname }} {{ .Params.lastname }}</h1>
                 </div>
 
                 <div class="post">
-                    <p>{{ $.Params.position }}</p>
+                    <p>{{ .Params.position }}</p>
                 </div>
             </div>
 
             <div class="presentation__contact">
-                <h3>Email</h3>
-                <p>{{ $.Params.email }}</p>
+                {{ if isset .Params "email" }}
+                    <h3>Email</h3>
+                    <p>{{ .Params.email }}</p>
+                {{end}}
 
-                <h3>Téléphone</h3>
-                <p>{{ $.Params.phone }}</p>
+                {{ if isset .Params "phone" }}
+                    <h3>Téléphone</h3>
+                    <p>{{ .Params.phone }}</p>
+                {{end}}
             </div>
         </div>
 
