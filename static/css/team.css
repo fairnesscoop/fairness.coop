@@ -1,27 +1,10 @@
+/* Ci-dessous le CSS lié à la list page de la section équipe */
 .team {
   display: flex;
   flex-direction: column;
   align-items: center;
   width: 100%;
   color: rgb(38, 51, 66);
-}
-
-@media screen and (min-width: 668px) {
-  .team {
-    flex-direction: row;
-    flex-wrap: wrap;
-    width: 500px;
-    margin: auto;
-  }
-}
-
-@media screen and (min-width: 1000px) {
-  .team {
-    flex-direction: row;
-    flex-wrap: wrap;
-    width: 750px;
-    margin: auto;
-  }
 }
 
 .onePerson {
@@ -69,6 +52,7 @@
   flex-direction: row;
   justify-content: center;
   margin: 10px 10px 20px 10px;
+  align-items: center;
 }
 
 .githubAndTwitter {
@@ -77,4 +61,129 @@
 
 .githubAndTwitter img {
   height: 20px;
+}
+
+.CV{
+  display: flex;
+  justify-content: center;
+}
+
+.CV a{
+  text-decoration: none;
+  font-weight: bold;
+  text-align: center;
+  color: #00acca;
+  font-size: 1.5em;
+}
+
+@media screen and (min-width: 668px) {
+  .team {
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 500px;
+    margin: auto;
+  }
+}
+
+@media screen and (min-width: 1000px) {
+  .team {
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 750px;
+    margin: auto;
+  }
+}
+
+/* Ci-dessous le CSS lié à la single page de la section équipe */
+
+.container-single-team{
+  margin: auto;
+  width: 80%;
+}
+
+.container-single-team .logo{
+  width: 23px;
+  margin-right: 10px;
+  margin-left: 0;
+}
+
+.container-single-team h1{
+  margin: 20px 0 10px 0;
+}
+.container-single-team h2{
+  text-transform: uppercase;
+  margin: 20px 0;
+}
+.container-single-team h3{
+  margin: 0 0 5px 0;
+  color: #00a199;
+  display: flex;
+}
+
+.container-single-team p{
+  margin: 0 0 20px 0;
+}
+
+.left img{
+  width: 250px;
+  margin:auto;
+  display:block;
+  border-radius: 50%;
+}
+
+.left .presentation .presentation__full-name-and-post{
+  text-align:center;
+  color: black;
+}
+
+.left .presentation .presentation__full-name-and-post .post p{
+  font-weight: bold;
+}
+
+.right .date{
+  display: flex;
+}
+.right .date p{
+  margin-bottom: 5px;
+  margin-right: 10px;
+  font-weight: bold;
+}
+
+.right .place{
+  margin: 0;
+  text-transform: uppercase;
+}
+
+hr{
+  border-color: #00a199;
+  border-top: none;
+  border-left: none;
+}
+
+@media screen and (min-width: 1000px) {
+  .container-single-team{
+    display:flex;
+    max-width: 970px;
+  }
+
+  .left .presentation .presentation__full-name-and-post{
+    text-align:left;
+  }
+
+  .left, .right{
+    margin: 30px;
+  }
+
+  .right .one-exp, .right .one-formation{
+    display:flex;
+  }
+
+  .right .date{
+    flex-direction: column;
+    width: 30%;
+  }
+
+  .right .details{
+    width: 70%;
+  }
 }

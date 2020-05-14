@@ -1,0 +1,73 @@
+{{ define "main" }}
+
+<div class="container-single-team">
+    <div class="left">
+        <img src="/team/images/{{ $.Param "picture" }}">
+
+        <div class="presentation">
+            <div class="presentation__full-name-and-post">
+                <div class="fullname">
+                    <h1>{{ .Params.firstname }} {{ .Params.lastname }}</h1>
+                </div>
+
+                <div class="post">
+                    <p>{{ .Params.position }}</p>
+                </div>
+            </div>
+
+            <div class="presentation__contact">
+                {{ if isset .Params "email" }}
+                    <h3>Email</h3>
+                    <p>{{ .Params.email }}</p>
+                {{end}}
+
+                {{ if isset .Params "phone" }}
+                    <h3>Téléphone</h3>
+                    <p>{{ .Params.phone }}</p>
+                {{end}}
+            </div>
+        </div>
+
+    </div>
+
+    <hr>
+
+    <div class="right">
+        <div class="exp">
+            <h2>Expériences</h2>
+            {{ range .Params.cv.exp }}
+            <div class="one-exp">
+                <div class="date">
+                    <p>{{.start}}</p>
+                    <p>{{.end}}</p>
+                </div>
+
+                <div class="details">
+                    <h3>{{.position}} - {{.place}}</h3>
+                    <p>{{.description}}</p>
+                </div>
+            </div>
+            {{end}}
+
+        </div>
+        <hr>
+        <div class="formation">
+            <h2>Formations</h2>
+            {{ range .Params.cv.formation }}
+            <div class="one-formation">
+                <div class="date">
+                    <p>{{.date}}</p>
+                </div>
+
+                <div class="details">
+                    <h3>{{.diploma}}</h3>
+                    <p class="place">{{.place}}</p>
+                    <p>{{.description}}</p>
+                </div>
+            </div>
+            {{end}}
+        </div>
+    </div>
+</div>
+
+{{end}}
