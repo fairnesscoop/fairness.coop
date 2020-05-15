@@ -11,7 +11,6 @@ EcoindexLink: http://www.ecoindex.fr/resultats/?id=63632
 aliases:
     - /blog/2019/design-review.html
 ---
-Arrivé dans ma nouvelle équipe depuis plus d'un an maintenant, je voudrais faire un point sur les bonnes pratiques que j'ai découvertes avec mes collègues et l'impact que ça a eu sur ma façon de travailler. Je vais commencer par une pratique un peu particulière qui a révolutionné ma façon de travailler en équipe : **la revue de design ou "design review"**.
 
 L'idée de base est de faire une revue en équipe de l'architecture d'une User Story à prendre sur le sprint en cours. C'est le cas à chaque fois qu'un nouveau ticket va être pris avant le démarrage du développement. On fait en sorte que toute l'équipe participe à l'architecture et au nommage (classes, variables, namespaces...) avant qu'un ticket ne sorte de la colonne "to do" pour aller vers la "doing". Le but est que celui qui code soit bien au clair sur ce qu'il a à faire et que ceux qui reliront le code ensuite puissent avoir une idée précise de ce qu'ils doivent vérifier.
 
