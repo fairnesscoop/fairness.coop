@@ -1,6 +1,6 @@
 ---
 title: "Un stage chez Fairness"
-publishDate: "2020-04-15"
+publishDate: "2020-05-15"
 description: À quoi ressemble la vie d'un développeur junior en stage chez Fairness ?
 readtime: 5
 thumbnail: fairness.png
