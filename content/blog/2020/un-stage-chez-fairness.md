@@ -1,7 +1,7 @@
 ---
 title: "Un stage chez Fairness"
 publishDate: "2020-04-15"
-description: Vous voulez voir à quoi ressemble la vie d'un développeur junior en stage chez Fairness ? N'hésitez pas à lire cet article.
+description: À quoi ressemble la vie d'un développeur junior en stage chez Fairness ?
 readtime: 5
 thumbnail: fairness.png
 author: Les coopérateurs Fairness
@@ -49,10 +49,10 @@ familiariser. Plutôt en phase d’observation, j’ai pu voir comment il procé
 propositions à des potentiels clients, des estimations, …     
 À ce moment là, j’ai été très surpris pour ne pas dire effrayé par la complexité des projets qu’ils maitiennent ou font 
 évoluer.    
-En effet, ils ne sont pas seulement axés sur du web pur et simple, ils travaillent aussi sur des projet plus imposant 
+En effet, ils ne sont pas seulement axés sur du web pur et simple, ils travaillent aussi sur des projets plus imposants 
 qu'on pourrait définir comme logiciel, ce qui ne m'a pas déplu car j'y voyais un challenge un peu plus gros.     
 
-Un vendredi sur deux, nous nous retrouvions avec l’équipe pour faire ce qu’ils appellent un dojo. Pendant cette journée,
+Un vendredi sur deux, nous nous retrouvions avec l’équipe pour faire ce qu’ils appellent un [dojo](/blog/2019/remue-meninges-collectif.html). Pendant cette journée,
  nous en profitions pour parler de tout ce qui touche à la coopérative, que ce soit d’ordre technique et / ou 
  administratif ou chacun pouvait donner son avis.    
  Nous suivions un ordre du jour qui listait tous les sujets que nous devions aborder et une personne de l’équipe 
@@ -96,4 +96,4 @@ Pour conclure, je suis très satisfait d’avoir parcouru un bout de chemin de m
 personnes aussi sympathiques et intéressantes. Grâce à ce stage, j’ai pu constater une amélioration en Symfony et plus 
 généralement en PHP en usant de bonnes pratiques et d’une bonne méthodologie de travail. Je sais maintenant à quoi 
 ressemble la vie de développeur et je tiens à remercier toute l’équipe Fairness d’avoir contribué à forger ma première 
-expérience dans ce domaine en acceptant de m’intégrer à leur équipe pour une durée de 6 mois.
+expérience dans ce domaine en acceptant de m’intégrer à leur équipe durant ces 6 derniers mois.
