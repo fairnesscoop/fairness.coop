@@ -1,14 +1,16 @@
 ---
 title: "SvelteJS, plus qu'une simple alternative à React, Vue ou Angular"
 publishDate: '2020-04-02'
-description: "Dans cet article je voudrais vous faire un retour d'expérience sur une techno que j'ai découverte il y a peu : SvelteJS !
-              Et pour spoiler un peu, je dois dire que cette techno front est absolument incroyable ! Et c'est un dev back qui le dit ..."
+description: "Dans cet article je vous fais un retour d'expérience sur l'utilisation de SvelteJS, une migration d'application anciennement React. Nous verrons quels sont ses avantages."
 readtime: 9
 thumbnail: svelte.png
 authorId: mathieu-marchois
 gCO2e: 1.35
 EcoindexLink: http://www.ecoindex.fr/resultats/?id=70654
 ---
+
+Dans cet article je voudrais vous faire un retour d'expérience sur une techno que j'ai découverte il y a peu : SvelteJS !
+Et pour spoiler un peu, je dois dire que cette techno front est absolument incroyable ! Et c'est un dev back qui le dit ...
 
 ## Contexte
 
