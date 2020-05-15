@@ -82,7 +82,7 @@ Avec les grèves et le confinement liés au Covid-19, la fin de mon stage s’es
 particulière puisqu’on a été confronté au télétravail.      
 À peu près deux, trois jours par semaine, nous faisions un appel vidéo avec Richard et Nicolas sur ce qu’on avait fait 
 la veille et sur ce qui devait être fait la journée même.
-Bien qu’étant chez moi, je ne me suis pas du tout senti seul, puisque je pouvais demandé de l’aide à n’importe quel 
+Bien qu’étant chez moi, je ne me suis pas du tout senti seul, puisque je pouvais demander de l’aide à n’importe quel 
 moment. Cette période a été l’occasion pour moi de travailler mon autonomie sur les projets clients ou les projets internes.        
 Environ une fois par semaine, avec l’équipe, nous nous retrouvions en Visio pour discuter et faire un tour de table 
 afin que chacun fasse part aux autres de ce dont il voulait partager.
