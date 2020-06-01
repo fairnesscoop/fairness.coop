@@ -6,36 +6,40 @@
 
     {{ range $pages}}
 
-        <div class="onePerson">
+        {{ if eq .Params.inTeam true }}
 
-            <div class="onePerson__picture">
-                <img src="/team/images/{{ .Params.picture }}" alt="image de profil de {{ .Params.firstname }} {{ .Params.lastname }}" onmouseover="this.src='/team/images/{{ .Params.altPicture }}'" onmouseout="this.src='/team/images/{{ .Params.picture }}'"/>
+            <div class="onePerson">
+
+                <div class="onePerson__picture">
+                    <img src="/team/images/{{ .Params.picture }}" alt="image de profil de {{ .Params.firstname }} {{ .Params.lastname }}" onmouseover="this.src='/team/images/{{ .Params.altPicture }}'" onmouseout="this.src='/team/images/{{ .Params.picture }}'"/>
+                </div>
+
+                <div class="onePerson__description">
+                    <div class="name">{{ .Params.firstname }} {{ .Params.lastname }}</div>
+                    <div class="userPosition">{{ .Params.position }}</div>
+                </div>
+
+                <div class="onePerson__link">
+
+                    {{ if (isset .Params "github") }}
+                        <div class="githubAndTwitter">
+                            <a href="{{ .Params.github }}"><img src="/image/GitHub.svg"></a>
+                        </div>
+                    {{end}}
+
+                    {{ if (isset .Params "twitter") }}
+                        <div class="githubAndTwitter">
+                            <a href="{{ .Params.twitter }}"><img src="/image/Twitter.svg"></a>
+                        </div>
+                    {{end}}
+
+                </div>
+
             </div>
 
-            <div class="onePerson__description">
-                <div class="name">{{ .Params.firstname }} {{ .Params.lastname }}</div>
-                <div class="userPosition">{{ .Params.position }}</div>
-            </div>
+        {{end}}
 
-            <div class="onePerson__link">
-
-                {{ if (isset .Params "github") }}
-                    <div class="githubAndTwitter">
-                        <a href="{{ .Params.github }}"><img src="/image/GitHub.svg"></a>
-                    </div>
-                {{end}}
-
-                {{ if (isset .Params "twitter") }}
-                    <div class="githubAndTwitter">
-                        <a href="{{ .Params.twitter }}"><img src="/image/Twitter.svg"></a>
-                    </div>
-                {{end}}
-
-            </div>
-
-        </div>
-
-    {{end}}  
+    {{end}}
 
 </section>
 
