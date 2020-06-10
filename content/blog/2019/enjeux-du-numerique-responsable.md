@@ -23,7 +23,7 @@ Au sein de notre coopérative Fairness, nous proposons nos compétences de déve
 
 En plus de l'économie d'énergie et donc l'économie financière (car moins d'équipements, moins de serveurs, etc ...), cela aide à ne pas créer d'obsolescence sur les terminaux (un site web devrait correctement fonctionner sur un téléphone âgé de 5 ans). Il faut réfléchir dès aujourd'hui à des outils résilients ET aidant les utilisateurs à plus de résilience.
 
-Nous contribuons également bénévolement à diverses initiatives : [Collectif conception numérique responsable](https://www.conception-numerique-responsable.com/), [Réinventer le numérique avec la Fing](https://reset.fing.org/), sensibilisations à travers le podcast [Techologie](https://techologie.net/) et à travers des conférences sur l'impact environnemental du numérique notamment auprès d'étudiants et du mentorat de projets d'intérêts général avec l'association [Lattitudes](https://www.latitudes.cc/).
+Nous contribuons également bénévolement à diverses initiatives : [Collectif conception numérique responsable](https://www.conception-numerique-responsable.com/), [Réinventer le numérique avec la Fing](https://reset.fing.org/), sensibilisations à travers le podcast [Techologie](https://techologie.net/) et à travers des conférences sur l'impact environnemental du numérique notamment auprès d'étudiants et du mentorat de projets d'intérêts général avec l'association [Latitudes](https://www.latitudes.cc/).
 
 ## Quelles actions mettre en place pour un numérique plus responsable dans son entreprise ?
 
