@@ -33,7 +33,7 @@ The Shift Project ([Carbonalyser](https://theshiftproject.org/carbonalyser-exten
 Experts dans la réalisation de produits web et mobile, nous intégrons la qualité, l'accessibilité comme l'impact écologique
 et sociétal dans les phases de conception puis d'accompagnement de nos clients.
 
-[Mathieu, Nicolas, Thomas et Richard](/team) sont des artisans du logiciel : ils développent des services sur mesure, conseillent
+[Mathieu, Nicolas et Gregory](/team) sont des artisans du logiciel : ils développent des services sur mesure, conseillent
 leurs clients sur des choix d'architecture et donnent des formations autour des technologies Symfony, React ou Node.js et
 l'écoconception.
 
