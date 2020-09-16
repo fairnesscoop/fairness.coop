@@ -1,0 +1,223 @@
+body {
+  font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+  font-size: 1em;
+  margin: 0 auto;
+}
+
+header {
+  padding: 0 20px;
+  max-width: 970px;
+  margin: 0 auto;
+}
+
+.banner {
+  display: flex;
+  margin: 20px auto;
+}
+
+.banner div {
+  align-self: center;
+}
+
+.banner .logo {
+  margin-right: 20px;
+}
+
+.banner .logo img {
+  float: left;
+  max-width: 99%;
+  max-height: 99%;
+  min-width: 52px;
+}
+
+.banner .concevoir {
+  font-size: 2em;
+  max-width: 135px;
+  min-width: 75px;
+  font-weight: normal;
+  line-height: 0.6em;
+}
+
+h1 {
+  margin: 0;
+}
+.banner .sitename {
+  text-indent: 0px;
+  display: inline-block;
+  letter-spacing: 0.07em;
+  font-family: Futura, Trebuchet MS, Arial, sans-serif;
+}
+
+.banner .tagline {
+  font-size: 0.43em;
+  letter-spacing: 0.02em;
+  color: #00a199;
+  white-space: nowrap;
+}
+
+.banner .menu {
+  min-width: 140px;
+  text-align: right;
+}
+
+.banner .push {
+  margin-left: auto;
+}
+
+.goToTop {
+  position: fixed;
+  bottom: 50px;
+  right: 20px;
+  text-decoration: none;
+  font-size: 4em;
+  color: #00a199;
+}
+
+main {
+  max-width: 970px;
+  margin: auto;
+}
+
+footer {
+  font-size: 1.125em;
+  height: 55px;
+  margin-top: 20px;
+  padding: 0 20px;
+}
+
+.blue-impact {
+  background: url('/image/blue-cloud.svg') bottom center no-repeat;
+  background-size: 80px;
+  width: 80px;
+  height: 50px;
+  bottom: 10px;
+  right: 10px;
+  position: fixed;
+  padding-bottom: 2px;
+}
+
+.blue-impact div {
+  width: 80px;
+  height: 50px;
+  text-align: center;
+  font-size: 0.8em;
+  font-weight: bold;
+  display: table-cell;
+  vertical-align: bottom;
+}
+
+.blue-impact div a {
+  color: #233344;
+  text-decoration: none;
+}
+
+.blue-impact span.unit {
+  display: block;
+  font-size: 0.8em;
+}
+
+footer ul {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-content: space-around;
+  line-height: 1.5em;
+  margin: auto;
+  padding: 0;
+  list-style: none;
+  height: 100%;
+  max-width: 970px;
+}
+
+footer li {
+  margin: 0 20px;
+  text-align: center;
+  font-weight: bold;
+}
+footer li:nth-child(2) {
+  margin-right: auto;
+}
+
+footer li:nth-child(5) {
+  font-weight: lighter;
+}
+footer li a {
+  text-decoration: none;
+  color: #233344;
+}
+footer li a:hover {
+  text-decoration: underline;
+}
+
+/* Code Highlight */
+pre {
+  padding: 10px 15px;
+}
+
+p > code {
+  background: #ccc;
+  color: #333;
+  border-radius: 0.2em;
+  padding: 0 0.2em;
+}
+
+@media screen and (min-width: 947px) {
+  footer {
+    margin-top: 150px;
+  }
+}
+
+@media screen and (max-width: 599px) {
+  .banner .logo {
+    margin-right: 15px;
+    height: 80px;
+  }
+
+  .banner .concevoir {
+    line-height: 0.5em;
+  }
+  .banner .sitename {
+    font-size: 1em;
+  }
+
+  .banner .tagline {
+    font-size: 0.45em;
+  }
+
+  footer {
+    margin-top: 60px;
+    padding-top: 30px;
+    height: 100px;
+  }
+
+  footer ul {
+    flex-direction: column;
+    align-content: stretch;
+    padding: 0;
+  }
+
+  footer li {
+    margin: 0;
+    text-align: left;
+  }
+  footer li:nth-child(1) {
+    order: 1;
+  }
+  footer li:nth-child(2) {
+    order: 2;
+    height: 35px;
+  }
+  footer li:nth-child(3) {
+    order: 4;
+    text-align: right;
+  }
+  footer li:nth-child(4) {
+    order: 5;
+    text-align: right;
+  }
+  footer li:nth-child(5) {
+    order: 3;
+    height: 30px;
+    justify-content: center;
+  }
+}
