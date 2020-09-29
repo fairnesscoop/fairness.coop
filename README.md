@@ -20,12 +20,7 @@ Generate the public folder
 
 ## Deploy
 
-The deployment is handle by a read-only [repository](https://github.com/fairnesscoop/fairness.coop.static) linked to the public dir.
-You need to build the content of the blog and then commit it to the repository.
-
-To do that, just run the following:
-
-    make deploy
+The deployment is launched automatically when a PR is merged into master
 
 ## Change Hugo version
 
