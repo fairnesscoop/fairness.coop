@@ -5,6 +5,6 @@ title: À lire, à écouter
 echoTitle: "Quotidien de CTO chez un fournisseur d'énergie renouvelable"
 echoPermalink: "https://soundcloud.com/podcastecho/e43-quotidien-de-cto-chez-un-fournisseur-denergie-renouvelable-avec-jean-michel-blanc"
 
-techologieTitle: "Un opérateur télécom coopératif et engagé dans la transition écologique avec Marion Graeffly"
-techologiePermalink: "https://soundcloud.com/techologie/un-operateur-telecom-cooperatif-et-engage-dans-la-transition-ecologique-avec-marion-graeffly"
+techologieTitle: "Deux ans de Techologie, que retenir et quel futur ?"
+techologiePermalink: "https://soundcloud.com/techologie/39-deux-ans-de-techologie-que-retenir-et-quel-futur"
 ---
