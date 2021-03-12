@@ -169,6 +169,7 @@ footer {
 }
 
 .impact div {
+  color: #ffffff;
   width: 80px;
   height: 50px;
   text-align: center;
@@ -178,10 +179,10 @@ footer {
   vertical-align: bottom;
 }
 
-.impact div a {
+/* .impact div a {
   color: #ffffff;
   text-decoration: none;
-}
+} */
 
 .impact span.unit {
   display: block;
