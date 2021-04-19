@@ -9,7 +9,7 @@ menu:
   main:
     - identifier: contact
       name: Contactez nous
-      url: mailto:equipe(at)fairness.coop
+      url: mailto:equipe@fairness.coop
     - identifier: coop
       name: La coopérative
       url: /blog/2019/creation-cooperative-conception-responsable/
