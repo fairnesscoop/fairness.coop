@@ -1,0 +1,17 @@
+{{ partial "head.html" . }}
+
+{{ partial "header.html" . }}
+
+<main>
+    <h1>{{ $.Params.legalTitle }}</h1>
+    <br/>
+    <article>
+        {{ .Content }}
+    </article>
+</main>
+
+{{ if isset .Params "gco2e" }}
+<div class="blue-impact"><div><a href="{{ .Params.EcoindexLink }}">{{ .Params.gCO2e }} <span class="unit">gCO2e</span></a></div></div>
+{{ end }}
+
+{{ partial "footer.html" . }}
