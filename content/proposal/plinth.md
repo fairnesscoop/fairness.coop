@@ -27,18 +27,16 @@ Sommaire
 
 ## 1. Qui sommes nous ?
 
-Fairness est une coopérative de conception responsable et agile des services numériques. Nous contribuons à l'économie sociale et solidaire à la fois par notre statut, mais aussi par nos actions : certification écoconception
-(formation greenit.fr), membres ou contributeurs bénévoles auprès du collectif Conception Numérique Responsable, API Days sustainable initiative,
+Fairness est une coopérative de conception responsable et agile des  services numériques. Nous contribuons à l'économie sociale et solidaire à la fois par notre statut, mais aussi par nos actions comme par exemple  la certification écoconception de l'ensemble de notre équipe (formation greenit.fr).
+
+Nous sommes aussi membres ou contributeurs bénévoles auprès du collectif Conception Numérique Responsable, API Days sustainable initiative,
 The Shift Project ([Carbonalyser](https://theshiftproject.org/carbonalyser-extension-navigateur/)), la Fing ou Latitudes.
 
 Experts dans la réalisation de produits web et mobile, nous intégrons la qualité, l'accessibilité comme l'impact écologique et sociétal dans les phases de conception puis d'accompagnement de nos clients.
 
-Gregory, Mathieu, Nicolas, Bertrand sont des artisans du logiciel : ils développent des services sur-mesure,
-conseillent leurs clients sur des choix d'architecture et donnent des formations autour des technologies Symfony,
-React, Svelte ou Node.js et l'écoconception.
+Gregory, Mathieu, Nicolas et Bertrand sont des artisans du logiciel : ils développent des services sur-mesure, conseillent leurs clients sur des choix d'architecture et donnent des formations autour des technologies Symfony, React, Svelte ou Node.js et l'écoconception.
 
-Hélène et Sébastien accompagnent et forment leurs clients autour des pratiques Lean et Agile. En tant que coach,
-Scrum Master ou Product Owner, ils facilitent les discussions entre les parties prenantes de services numériques.
+Hélène et Sébastien accompagnent et forment leurs clients autour des pratiques Lean et Agile. En tant que coach, Scrum Master ou Product Owner, ils facilitent les discussions entre les parties prenantes de services numériques.
 
 En savoir plus
 
@@ -48,23 +46,19 @@ En savoir plus
 
 ## 2. Notre compréhension du besoin
 
-Actuellement, le monde culturel et créatif est un  grand consommateur de matériaux et d'objets utilisés que ce soit pour la réalisation de scénographie ou l’aménagement d'expositions. Nombre de ces matériaux et objets sont achetés neufs. Après les éventements, ces mêmes matériaux sont stockés ou, dans le pire des cas, sont jetés. 
+Actuellement, le monde culturel et créatif est un grand consommateur de  matériaux et d'objets utilisés pour la réalisation de scénographie ou  l’aménagement d'expositions. Nombre de ces matériaux et objets sont  achetés neufs. Après les événements, ces mêmes matériaux sont jetés ou,  dans les meilleurs des cas stockés.
 
 Dans très peu de cas, ils sont réutilisés.
 
-Pour favoriser le réemploi, Plinth est une plateforme web visant à mettre en relation entre acteurs du monde culturel et créatif au profit d'une  économie durable et circulaire.
+Pour favoriser le réemploi de ces matériaux, Plinth est une plateforme  web visant à mettre en relation les acteurs du monde culturel et créatif dans une démarche d'économie durable et circulaire.
 
 Son objectif est de mettre en relation des structure culturelles et artistiques disposant d'éléments en stock (les donneurs) avec des structures souhaitant les réutiliser.
 
-L’idéal serait que les utilisateurs soient à la fois donneurs et receveur.
+L’idéal serait que les utilisateurs soient à la fois donneurs et receveurs.
 
-L'enjeu et que donneur et receveur soit dans une même zone géographique pour favoriser l'échange de proximité.
+L'enjeu est que donneur et receveur soient dans une même zone géographique pour favoriser l'échange de proximité.
 
-Dans une seconde phase, Plinth intégrera aussi une problématique de gestion des stocks. 
-
-Certains acteurs culturels et artistiques n'évoluent pas dans une même temporalité :
-
-Un musée peut par exemple avoir une exposition prévue de X années et déja être à la recherche d'éléments pour sa scénographie. Cependant, ce musée ne dispose pas forcément d'espace de stockage propre. Plinth proposera donc une solution de gestion d'espace de stockage.
+Plinth souhaite aussi prendre en compte l'aspect environnemental en prenant en compte l'impact en terme de CO2 que chaque transaction entre acheteur et receveur pourra avoir.
 
 **Modèle économique : **
 
@@ -77,24 +71,19 @@ L’accès au catalogue pourrait être public, mais l’accès aux coordonnées 
 Nous préconisons les approches agiles, Lean, d'innovation frugale, de circularité et d'éco-conception pour tous nos projets.
 Elles nous permettront de faire les choix les plus pertinents en fonction des différentes problématiques et réflexions rencontrées à chaque étape du projet.
 
-Elles ont porté leurs fruits dans tous les projets pour lesquels nous l’avons préconisée et utilisée. Nous essayons
-toujours de rester agile par rapport à cette méthodologie et donc de nous adapter au contexte projet.
+Elles ont porté leurs fruits dans tous les projets pour lesquels nous l’avons préconisée et utilisée. Nous essayons de toujours de rester agile par rapport à cette méthodologie et donc de nous adapter au contexte projet.
 
 ### Vision produit
 
 La vision d’un produit permet de donner une direction aux développements réalisés. Chaque membre de l’équipe projet est plus impliqué lorsqu’il comprend cette vision produit.
 
-Notre équipe de développement est au plus proche de vous et doit bien comprendre cette vision produit. Avec une équipe
-entièrement dédiée au projet, nous savons par expérience que nous aurons des meilleurs résultats.
+Notre équipe de développement est au plus proche de vous et doit bien comprendre cette vision produit. Avec une équipe entièrement dédiée au projet, nous savons par expérience que nous aurons des meilleurs résultats.
 
-Cette vision produit doit toujours correspondre aux besoins utilisateurs. Notre équipe est sensibilisée aux
-problématiques rencontrées par les utilisateurs de nos clients et sont capables de les aider à mieux cerner leurs
-besoins utilisateurs.
+Cette vision produit doit toujours correspondre aux besoins utilisateurs. Notre équipe est sensibilisée aux problématiques rencontrées par les utilisateurs de nos clients et sont capables de les aider à mieux cerner leurs besoins utilisateurs.
 
 ### S’adapter
 
-Les difficultés à transcrire les besoins utilisateurs en outils informatiques ont poussées vers une approche plus
-adaptative des méthodologies projet.
+Les difficultés à transcrire les besoins utilisateurs en outils informatiques ont poussées vers une approche plus adaptative des méthodologies projet.
 
 Les approches agiles se basent sur quelques principes fondamentaux :
 
