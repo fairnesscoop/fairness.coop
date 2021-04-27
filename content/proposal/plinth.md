@@ -27,7 +27,7 @@ Sommaire
 
 ## 1. Qui sommes nous ?
 
-Fairness est une coopérative de conception responsable et agile des  services numériques. Nous contribuons à l'économie sociale et solidaire à la fois par notre statut, mais aussi par nos actions comme par exemple  la certification écoconception de l'ensemble de notre équipe (formation greenit.fr).
+Fairness est une coopérative de conception responsable et agile des services numériques. Nous contribuons à l'économie sociale et solidaire à la fois par notre statut, mais aussi par nos actions comme par exemple la certification écoconception de l'ensemble de notre équipe (formation greenit.fr).
 
 Nous sommes aussi membres ou contributeurs bénévoles auprès du collectif Conception Numérique Responsable, API Days sustainable initiative,
 The Shift Project ([Carbonalyser](https://theshiftproject.org/carbonalyser-extension-navigateur/)), la Fing ou Latitudes.
@@ -46,56 +46,43 @@ En savoir plus
 
 ## 2. Notre compréhension du besoin
 
-Actuellement, le monde culturel et créatif est un grand consommateur de  matériaux et d'objets utilisés pour la réalisation de scénographie ou  l’aménagement d'expositions. Nombre de ces matériaux et objets sont  achetés neufs. Après les événements, ces mêmes matériaux sont jetés ou,  dans les meilleurs des cas stockés.
+Actuellement, le monde culturel et créatif est un grand consommateur de matériaux et d'objets utilisés pour la réalisation de scénographie ou l’aménagement d'expositions. Nombre de ces matériaux et objets sont achetés neufs. Après les événements, ces mêmes matériaux sont jetés ou, dans les meilleurs des cas, stockés.
 
 Dans très peu de cas, ils sont réutilisés.
 
-Pour favoriser le réemploi de ces matériaux, Plinth est une plateforme  web visant à mettre en relation les acteurs du monde culturel et créatif dans une démarche d'économie durable et circulaire.
+Pour favoriser le réemploi de ces matériaux, Plinth est une plateforme web visant à mettre en relation les acteurs du monde culturel et créatif dans une démarche d'économie durable et circulaire.
 
-Son objectif est de mettre en relation des structure culturelles et artistiques disposant d'éléments en stock (les donneurs) avec des structures souhaitant les réutiliser.
+Son objectif est de mettre en relation des structures culturelles et artistiques disposant d'éléments en stock (les donneurs) avec des structures souhaitant les réutiliser.
 
 L’idéal serait que les utilisateurs soient à la fois donneurs et receveurs.
 
 L'enjeu est que donneur et receveur soient dans une même zone géographique pour favoriser l'échange de proximité.
 
-Plinth souhaite aussi prendre en compte l'aspect environnemental en prenant en compte l'impact en terme de CO2 que chaque transaction entre acheteur et receveur pourra avoir.
+Plinth souhaite aussi prendre en compte l'aspect environnemental en minimisant l'impact en terme de CO2 que chaque transaction entre acheteur et receveur pourra avoir.
 
 **Modèle économique : **
 
 Plinth est gratuit pour les donneurs, mais avec un abonnement (autour de 80 €, variable en fonction des secteurs) pour ceux qui souhaitent récupérer gratuitement le matériel.
 
-L’accès au catalogue pourrait être public, mais l’accès aux coordonnées des  donneurs sera conditionné à la souscription d’un abonnement.
+L’accès au catalogue pourrait être public, mais l’accès aux coordonnées des donneurs sera conditionné à la souscription d’un abonnement.
 
 ## 3. Méthodologie
 
-Nous préconisons les approches agiles, Lean, d'innovation frugale, de circularité et d'éco-conception pour tous nos projets.
-Elles nous permettront de faire les choix les plus pertinents en fonction des différentes problématiques et réflexions rencontrées à chaque étape du projet.
+Nous démarrons tout projet par l'analyse du besoin utilisateur. A travers des échanges en début et tout le long du projet, nous essayons de mieux cerner ce besoin pour créer un service numérique le plus pertinent. 
 
-Elles ont porté leurs fruits dans tous les projets pour lesquels nous l’avons préconisée et utilisée. Nous essayons de toujours de rester agile par rapport à cette méthodologie et donc de nous adapter au contexte projet.
-
-### Vision produit
-
-La vision d’un produit permet de donner une direction aux développements réalisés. Chaque membre de l’équipe projet est plus impliqué lorsqu’il comprend cette vision produit.
-
-Notre équipe de développement est au plus proche de vous et doit bien comprendre cette vision produit. Avec une équipe entièrement dédiée au projet, nous savons par expérience que nous aurons des meilleurs résultats.
-
-Cette vision produit doit toujours correspondre aux besoins utilisateurs. Notre équipe est sensibilisée aux problématiques rencontrées par les utilisateurs de nos clients et sont capables de les aider à mieux cerner leurs besoins utilisateurs.
+En travaillant de manière itérative, nous pourrons faire les choix les plus pertinents en fonction des différentes problématiques et réflexions rencontrées à chaque étape du projet. A chacune de ces étapes, nous respectons les principes d'innovation frugale, de circularité et d'éco-conception pour limiter les impacts sociaux et environnementaux.
 
 ### S’adapter
 
-Les difficultés à transcrire les besoins utilisateurs en outils informatiques ont poussées vers une approche plus adaptative des méthodologies projet.
+Les difficultés à transcrire les besoins utilisateur en outils informatiques ont poussé vers une approche plus adaptative des méthodologies projet.
 
-Les approches agiles se basent sur quelques principes fondamentaux :
+Nous vous proposon de travailler selon quelques principes fondamentaux :
 
 * travailler en coopération pour faire émerger une solution qui correspond aux besoins utilisateur
 * privilégier ce qui apporte le plus de valeur ajoutée aux utilisateurs
-* montrer rapidement ce qu’on construit pour vérifier qu’on est sur la bonne voie
+* montrer rapidement ce qu’on construit pour vérifier que ça correspond à votre vision
 * savoir se remettre en cause : pour améliorer le produit et pour progresser en tant qu’équipe
 * réaliser un produit de qualité pour pérenniser son utilisation
-
-Sur la base de la méthodologie Scrum, nous avons réfléchi à une façon de travailler avec vous. C’est une base de travail
-qui pourra être revue lors de notre réunion de cadrage et tout au long du projet. L’agilité, c’est aussi s’adapter à la
-situation projet en partant de son expérience.
 
 ### L'équipe
 
@@ -105,9 +92,7 @@ situation projet en partant de son expérience.
 
 * Sebastien Solere coach agile  Fairness certifié écoconception
 
-  
-
-Pas de chef de projet, l'équipe s'auto-gère. Pas de relation client - prestataire, nous sommes partenaires.
+  Pas de chef de projet, l'équipe s'auto-gère. Pas de relation client - prestataire, nous sommes partenaires.
 
 ### Les différentes phases
 
@@ -128,7 +113,7 @@ Et, à chaque itération :
 * Surveillance des impacts planning et budget
 * Qualité logicielle pour pérenniser les développements
 * Mise en préproduction et tests en continu
-* Recueillir les feedbacks utilisateurs tout au long du projet pour valider que tout se passe bien
+* Recueil des retours utilisateur tout au long du projet pour valider que tout se passe bien
 * Amélioration continue à l'aide de rétrospectives d'équipe
 * Mise en production en continu (si possible)
 * Capacité d'adapter le périmètre fonctionnel en cas de besoin
@@ -185,7 +170,6 @@ Cette présentation fera l’objet d’une second atelier qui vous permettra de 
 créatives, ainsi que de choisir l’une des deux orientations proposées. 
 
 
-
 ## 6. Accessibilité
 
 Il est important aujourd'hui que les produits numériques n'excluent pas. Nous recommandons une intégration HTML en
@@ -195,16 +179,11 @@ respectant les règles d'accessibilité des contenus Web (WCAG) 2.0. Bonne nouve
 
 ### Approche orientée open source et artisanat du logiciel
 
-Pour l'instant, nous n'avons pas arrêté de solution technique. Le choix de technologie et de langage informatique dépendra du besoin réel de la plateforme à construire.
+Nous vous proposerons une solution technique pérenne et adaptée au besoin. Nous souhaitons créer des services nmériques maintenables à long terme.
 
-Cependant, au vu des informations actuelles et en comparaison avec d'autres projets construit par Fairness, nous pensons utiliser les technologies suivantes : Symfony  pour la partie serveur et Svelte pour la partie client
+Au vu des informations actuelles et en comparaison avec d'autres projets construits par Fairness, nous pensons utiliser les technologies suivantes : Symfony  pour la partie serveur et Svelte pour la partie client. Ce choix pourra être revu en fonction de nos discussions.
 
-Nous préconisons l'utilisation d'outils open-source
-
-Nous sommes des artisans du web et du logiciel. Nous adhérons à la pensée Software Craftwomanship et Craftmanship.
-
-Notre approche s'inspire des conceptions en Domain Driven Design, en architecture hexagonale, ou en Tests Driven
-Development.
+Nous sommes des artisans du web et du logiciel. Nos conceptions sont modulaires pour aider à la maintenabilité et la robustesse.
 
 
 
@@ -228,7 +207,7 @@ en France.
 Nous pouvons aussi envisager de travailler avec un hébergeur engagé chez les [Chatons](https://chatons.org/fr),
 Collectif des Hébergeurs Alternatifs, Transparents, Ouverts, Neutres et Solidaires.
 
-Les frais d'hébergement ou toute autre service sont à votre charge, vous permettant d'être indépendants de nous.
+Les frais d'hébergement ou toute autre service sont à votre charge, pour garantir votre indépendance.
 
 Par exemple, pour Infomaniak, le tarif est à partir de 5.75 €/mois et comprenant les prestations suivantes :
 
@@ -247,8 +226,7 @@ automatiques auprès de l'hébergeur et récupération de données en cas de dem
 Par expérience et par rapport au périmètre couvert dans cette proposition (Site Internet et GED) nous préconisons
 de provisionner 6 jours de développeur par an. Cette provision sera à ajuster selon vos besoins.
 
-Nous utilisons des outils de bug-tracking (Jira, Trello, sur Github ou autre) permettant de suivre les incidents et
-leur résolution. L’outil permet de jalonner les évolutions, de programmer les maintenances et de prioriser les tickets.
+Nous utilisons des outils de suivi d'incidents (Jira, Trello, sur Github ou autre). L’outil permet de jalonner les évolutions, de programmer les maintenances et de prioriser les tickets.
 Il permet de garder une trace des incidents et surtout de suivre leur résolution. L’outil de bug-tracking sera fortement
 utile lors de la recette de l’application développée.
 
@@ -257,8 +235,8 @@ dont le coût est à partir de 26 $/mois.
 
 ## 11. Open source
 
-Nous préconisons - ce n'est pas une obligation - de mettre votre code en open-source : l'intérêt pour vous est la
-transparence, le code ouvert à amélioration ou la correction de bugs, contribution aux communs et donc code réutilisable
+Nous préconisons - ce n'est pas une obligation - de mettre votre code ou une partie de votre code en open-source : l'intérêt pour vous est la
+transparence, un code ouvert à amélioration ou la correction de bugs, contribution aux communs et donc un code réutilisable
 pour d'autres usages.
 
 ## 12. Résilience
@@ -269,10 +247,10 @@ On fera tout pour que ça ne se produise pas à travers une coopération étroit
 Il est important par exemple d'avoir une documentation permettant pour un développeur de démarrer le projet rapidement.
 
 Des tests unitaires et fonctionnels sont écrits pour garantir la fiabilité et la pérennité du code.
-Le code métier est découplé du framework et du langage permettant une montée de version plus facilement
+Le code métier est découplé du framework et du langage permettant une montée de version plus facile
 (Domain Driven Design, architecture hexagonale).
 
-La documentation et les user stories (spécifications) sont stockées dans la base de code du projet afin de garantir
+La documentation et les spécifications (User Stories) sont stockées dans la base de code du projet afin de garantir
 qu'elle est toujours à portée de main.
 
 Un "Plan de reprise d'activité" sera établi et qui explicitera l'ensemble des actions à
@@ -308,7 +286,7 @@ Par rapport aux informations recueillie lors du premier atelier organisé avec P
 
 Durant chaque itération de 2 semaines, un (ou 2) atelier seront prévus afin de préparer l'itération suivante (cf [Les différentes phases](Les différentes phases))
 
-Cette offre inlucs 10 ateliers.
+Cette offre inclut 10 ateliers.
 
 - Budget : 10 ateliers à 600 €HT soit un total de 6000 €HT
 
@@ -322,7 +300,7 @@ Fairness ne possède pas les compétences nécessaire en interne pour cette part
 
 A titre indicatif, nous estimons à 5 jours le temps nécessaire pour monter l'infrastructure
 
-- Budget indicatif : 5 jours devops  à 500 €HT soit un total de 2500 €HT
+- Budget indicatif : 5 jours Devops  à 500 €HT soit un total de 2500 €HT
 
 ### Charte graphique web “éco-conçue” et identité visuelle
 
