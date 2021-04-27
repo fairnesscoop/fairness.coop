@@ -60,7 +60,7 @@ L'enjeu est que donneur et receveur soient dans une même zone géographique pou
 
 Plinth souhaite aussi prendre en compte l'aspect environnemental en minimisant l'impact en terme de CO2 que chaque transaction entre acheteur et receveur pourra avoir.
 
-**Modèle économique : **
+**Modèle économique :**
 
 Plinth est gratuit pour les donneurs, mais avec un abonnement (autour de 80 €, variable en fonction des secteurs) pour ceux qui souhaitent récupérer gratuitement le matériel.
 
@@ -88,9 +88,9 @@ Nous vous proposon de travailler selon quelques principes fondamentaux :
 
 * Grégory Pelletier, développeur senior Fairness certifié écoconception
 
-* Bertrand Denoncin développeur  Fairness
+* Bertrand Denoncin, développeur  Fairness
 
-* Sebastien Solere coach agile  Fairness certifié écoconception
+* Sebastien Solere, coach agile  Fairness certifié écoconception
 
   Pas de chef de projet, l'équipe s'auto-gère. Pas de relation client - prestataire, nous sommes partenaires.
 
