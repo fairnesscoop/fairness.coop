@@ -116,6 +116,16 @@ footer li a {
   width: 100%;
 }
 
+@media print {
+  .article-content a {
+    text-decoration: none;
+  }
+  .article-content li  {
+    padding: 0;
+    margin : 0
+  }
+}
+
 .article-author {
   display: flex;
   justify-content: space-between;
