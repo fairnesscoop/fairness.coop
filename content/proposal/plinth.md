@@ -57,7 +57,7 @@ L’idéal serait que les utilisateurs soient à la fois donneurs et receveurs.
 
 L'enjeu est que donneur et receveur soient dans une même zone géographique pour favoriser l'échange de proximité.
 
-Plinth souhaite aussi prendre en compte l'aspect environnemental de sa plateforme en minimisant l'impact en terme de CO2 de chaque transaction.
+Plinth souhaite aussi prendre en compte l'aspect environnemental de sa plateforme en minimisant l'impact en terme de CO2 de chaque transaction entre donneurs et abonnés.
 
 **Modèle économique :**
 
@@ -247,7 +247,7 @@ Par rapport aux informations recueillies lors du premier atelier organisé avec 
 
 ### Accompagnement eco-conception, gestion de projet et ateliers
 
-Durant chaque itération de 2 semaines, un (ou 2) atelier seront prévus afin de préparer l'itération suivante (cf [Les différentes phases](Les différentes phases))
+Durant chaque itération de 2 semaines, un (ou 2) atelier seront prévus afin de préparer l'itération suivante (cf Les différentes phases)
 
 Cette offre inclut 10 ateliers. Cela inclut la préparation et le compte rendu.
 
