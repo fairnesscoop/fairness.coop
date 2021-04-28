@@ -1,7 +1,7 @@
 ---
 title: "Plinth"
 proposalTitle: "Plinth"
-date: "2020-02-12"
+date: "2021-04-25"
 author: Les coopérateurs Fairness
 aliases:
     - /proposal/plinth.html
