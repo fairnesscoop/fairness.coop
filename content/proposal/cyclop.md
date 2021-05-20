@@ -90,11 +90,13 @@ Nous privilégions un véritable partenariat entre tous les membres de l'équipe
 * Co-création avec un interlocuteur unique, porteur du projet qui est disponible pour répondre (aux heures de bureau) à nos questions tout au long du projet. Elle/il anime le projet côté Cnap.
 * Immersion métier : nous travaillerons de façon plus efficace quand nous aurons compris votre métier et vos problématiques. C'est la phase plus communément appelée "Vis ma vie".
 * Cadrage du projet autour de l'interface, des contenus et de la technique :
-    ** Vision du projet et des utilisateurs
-    ** Périmètre fonctionnel et technique
-    ** Structure de l'information, des interactions et des données
-    ** Conception de l'expérience
-    ** Conception visuelle
+
+    * Vision du projet et des utilisateurs
+    * Périmètre fonctionnel et technique
+    * Structure de l'information, des interactions et des données
+    * Conception de l'expérience
+    * Conception visuelle
+
 * Itérations tout au long de la réalisation : au moins un atelier (2 si possible), pour définir le cadre de la prochaine itération et défricher les itérations suivantes. Tout en gardant une vue macro sur l'objectif à atteindre.
 * Rétrospective d'équipe afin de s'améliorer
 * Mise en production finale
@@ -131,7 +133,7 @@ Pour en savoir plus
 
 * [Les arguments pour mettre en place une démarche de conception responsable / écoconception](https://www.greenit.fr/2019/10/08/6-arguments-pour-la-conception-responsable-des-services-numeriques/)
 * [Présentation Retour d'expérience écoconception / conception responsable](https://speakerdeck.com/supertanuki/retour-dexperience-conception-numerique-responsable)
-* [Présentaion Impact environnemental de mon site web](https://speakerdeck.com/supertanuki/impact-environnemental-de-mon-site-web)
+* [Présentation Impact environnemental de mon site web](https://speakerdeck.com/supertanuki/impact-environnemental-de-mon-site-web)
 
 ## 5. Graphisme
 
