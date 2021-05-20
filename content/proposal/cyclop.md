@@ -90,13 +90,11 @@ Nous privilégions un véritable partenariat entre tous les membres de l'équipe
 * Co-création avec un interlocuteur unique, porteur du projet qui est disponible pour répondre (aux heures de bureau) à nos questions tout au long du projet. Elle/il anime le projet côté Cnap.
 * Immersion métier : nous travaillerons de façon plus efficace quand nous aurons compris votre métier et vos problématiques. C'est la phase plus communément appelée "Vis ma vie".
 * Cadrage du projet autour de l'interface, des contenus et de la technique :
-
-** Vision du projet et des utilisateurs
-** Périmètre fonctionnel et technique
-** Structure de l'information, des interactions et des données
-** Conception de l'expérience
-** Conception visuelle
-
+    ** Vision du projet et des utilisateurs
+    ** Périmètre fonctionnel et technique
+    ** Structure de l'information, des interactions et des données
+    ** Conception de l'expérience
+    ** Conception visuelle
 * Itérations tout au long de la réalisation : au moins un atelier (2 si possible), pour définir le cadre de la prochaine itération et défricher les itérations suivantes. Tout en gardant une vue macro sur l'objectif à atteindre.
 * Rétrospective d'équipe afin de s'améliorer
 * Mise en production finale
