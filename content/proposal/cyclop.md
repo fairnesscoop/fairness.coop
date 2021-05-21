@@ -75,7 +75,7 @@ Nous vous proposons de travailler selon quelques principes fondamentaux :
 
 ### L'équipe
 
-* Vous, votre équipe qui représentent les utilisateurs et définissent la stratégie de la Cnap sur ce projet
+* Vous, votre équipe qui représente les utilisateurs et définissent la stratégie de la Cnap sur ce projet
 
 * Nos développeurs Fairness qui s'occupent du développement du site : Bertrand, Grégory, Mathieu et Nicolas
 
@@ -145,6 +145,11 @@ La première étape consistera à concevoir la nouvelle charte graphique web. Il
 
 Cette charte respectera les principes d’éco-conception : le choix du type de visuels et leur traité graphique, le nombre et le choix des typographies, la simplicité du design etc, ont un impact sur le poids des pages et sur le nombre de requêtes serveur. Nous les limiterons autant que possible en maintenant un service qui répondra bien aux attentes des utilisateurs.
 
+Voici quelques exemples de sites éco-conçus :
+
+* [Mastère Strategie et Design pour l'anthropocène](https://strategy-design-anthropocene.org/fr)
+* [Low Tech Lab](https://lowtechlab.org/fr)
+
 
 ## 6. Accessibilité
 
@@ -156,7 +161,7 @@ Il est important aujourd'hui que les produits numériques n'excluent pas. Nous r
 
 Nous vous proposerons une solution technique pérenne et adaptée au besoin. Nous souhaitons créer des services numériques maintenables à long terme. Et nous apprécions de pouvoir laisser notre code accessible aux autres développeurs qui pourraient être intéressés par notre façon de travailler. 
 
-Au vu des informations actuelles et en comparaison avec d'autres projets construits par Fairness, nous pensons utiliser les technologies suivantes : Symfony  pour la partie serveur et Svelte pour la partie client. Ce choix pourra être revu en fonction de nos discussions.
+Au vu des informations actuelles et en comparaison avec d'autres projets construits par Fairness, nous pensons utiliser les technologies suivantes : Symfony/Laravel pour la partie serveur et Svelte pour la partie client. Ce choix pourra être revu en fonction de nos discussions.
 
 Nous sommes des artisans du web et du logiciel. Nos conceptions sont modulaires pour aider à la maintenabilité et la robustesse.
 
@@ -217,22 +222,43 @@ etc...
 
 ## 14. Budget et planning
 
-Compte tenu des informations à notre connaissance, voici notre estimation pour les différents lots.
+Compte tenu des informations à notre connaissance, voici notre estimation pour les différents lots :
+**Total : 68 250 €HT**
 
-Comme présenté dans notre démarche, cette proposition ne peut être exhaustive et n'a pas lieu d'engagement.
-Nous nous engageons sur des moyens avec un budget et un planning fixes, avec pour objectif un service sobre, pertinent et convivial pour les utilisateurs.
+Comme présenté dans notre démarche, cette proposition ne peut être exhaustive car nous concevrons ensemble le périmètre complet des 2 premières phases du projet. 
+Nous nous engageons sur des moyens avec un budget et un planning fixes, avec pour objectif un service sobre, pertinent et convivial pour les utilisateurs. Nous passerons du temps lors du cadrage pour affiner ce budget. Nous pourrons revoir cette estimation vers le bas. En cas de dépassement, nous regarderons comment optimiser le périmètre pour rester dans le budget.
 
 ### Conception de l'interface, accompagnement eco-conception, gestion de projet et ateliers
 
-Sur des projets similaires, nous estimons que le travail à fournir correspond à 25 jours des différents profils.
+Sur des projets similaires, nous estimons que le travail à fournir correspond à 15 jours des différents profils.
+Cela inclut la phase de cadrage mais aussi les ajustements en cours de développement.
+Nous ferons aussi la formation pour la prise en main de l'interface d'administration.
 
 * Budget : 15 jours UX/design/facilitateur à 650 €HT soit un total de 9 750 €HT
 
+### Charte graphique web “éco-conçue” et identité visuelle
+
+La charte graphique d'un site éco-concu a une grande incidence sur l'efficience du service comme sur l'accessibilité.
+
+Nous travaillons rgulièrement avec des UX/UI sensibilisés à la démarche de conception responsable.
+
+- Budget indicatif : 10 jours à 650 €HT soit un total de 6500 €HT
+
+
 ### Développement du site, préconisation technique, atelier de conception
 
-Nous aurons besoin d'affiner cette estimation lors des premiers ateliers fonctionnels. Nous cherchons toujours à travailler en apportant le maximum de valeur aux utilisateurs en respectant votre budget. 
+Nous aurons besoin d'affiner cette estimation lors des premiers ateliers fonctionnels. Nous cherchons toujours à travailler en apportant le maximum de valeur aux utilisateurs en respectant votre budget.
 
-* Budget : 65 jours développeur à 650 €HT soit un total de 42 250 €HT
+Pour la conception, nous comprenons qu'il faut construire :
+
+* l'administration du contenu du site en incluant l'interface d'import des données et l'API d'import
+* le système de gestion du droit
+* la migration des données existantes (à affiner entre capacité automatique et saisie manuelle)
+* le moteur de recherche sur les contenus
+* les animations pour donner une vie numérique à l'oeuvre 
+* le respect des normes RGAA pour site public et administration
+
+* Budget : 75 jours développeur à 650 €HT soit un total de 48 750 €HT
 
 ### Infrastructure
 
@@ -240,21 +266,11 @@ L'infrastructure comprend toutes les étapes nécessaires à la mise en producti
 
 Cette partie comprend aussi les étapes nécessaires au bon fonctionnement de l'application sur une infrastructure sécurisée, stable, résiliente et  performante.
 
-Fairness ne possède pas les compétences nécessaires en interne pour cette partie. Nous préconisons de passer par un prestataire externe spécialisé partageant les mêmes valeurs que celles que nous défendons.
+Fairness s'occupe de la discussion avec le prestataire d'hébergement et peut aussi proposer un hébergement éco-responsable.
 
-A titre indicatif, nous estimons à 5 jours le temps nécessaire pour monter l'infrastructure
+A titre indicatif, nous estimons à 5 jours le temps nécessaire pour monter l'infrastructure.
 
 - Budget indicatif : 5 jours Devops  à 650 €HT soit un total de 3 250 €HT
-
-### Charte graphique web “éco-conçue” et identité visuelle
-
-La charte graphique d'un site éco-concu a une grande incidence sur l'efficience du service comme sur l'accessibilité.
-
-Nous préconisons de travailler avec des UX/UI sensibilisés à la démarche de conception responsable
-
-Comme pour l'infrastructure, Fairness ne possède pas les compétences nécessaire en interne dans ce domaine. Nous pouvons cependant vous mettre en contact avec un prestataire externe spécialisé dans la conception responsable de services numériques
-
-- Budget indicatif : 10 jours à 650 €HT soit un total de 6500 €HT
 
 
 
@@ -262,7 +278,7 @@ Comme pour l'infrastructure, Fairness ne possède pas les compétences nécessai
 
 La vie d'une application web ne se termine pas à la première mise en ligne de l'application.
 
-Il est fort probable que Plinth évolue au fil du temps. De ce fait nous prévoyons une provision de 6 jours développeur par an à 580 €HT soit un total de 3480 €HT par année afin d'effectuer les opérations de maintenance, de correction de bugs et de petites évolutions.
+Nous prévoyons une provision de 12 jours développeur par an à 600 €HT soit un total de 7 200 €HT par année afin d'effectuer les opérations de maintenance, de correction de bugs et de petites évolutions.
 
 Cette provision pourra être ajustée à la baisse ou à la hausse selon vos besoins.
 
