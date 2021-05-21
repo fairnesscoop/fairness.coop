@@ -103,6 +103,10 @@ Nous privilégions un véritable partenariat entre tous les membres de l'équipe
 * Champagne (ou jus de fruits)
 * TMA, maintenance évolutive et correction de bugs.
 
+Nous proposons de travailler sur ce mode sur les 2 étapes principales :
+* l'essentielle => livraison décembre 2021
+* l'exploratice => livaison début avril 2022
+
 Les ateliers peuvent se faire en visio-conférence ou en physique à Paris .
 
 Et, à chaque itération :
@@ -161,7 +165,7 @@ Il est important aujourd'hui que les produits numériques n'excluent pas. Nous r
 
 Nous vous proposerons une solution technique pérenne et adaptée au besoin. Nous souhaitons créer des services numériques maintenables à long terme. Et nous apprécions de pouvoir laisser notre code accessible aux autres développeurs qui pourraient être intéressés par notre façon de travailler. 
 
-Au vu des informations actuelles et en comparaison avec d'autres projets construits par Fairness, nous pensons utiliser les technologies suivantes : Symfony/Laravel pour la partie serveur et Svelte pour la partie client. Ce choix pourra être revu en fonction de nos discussions.
+Au vu des informations actuelles et en comparaison avec d'autres projets construits par Fairness, nous pensons utiliser les technologies suivantes : Symfony/Laravel pour la partie serveur, Svelte pour la partie client, D3.js pour les animations. Ce choix pourra être revu en fonction de nos discussions.
 
 Nous sommes des artisans du web et du logiciel. Nos conceptions sont modulaires pour aider à la maintenabilité et la robustesse.
 
