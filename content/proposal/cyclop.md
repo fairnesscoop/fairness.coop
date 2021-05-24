@@ -43,7 +43,7 @@ Hélène et Sébastien accompagnent et forment leurs clients autour des pratique
 En savoir plus
 
 * [Présentation de Fairness](/blog/2019/creation-cooperative-conception-responsable/)
-* [Notre offre, compétences et démarche](/blog/2019/notre-offre/)
+* [Notre offre, notre démarche et nos compétences](/blog/2019/notre-offre/)
 * [Nos références clients](/blog/2019/references/)
 
 ## 2. Notre compréhension du besoin
@@ -127,7 +127,7 @@ Nous formons une équipe : designer, porteur du projet et développeurs particip
 
 Nous préconisons de concevoir avec une approche "mobile-first" afin d'aller à l'essentiel sur chaque écran. Les informations seront disponibles à la fois sur mobile et sur écran de bureau.
 
-Pour mesurer l’empreinte technique de chaque page (poids, complexité, etc.) et l’empreinte environnementale associée (gaz à effet de serre et eau), nous utiliserons ecoindex.fr. Nous pourrions (à voir ensemble) déterminer un critère ou des critères à respecter pour chacune des pages du site.
+Lors de nos audits ou nos développements, pour mesurer l’empreinte technique de chaque page (poids, complexité, etc.) et l’empreinte environnementale associée (gaz à effet de serre et eau), nous utilisons ecoindex.fr. Nous pourrions (à voir ensemble) déterminer un critère ou des critères à respecter pour chacune des pages du site.
 
 Le principe est surtout d'être exemplaire et d'aligner les volontés du site avec votre métier concernant la performance énergétique et l'empreinte environnementale.
 
@@ -149,11 +149,10 @@ La première étape consistera à concevoir la nouvelle charte graphique web. Il
 
 Cette charte respectera les principes d’éco-conception : le choix du type de visuels et leur traité graphique, le nombre et le choix des typographies, la simplicité du design etc, ont un impact sur le poids des pages et sur le nombre de requêtes serveur. Nous les limiterons autant que possible en maintenant un service qui répondra bien aux attentes des utilisateurs.
 
-Voici quelques exemples de sites éco-conçus :
-
-* [Mastère Strategie et Design pour l'anthropocène](https://strategy-design-anthropocene.org/fr)
+ Quelques conceptions orientées sobriété numérique : 
+ 
 * [Low Tech Lab](https://lowtechlab.org/fr)
-
+* [Low Tech magazine](https://www.lowtechmagazine.com/)
 
 ## 6. Accessibilité
 
@@ -165,9 +164,16 @@ Il est important aujourd'hui que les produits numériques n'excluent pas. Nous r
 
 Nous vous proposerons une solution technique pérenne et adaptée au besoin. Nous souhaitons créer des services numériques maintenables à long terme. Et nous apprécions de pouvoir laisser notre code accessible aux autres développeurs qui pourraient être intéressés par notre façon de travailler. 
 
-Au vu des informations actuelles et en comparaison avec d'autres projets construits par Fairness, nous pensons utiliser les technologies suivantes : Symfony/Laravel pour la partie serveur, Svelte pour la partie client, D3.js pour les animations. Ce choix pourra être revu en fonction de nos discussions.
+Au vu des informations actuelles et en comparaison avec d'autres projets construits par Fairness, nous pensons utiliser les technologies suivantes : Symfony ou Laravel pour la partie serveur, Svelte pour la partie client, D3.js pour les animations et Elastic Search. Nous avons une forte expertise sous ces technologies. Ce choix pourra être revu en fonction de nos discussions.
 
-Nous sommes des artisans du web et du logiciel. Nos conceptions sont modulaires pour aider à la maintenabilité et la robustesse.
+Nous sommes des artisans du web et du logiciel. Nos conceptions sont modulaires pour aider à la maintenabilité, l'évolutivité et la robustesse. Cette modularité rendra la conception par lot plus efficace même après les 4 lots initials.
+
+Nous avons la chance de travailler sur le long terme avec nos clients. Voici quelques unes de nos références :
+
+* [Mastère Strategie et Design pour l'anthropocène](https://strategy-design-anthropocene.org/fr), génération de pages statiques
+* [Vimeet, outil de mise en relation professionnelle](https://vimeet.events/), technologies Symfony, Vue.js et Elastic Search
+* Radio France, mise en place de la technologie Svelte.js et migration de Drupal vers Symfony
+ 
 
 
 
