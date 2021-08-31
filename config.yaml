@@ -25,6 +25,9 @@ menu:
     - identifier: blog
       name: Blog
       url: /blog/
+    - identifier: jobs
+      name: Jobs
+      url: /jobs/
     - identifier: podcast-echo
       name: Podcast echo
       url: https://podcastecho.github.io/

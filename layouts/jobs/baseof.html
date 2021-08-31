@@ -11,8 +11,8 @@
                 <p>{{ .PublishDate.Format "02/01/2006" }}</p>
             </div>
             <div class="time">
-                <img src="{{ "image/read-time.svg" | relURL }}" alt="" class="read-time">
-                <p> Temps de lecture : {{ $.Params.readtime }} minutes.</p>
+                <img src="{{ "image/location-marker.svg" | relURL }}" alt="" class="read-time">
+                <p> {{ $.Params.location }}</p>
             </div>
         </div>
 
@@ -30,6 +30,10 @@
 </section>
 <main>
     <div class="article-content">
+        <p class="description">
+            {{ .Description }}
+        </p>
+
         {{ block "main" . }}
 
         {{end}}
