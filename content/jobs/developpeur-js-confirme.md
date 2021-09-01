@@ -1,10 +1,9 @@
 ---
-title: 'Developpeur.se Javascript confirmé.e'
+title: 'Developpeur·euse Javascript confirmé·e'
 publishDate: '2021-01-09'
 thumbnail: remue-meninges.png
 readtime: 8
 location: 'Paris et/ou télétravail'
-EcoindexLink: http://www.ecoindex.fr/resultats/?id=63630
 aliases:
   - /jobs/developpeur-js-confirmé.html
 ---
@@ -15,9 +14,9 @@ Vous articiper à la construction et l’élaboration des projets web et mobile,
 
 Vous élaborez la documentation technique et contribuez aux projets de R&D et open source de notre coopérative.
 
-Vous êtes attenti·f·ve aux besoins des clients et êtes capable de formuler une solution technique pertinente et responsable par rapport aux besoins exprimés.
+Vous êtes attentif·ive aux besoins des clients et êtes capable de formuler une solution technique pertinente et responsable par rapport aux besoins exprimés.
 
-Nous attachons une grande importance à la qualité du développement : code maintenable, cohérent, couvert par des tests.Vous faites preuve de pédagogie lorsque vous êtes amené·e à travailler en collaboration avec des développeu·se·r·s moins expérimenté·e·s que vous.
+Nous attachons une grande importance à la qualité du développement : code maintenable, cohérent, couvert par des tests.Vous faites preuve de pédagogie lorsque vous êtes amené·e à travailler en collaboration avec des développeur·euse·s moins expérimenté·e·s que vous.
 
 ## Profil
 
@@ -49,7 +48,7 @@ Les missions et clients ne sont jamais imposés, nous discutons de la répartiti
 
 ### Contreparties financières
 
-Chaque année nous reversons les bénéfices aux employés et membres de la coopératives.
+Chaque année nous reversons les bénéfices aux employé·e·s et membres de la coopérative
 
 ### Vie quotidienne
 
