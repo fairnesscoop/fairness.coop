@@ -10,24 +10,24 @@ aliases:
 
 ## Missions
 
-Vous articiper à la construction et l’élaboration des projets web et mobile, de la co-conception à la livraison, tout en assurant leur maintenance.
+Vous participez à la construction et l’élaboration des projets web et mobile, de la co-conception à la livraison, tout en assurant leur maintenance.
 
 Vous élaborez la documentation technique et contribuez aux projets de R&D et open source de notre coopérative.
 
 Vous êtes attentif·ive aux besoins des clients et êtes capable de formuler une solution technique pertinente et responsable par rapport aux besoins exprimés.
 
-Nous attachons une grande importance à la qualité du développement : code maintenable, cohérent, couvert par des tests.Vous faites preuve de pédagogie lorsque vous êtes amené·e à travailler en collaboration avec des développeur·euse·s moins expérimenté·e·s que vous.
+Nous attachons une grande importance à la qualité du développement : code maintenable, cohérent, couvert par des tests. Vous faites preuve de pédagogie lorsque vous êtes amené·e à travailler en collaboration avec des développeur·euse·s moins expérimenté·e·s que vous.
 
 ## Profil
 
 Pour vous, contribuer à construire l’internet de demain implique de construire un internet plus résilient, moins énergivore, adapté à différents types de public (personnes en situation de handicap, ...) et en lien avec les problématiques sociétales et environnementales actuelles.
 
-La maîtrise de l’anglais technique est indispensable et vous avez une première expérience autour des technologies et langages suivants:
+La maîtrise de l’anglais technique est indispensable et vous avez une première expérience autour des technologies et langages suivants :
 
-- Vous maîtrisez au moins un framework PHP (Symfony, Laravel, ...) et son ecosystème ;
-- Vous vous intéressez à d'autres langages de programmation (Typescript, PHP, Rust, Go, Node.js, Deno etc.) ;
+- Vous maîtrisez au moins un framework PHP (Symfony, Laravel...) et son ecosystème ;
+- Vous vous intéressez à d'autres langages de programmation (Typescript, PHP, Rust, Go, Node.js, Deno...) ;
 
-Vous savez accompagner des développeu.se·r·s pour de la code-review ou du pair programming.  Vous avez envie d’évoluer dans une entreprise auto-gérée et souhaitez prendre part activement à l’évolution de la coopérative.
+Vous savez accompagner des développeur.euse·s pour de la code review ou du pair programming. Vous avez envie d’évoluer dans une entreprise auto-gérée et souhaitez prendre part activement à l’évolution de la coopérative.
 
 Vous aimez co-construire et collaborer avec vos collègues grâce à des échanges constructifs.
 Vous aimez le défi collectif et savez élaborer une solution à plusieurs voix.
@@ -36,7 +36,7 @@ Vous aimez le défi collectif et savez élaborer une solution à plusieurs voix.
 
 Fairness milite pour un écart réduit des salaires au sein de notre coopérative.
 
-La rémunération proposée sera en fonction du profil et sans doute comprise entre 42 000 € et 53 000 € pour les profils les plus expérimentés.
+La rémunération proposée sera en fonction du profil et sans doute comprise entre 42 000 € et 53 000 € pour les profils les plus expérimentés.
 
 ## Ce que nous offrons :
 
@@ -48,12 +48,12 @@ Les missions et clients ne sont jamais imposés, nous discutons de la répartiti
 
 ### Contreparties financières
 
-Chaque année nous reversons les bénéfices aux employé·e·s et membres de la coopérative
+Chaque année nous reversons les bénéfices aux employé·e·s et membres de la coopérative.
 
 ### Vie quotidienne
 
 - Nous prenons intégralement en charge la mutuelle pour vous et votre famille.
 - Nous travaillons 4 jours sur 5 pour nos principaux client. sLe 5ème jour est principalement dédié à la coopérative. C'est notre jour de dojo.
-- Vous êtes libre de travailler complètement en télétravail, cependant nous essayons de nous retrouver physiquement au moins 1 fois par mois à Paris.
+- Vous êtes libre de travailler complètement en télétravail, cependant nous essayons de nous retrouver physiquement au moins une fois par mois à Paris.
 
 Pour en savoir plus sur le fonctionnement de notre coopérative c'est [ici](/blog/2020/transformation-en-cooperative/)
