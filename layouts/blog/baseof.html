@@ -30,6 +30,10 @@
 </section>
 <main>
     <div class="article-content">
+        <p class="description">
+            {{ .Description }}
+        </p>
+
         {{ block "main" . }}
 
         {{end}}
