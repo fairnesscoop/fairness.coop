@@ -1,6 +1,6 @@
 ---
 title: 'Developpeur·euse PHP confirmé·e'
-publishDate: '2021-01-09'
+publishDate: '2021-09-01'
 thumbnail: notre-offre.png
 readtime: 8
 location: 'Paris et/ou télétravail'
