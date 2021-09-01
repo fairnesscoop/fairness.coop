@@ -10,13 +10,15 @@ aliases:
 
 ## Missions
 
-Vous articiper à la construction et l’élaboration des projets web et mobile, de la co-conception à la livraison, tout en assurant leur maintenance.
+Vous participer à la construction et l’élaboration des projets web et mobile, de la co-conception à la livraison, tout en assurant leur maintenance.
 
 Vous élaborez la documentation technique et contribuez aux projets de R&D et open source de notre coopérative.
 
 Vous êtes attentif·ive aux besoins des clients et êtes capable de formuler une solution technique pertinente et responsable par rapport aux besoins exprimés.
 
-Nous attachons une grande importance à la qualité du développement : code maintenable, cohérent, couvert par des tests.Vous faites preuve de pédagogie lorsque vous êtes amené·e à travailler en collaboration avec des développeur·euse·s moins expérimenté·e·s que vous.
+Nous attachons une grande importance à la qualité du développement : code maintenable, cohérent, couvert par des tests.
+
+Vous faites preuve de pédagogie lorsque vous êtes amené·e à travailler en collaboration avec des développeur·euse·s moins expérimenté·e·s que vous.
 
 ## Profil
 
@@ -24,12 +26,13 @@ Pour vous, contribuer à construire l’internet de demain implique de construir
 
 La maîtrise de l’anglais technique est indispensable et vous avez une première expérience autour des technologies et langages suivants:
 
-- Vous maîtrisez au moins un framework javascript (React, Svelte, Angular ?, Vue) et son ecosystème ;
+- Vous maîtrisez au moins un framework javascript (React, Svelte, Vue) et son ecosystème ;
 - Vous vous intéressez à d'autres langages de programmation (Typescript, PHP, Rust, Go, Node.js, Deno etc.) ;
 
 Vous savez accompagner des développeu.se·r·s pour de la code-review ou du pair programming.  Vous avez envie d’évoluer dans une entreprise auto-gérée et souhaitez prendre part activement à l’évolution de la coopérative.
 
 Vous aimez co-construire et collaborer avec vos collègues grâce à des échanges constructifs.
+
 Vous aimez le défi collectif et savez élaborer une solution à plusieurs voix.
 
 ## Rémunération
