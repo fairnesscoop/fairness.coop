@@ -1,0 +1,9 @@
+.list-description {
+  font-size: 1.4rem;
+  line-height: 1.6em;
+  margin-bottom: 1.5rem;
+}
+
+.list-description a {
+  color: #103b69;
+}
