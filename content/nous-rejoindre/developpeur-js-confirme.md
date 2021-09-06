@@ -1,11 +1,11 @@
 ---
-title: 'Developpeur·euse PHP confirmé·e'
+title: 'Developpeur·euse Javascript confirmé·e'
 publishDate: '2021-09-01'
-thumbnail: notre-offre.png
+thumbnail: remue-meninges.png
 readtime: 8
 location: 'Paris et/ou télétravail'
 aliases:
-  - /jobs/developpeur-php-confirmé.html
+  - /jobs/developpeur-js-confirmé.html
 ---
 
 ## Missions
@@ -26,10 +26,10 @@ Pour vous, contribuer à construire l’internet de demain implique de construir
 
 La maîtrise de l’anglais technique est indispensable et vous avez une première expérience autour des technologies et langages suivants :
 
-- Vous maîtrisez au moins un framework PHP (Symfony, Laravel...) et son ecosystème ;
+- Vous maîtrisez au moins un framework javascript (React, Svelte, Vue...) et son ecosystème ;
 - Vous vous intéressez à d'autres langages de programmation (Typescript, PHP, Rust, Go, Node.js, Deno...) ;
 
-Vous savez accompagner des développeur·euse·s pour de la code review ou du pair programming. Vous avez envie d’évoluer dans une entreprise auto-gérée et souhaitez prendre part activement à l’évolution de la coopérative.
+Vous savez accompagner des développeur·euse·s pour de la code review ou du pair programming.  Vous avez envie d’évoluer dans une entreprise auto-gérée et souhaitez prendre part activement à l’évolution de la coopérative.
 
 Vous aimez co-construire et collaborer avec vos collègues grâce à des échanges constructifs.
 
@@ -43,7 +43,7 @@ La rémunération proposée sera en fonction du profil et sans doute comprise en
 
 ## Ce que nous offrons :
 
-### Pouvoir de décision 
+### Pouvoir de décision
 
 Fairness est une coopérative (SCOP) auto-gérée c’est à dire que chaque coopérateur dispose d’une voix lors des votes concernant les prises de décisions importantes. Nous donnons la possibilité de prendre une part active à l’organisation et à la stratégie de l’entreprise.
 
@@ -56,7 +56,11 @@ Chaque année nous reversons les bénéfices aux employé·e·s et membres de la
 ### Vie quotidienne
 
 - Nous prenons intégralement en charge la mutuelle pour vous et votre famille.
-- Nous travaillons 4 jours sur 5 pour nos principaux client. sLe 5ème jour est principalement dédié à la coopérative. C'est notre jour de dojo.
+- Nous travaillons 4 jours sur 5 pour nos principaux clients. Le 5ème jour est principalement dédié à la coopérative. C'est notre jour de dojo.
 - Vous êtes libre de travailler complètement en télétravail, cependant nous essayons de nous retrouver physiquement au moins une fois par mois à Paris.
 
 Pour en savoir plus sur le fonctionnement de notre coopérative c'est [ici](/blog/2020/transformation-en-cooperative/)
+
+## Postuler
+
+N'hésitez pas à nous écrire à contact@fairness.coop et nous organiserons une première rencontre !

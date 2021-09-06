@@ -26,8 +26,8 @@ menu:
       name: Blog
       url: /blog/
     - identifier: jobs
-      name: Jobs
-      url: /jobs/
+      name: Nous rejoindre
+      url: /nous-rejoindre/
     - identifier: podcast-echo
       name: Podcast echo
       url: https://podcastecho.github.io/
