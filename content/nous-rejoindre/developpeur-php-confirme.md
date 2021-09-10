@@ -27,7 +27,7 @@ Pour vous, contribuer à construire l’internet de demain implique de construir
 La maîtrise de l’anglais technique est indispensable et vous avez une première expérience autour des technologies et langages suivants :
 
 - Vous maîtrisez au moins un framework PHP (Symfony, Laravel...) et son ecosystème ;
-- Vous vous intéressez à d'autres langages de programmation (Typescript, PHP, Rust, Go, Node.js, Deno...) ;
+- Vous vous intéressez à d'autres langages de programmation (Typescript, Rust, Go, Node.js, Deno...) ;
 
 Vous savez accompagner des développeur·euse·s pour de la code review ou du pair programming. Vous avez envie d’évoluer dans une entreprise auto-gérée et souhaitez prendre part activement à l’évolution de la coopérative.
 
