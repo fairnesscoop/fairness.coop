@@ -63,4 +63,4 @@ Pour en savoir plus sur le fonctionnement de notre coopérative c'est [ici](/blo
 
 ## Postuler
 
-N'hésitez pas à nous écrire à contact@fairness.coop et nous organiserons une première rencontre !
+N'hésitez pas à nous écrire à equipe@fairness.coop et nous organiserons une première rencontre !
