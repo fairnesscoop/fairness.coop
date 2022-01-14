@@ -63,7 +63,7 @@ Refonte de l'intranet permettant de gérer les différents flux de Radio France.
 
 ## API Days
 
-Co-organisation du challenge Sustainable APIs. [Voir l'initiative](https://www.apidays.co/initiatives-sustainablecloud)
+Co-organisation du challenge Sustainable APIs. [Voir l'initiative](https://www.apidays.global/sustainable-digital-challenge/)
 
 ## Vimeet
 
