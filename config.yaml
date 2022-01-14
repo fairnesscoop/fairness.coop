@@ -7,9 +7,6 @@ paginate: 5
 
 menu:
   main:
-    - identifier: contact
-      name: Contactez nous
-      url: mailto:equipe@fairness.coop
     - identifier: coop
       name: La coopérative
       url: /blog/2019/creation-cooperative-conception-responsable/
@@ -34,9 +31,9 @@ menu:
     - identifier: podcast-techologie
       name: Podcast techologie
       url: https://techologie.net/
-    - identifier: legal
-      name: Mentions légales
-      url: /legal/
+    - identifier: contact
+      name: Nous contacter
+      url: mailto:equipe@fairness.coop
 
 markup:
   defaultMarkdownHandler: blackfriday
