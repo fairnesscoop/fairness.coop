@@ -1,6 +1,6 @@
 ---
 title: 'Developpeur·euse Javascript confirmé·e'
-publishDate: '2021-09-01'
+date: '2021-09-01'
 thumbnail: remue-meninges.png
 readtime: 8
 location: 'Paris et/ou télétravail'

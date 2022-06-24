@@ -1,6 +1,6 @@
 ---
 title: "Coder pour quel futur ?"
-publishDate: "2019-03-22"
+date: "2019-03-22"
 description: On va parler de l'Anthropocène, des impacts du numérique, d'obésiciel, d'éco-conception web et de s'impliquer pour un futur souhaitable !
 readtime: 15
 thumbnail: wall-e-square.png

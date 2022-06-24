@@ -12,7 +12,7 @@
                 {{ .Description }}
             </p>
             <p class="indicators">
-                <img src="{{ "image/date.svg" | relURL }}" alt=""> {{ .PublishDate.Format "02/01/2006"  }}
+                <img src="{{ "image/date.svg" | relURL }}" alt=""> {{ .Date.Format "02/01/2006"  }}
                 <img src="{{ "image/read-time.svg" | relURL }}" alt="" class="read-time"> Temps de lecture : {{ .Params.readtime }} minutes.
             </p>
         </div>

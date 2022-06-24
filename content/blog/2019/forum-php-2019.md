@@ -1,6 +1,6 @@
 ---
 title: "Retour sur le ForumPHP 2019"
-publishDate: "2019-11-08"
+date: "2019-11-08"
 description: Nous étions au ForumPHP 2019 qui se tenait à guichet fermé encore une fois au Paris Marriott Rive Gauche.
 readtime: 15
 thumbnail: lightningtalk.jpg

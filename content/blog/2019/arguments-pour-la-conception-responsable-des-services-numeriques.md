@@ -1,6 +1,6 @@
 ---
 title: "Arguments pour la conception responsable des services numériques"
-publishDate: "2019-10-08"
+date: "2019-10-08"
 description: Quels sont les arguments à mettre en avant pour convaincre une organisation ou un client d'opter pour la conception responsable de son service numérique, son site web ou son application mobile ?
 readtime: 10
 thumbnail: logo-cnumr.png

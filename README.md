@@ -18,6 +18,10 @@ Generate the public folder
 
     make build
 
+### Adding pages
+
+To add pages, add a Markdown file under `content/`. The file will be picked up by Hugo. Be sure to copy and adapt the [front matter](https://gohugo.io/content-management/front-matter/) from an existing page.
+
 ## Deploy
 
 The deployment is launched automatically when a PR is merged into master

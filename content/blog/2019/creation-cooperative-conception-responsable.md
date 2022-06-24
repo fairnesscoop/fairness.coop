@@ -1,6 +1,6 @@
 ---
 title: "Création d'une coopérative de conception des services numériques prenant en compte l'impact environnemental et sociétal"
-publishDate: "2019-10-23"
+date: "2019-10-23"
 description: Rassemblés en une société coopérative de professionnels du web, les membres de Fairness accompagnent leurs clients dans la conception responsable de services numériques.
 readtime: 10
 thumbnail: fairness.png
