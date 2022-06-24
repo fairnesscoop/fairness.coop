@@ -1,6 +1,6 @@
 ---
 title: "Remue-méninges collectif"
-publishDate: "2019-02-21"
+date: "2019-02-21"
 description: A chaque équipe son fonctionnement, à chaque entreprise ses valeurs et à chaque modèle économique ses priorités. Nous sommes des artisans de produits numériques, et nous sommes d'ailleurs payés pour ça. Cela n'empêche pas nos envies et nos besoins d'apprentissage, d'équilibre et d'équité de continuer à grandir. Trouver un moyen de mêler tout cela fait partie de notre quotidien d'équipe.
 readtime: 15
 thumbnail: remue-meninges.png

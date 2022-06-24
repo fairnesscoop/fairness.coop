@@ -1,6 +1,6 @@
 ---
 title: "Notre transformation en coopérative"
-publishDate: "2020-03-09"
+date: "2020-03-09"
 description: Depuis le 15 octobre 2019, nous sommes Fairness, une coopérative de 6 personnes. Voici notre cheminement.
 readtime: 10
 thumbnail: fairness.png

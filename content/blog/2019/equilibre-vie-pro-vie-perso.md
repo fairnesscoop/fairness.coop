@@ -1,6 +1,6 @@
 ---
 title: "Équilibre vie pro / vie perso dans le monde mystérieux des développeurs"
-publishDate: "2019-02-07"
+date: "2019-02-07"
 description: Les recruteurs aussi font de la veille. Si si, je vous jure, de la veille de recruteurs. De la veille sur la façon d’approcher les candidats, leurs motivations, leurs envies, leurs façons d’évoluer dans leurs carrières et de choisir leurs futures entreprises.
 readtime: 10
 thumbnail: vieprovieperso-square.png

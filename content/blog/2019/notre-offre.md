@@ -1,6 +1,6 @@
 ---
 title: 'Notre offre'
-publishDate: 2019-10-09
+date: 2019-10-09
 description: Notre offre d'accompagnement, nos compétences langages, technologies, frameworks de développement et notre démarche.
 readtime: 5
 thumbnail: notre-offre.png

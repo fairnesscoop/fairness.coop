@@ -1,6 +1,6 @@
 ---
 title: "La design review : révolution du travail en équipe"
-publishDate: "2019-03-07"
+date: "2019-03-07"
 description: "Arrivé dans ma nouvelle équipe depuis plus d'un an maintenant, je voudrais faire un point sur les bonnes pratiques que j'ai découvertes avec mes collègues et l'impact que ça a eu sur ma façon de travailler. Je vais commencer par une pratique un peu particulière qui a révolutionné ma façon de travailler en équipe : la revue de design ou 'design review'."
 readtime: 5
 thumbnail: design-review.png

@@ -1,6 +1,6 @@
 ---
 title: "Numérique à l'épreuve des crises et des catastrophes"
-publishDate: "2020-03-19"
+date: "2020-03-19"
 description: Le numérique d'aujourd'hui suppose un monde stable et en croissance alors que le monde de demain est incertain.
 readtime: 6
 thumbnail: numerique-et-crises.jpg
