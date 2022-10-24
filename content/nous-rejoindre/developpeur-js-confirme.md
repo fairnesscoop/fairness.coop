@@ -6,6 +6,7 @@ readtime: 8
 location: 'Paris et/ou télétravail'
 aliases:
   - /jobs/developpeur-js-confirmé.html
+draft: true
 ---
 
 ## Missions
