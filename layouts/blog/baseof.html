@@ -55,11 +55,15 @@
             </div>
             <div class="social-network">
                 {{ if (isset .Params "github") }}
-                    <a class="githubAndTwitter" href="{{ .Params.github }}"><img src="/image/GitHub.svg" alt=""></a>
+                    <a class="social-network-link" href="{{ .Params.github }}"><img src="/image/GitHub.svg" alt=""></a>
                 {{end}}
 
                 {{ if (isset .Params "twitter") }}
-                    <a class="githubAndTwitter" href="{{ .Params.twitter }}"><img src="/image/Twitter.svg" alt=""></a>
+                    <a class="social-network-link" href="{{ .Params.twitter }}"><img src="/image/Twitter.svg" alt=""></a>
+                {{end}}
+
+                {{ if (isset .Params "mastodon") }}
+                    <a class="social-network-link" href="{{ .Params.mastodon }}"><img src="/image/Mastodon.svg" alt=""></a>
                 {{end}}
             </div>
         </div>
