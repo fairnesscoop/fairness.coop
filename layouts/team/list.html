@@ -22,14 +22,20 @@
                 <div class="onePerson__link">
 
                     {{ if (isset .Params "github") }}
-                        <div class="githubAndTwitter">
+                        <div class="social-network-link">
                             <a href="{{ .Params.github }}"><img src="/image/GitHub.svg"></a>
                         </div>
                     {{end}}
 
                     {{ if (isset .Params "twitter") }}
-                        <div class="githubAndTwitter">
+                        <div class="social-network-link">
                             <a href="{{ .Params.twitter }}"><img src="/image/Twitter.svg"></a>
+                        </div>
+                    {{end}}
+
+                    {{ if (isset .Params "mastodon") }}
+                        <div class="social-network-link">
+                            <a href="{{ .Params.mastodon }}"><img src="/image/Mastodon.svg"></a>
                         </div>
                     {{end}}
 
