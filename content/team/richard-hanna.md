@@ -4,7 +4,6 @@ firstname: Richard
 lastname: Hanna
 position: Développeur senior
 picture: richard-hanna.png
-altPicture: richard-hanna-alt.png
 github: 'https://github.com/supertanuki'
 twitter: 'https://twitter.com/richardhanna'
 inTeam: false
