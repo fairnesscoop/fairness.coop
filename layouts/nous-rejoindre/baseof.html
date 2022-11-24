@@ -39,30 +39,7 @@
 
     {{ range $author }}
 
-        <div class="article-author">
-            <div class="presentation">
-                <div class="img">
-                    <img src="/team/images/{{ .Params.picture }}" alt="Photo de profil de {{ .Params.firstname }} {{ .Params.lastname }}">
-                </div>
-                <div class="presentation-details">
-                    <p class="name">{{ .Params.firstname }} {{ .Params.lastname }}</p>
-                    <p class="position">{{ .Params.position }}</p>
-                </div>
-            </div>
-            <div class="social-network">
-                {{ if (isset .Params "github") }}
-                    <a class="social-network-link" href="{{ .Params.github }}"><img src="/image/GitHub.svg" alt=""></a>
-                {{end}}
-
-                {{ if (isset .Params "twitter") }}
-                    <a class="social-network-link" href="{{ .Params.twitter }}"><img src="/image/Twitter.svg" alt=""></a>
-                {{end}}
-    
-                {{ if (isset .Params "mastodon") }}
-                    <a class="social-network-link" href="{{ .Params.mastodon }}"><img src="/image/Mastodon.svg" alt=""></a>
-                {{end}}
-            </div>
-        </div>
+    {{ partial "author.html" . }}
 
     {{ end }}
 
