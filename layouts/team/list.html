@@ -39,6 +39,13 @@
                         </div>
                     {{end}}
 
+
+                    {{ if (isset .Params "linkedin") }}
+                        <div class="social-network-link">
+                            <a href="{{ .Params.linkedin }}"><img src="/image/linkedin.svg"></a>
+                        </div>
+                    {{end}}
+
                 </div>
 
             </div>
