@@ -34,7 +34,7 @@ Chacun contribue en tant que membre du [collectif Conception Numérique Responsa
 
 * [linkedin.com/company/fairness-coop](https://www.linkedin.com/company/fairness-coop)
 
-* Venir nous rencontrer :   
-*Morning Coworking République,  
-2 Rue Dieu,  
-75010 Paris*
+* Venir nous rencontrer :  
+*Lot D  
+3 Rue de la Concertation  
+75018 Paris*
