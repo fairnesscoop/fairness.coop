@@ -1,11 +1,11 @@
 ---
 title: |
     "45% des fonctionnalités jamais utilisées" : qu'en est-il vraiment ?
-date: "2023-03-30"
+date: "2023-03-31"
 description: |
     C'est un chiffre que nous utilisons parfois en conférence et dans nos communications. Mais d'où provient-il ? Après un peu d'archéologie, il s'avère ne pas être si solide. Ce qui ne remet pas en cause l'enjeu qu'il sert souvent à introduire : éliminer les fonctionnalités inutiles.
-readtime: 8
-thumbnail: fairness.png
+readtime: 7
+thumbnail: loupe.jpg
 author: Les coopérateurs Fairness
 authorId: florimond-manca
 ---
@@ -24,17 +24,15 @@ Nous pouvons donc aller voir ce que "Cast Software" et "Standish Group" ont à d
 
 Du côté de Cast Software, je n'ai pas trouvé de référence traitant d'un sujet similaire.
 
-J'ai en revanche trouvé un fil à remonter du côté de Standish Group
+J'ai en revanche trouvé un fil à remonter du côté de Standish Group.
 
 ### Les études de Standish Group
 
 Standish Group a publié diverses études dans le domaine de la qualité des projets logiciels.
 
-L'étude plus connue semble être le "CHAOS Report". La [première édition en 1994](https://www.standishgroup.com/sample_research_files/chaos_report_1994.pdf) s'intéressait à la réussite ou non des projets logiciels (_software projects_). On apprend ainsi que sur les cas étudiés, "31.1% des projets sont annulés avoir même d'avoir été terminés".
+L'étude plus connue semble être le "CHAOS Report". Depuis la [première édition en 1994](https://www.standishgroup.com/sample_research_files/chaos_report_1994.pdf), ce rapport s'intéresse à la réussite ou non des projets logiciels (_software projects_). On apprend ainsi que sur les cas étudiés, "31.1% des projets sont annulés avoir même d'avoir été terminés". Il n'y est cependant pas question de l'utilisation effective des fonctionnalités.
 
-Il n'y est cependant pas question de l'utilisation effective des fonctionnalités. L'angle d'étude par la "réussite ou non des projets" semble n'avoir pas changé, en témoigne le [CHAOS Report 2021](https://www.successthroughsafe.com/blog-1/2021/11/13/standish-chaos-report-2021).
-
-Au global, l'objet des CHAOS Reports semble avoir été (et de toujours être) de montrer l'avantage des méthodes agiles notamment par rapport aux méthodes en cascade (_waterfall_) dans le domaine du logiciel. Cela a probablement occassionné des biais. Notons par exemple les critiques méthodologiques formulées dans le papier [The Rise and Fall of the Chaos Report Figures](https://dl.acm.org/doi/abs/10.1109/MS.2009.154), publié dans la revue IEEE en 2010.
+Au global, l'objet des CHAOS Reports semble avoir été (et de toujours être) de montrer l'avantage des méthodes agiles notamment par rapport aux méthodes en cascade (_Waterfall_) dans le domaine du logiciel. Cela a probablement occassionné des biais. Notons par exemple les critiques méthodologiques formulées dans le papier [The Rise and Fall of the Chaos Report Figures](https://dl.acm.org/doi/abs/10.1109/MS.2009.154), publié dans la revue IEEE en 2010.
 
 En tout état de cause cependant, le CHAOS Report n'est pas la source que l'on cherche.
 
@@ -44,15 +42,15 @@ C'est pourtant bien chez Standish Group que la source primaire se trouve, comme 
 
 En tapant "Standish Group features never used" dans un moteur de recherche, je suis tombé sur deux billets de blog.
 
-Le premier billet s'intitule [Why 45% of all software features in production are NEVER used](https://www.linkedin.com/pulse/why-45-all-software-features-production-never-used-david-rice/) et fut publié par David Rice en 2016. Il comporte un graphique en camembert appuyant le titre du billet. La somme des portions "Jamais utilisées" et "Rarement utilisées" est de 64%. Le chiffre de 70% est donc déjà une approximation. Le graphique cite la source suivante : "Standish Group, Study of 2000 projects at 1000 companies". Dommage, on ne va pas pouvoir retrouver un rapport ou une étude précise avec cela.
+Le premier billet s'intitule [Why 45% of all software features in production are NEVER used](https://www.linkedin.com/pulse/why-45-all-software-features-production-never-used-david-rice/) et fut publié par David Rice en 2016. Il comporte un graphique en camembert appuyant le titre du billet. La somme des portions "Jamais utilisées" et "Rarement utilisées" est de 64%. Le chiffre de 70% serait donc déjà une approximation. Le graphique cite la source suivante : "Standish Group, Study of 2000 projects at 1000 companies". Dommage, on ne va pas pouvoir retrouver un rapport ou une étude précise avec cela.
 
-Dans un commentaire, un internaute cite cet autre billet : [Are 64% of Features Really Rarely or Never Used?](https://www.mountaingoatsoftware.com/blog/are-64-of-features-really-rarely-or-never-used). Dans ce billet critique datant de 2015, l'auteur Mike Cohn signale que la métrique selon laquelle "64% des fonctionnalités sont rarement voire jamais utilisées" proviendrait d'une présentation introductive (_keynote_) donnée par Jim Johnson, à l'époque président de Standish Group. Cette allocution eut lieu lors de la conférence XP 2002. Selon l'auteur, qui indique avoir contacté Standish Group directement, cette affirmation se basait sur l'étude de "4 applications internes". Il ne s'agirait donc pas d'une affirmation basée sur un grand jeu de données, ni même sur des applications commerciales. Le billet résume les données du Standish Group remises dans leur contexte par ce graphique :
+Dans un commentaire, un internaute cite cet autre billet : [Are 64% of Features Really Rarely or Never Used?](https://www.mountaingoatsoftware.com/blog/are-64-of-features-really-rarely-or-never-used). Dans ce billet critique datant de 2015, l'auteur Mike Cohn signale que la métrique selon laquelle "64% des fonctionnalités sont rarement voire jamais utilisées" proviendrait d'une présentation introductive (_keynote_) donnée par Jim Johnson, à l'époque président de Standish Group, lors de la conférence XP 2002. Selon l'auteur, qui indique avoir contacté Standish Group directement, cette affirmation se basait sur l'étude de "4 applications internes". Il ne s'agirait donc pas d'une affirmation basée sur un grand jeu de données, ni même sur des applications commerciales. Le billet résume les données du Standish Group remises dans leur contexte par ce graphique :
 
-![](https://www.mountaingoatsoftware.com/uploads/blog/Chart001.jpg)
+![Graphique en camembert intitulé "Feature Use in Four Internal-Use Products. Valeurs : never = 45%, rarely = 19%, sometimes = 16%, often = 13%, always = 7%. Source : Jim Johnson, Chairman of the Standish Group, Keynote "ROI, It's Your Job", Third International Conference on Extreme Programming, Alghero, Italy, May, 26-29, 2002.](https://www.mountaingoatsoftware.com/uploads/blog/Chart001.jpg)
 
 La conférence XP 2002 est également citée dans un papier d'un chercheur de l'Université du Québec à Montréal publié en mai 2009 et intitulé [Agile development: Issues and avenues requiring a substantial enhancement of the business perspective in large projects](https://www.researchgate.net/publication/221186023_Agile_development_Issues_and_avenues_requiring_a_substantial_enhancement_of_the_business_perspective_in_large_projects). En page 62, l'auteur y fait référence pour illustrer le "_software bloat_", défini comme "un phénomène en vertu duquel les applications incluent des fonctionnalités à la valeur métier douteuse". La figure, reproduite ci-dessous, est sous-titrée : "Features use presented by Standish Group at the XP 2002 conference".
 
-![](https://www.researchgate.net/profile/Ghislain-Levesque/publication/221186023/figure/fig2/AS:643929196204042@1530536092127/Features-use-presented-by-Standish-Group-at-the-XP-2002-conference.png)
+![Graphique en camembert éclaté et en perspective, intitulé "Actual Use of Requested Features". Valeurs : identiques au graphique précédent. Pas de source intutilée sur la figure.](https://www.researchgate.net/profile/Ghislain-Levesque/publication/221186023/figure/fig2/AS:643929196204042@1530536092127/Features-use-presented-by-Standish-Group-at-the-XP-2002-conference.png)
 
 On progresse. Il ne nous reste plus qu'à vérifier : est-ce bien ce qui a été dit lors de la conférence XP 2002 ? Sur quelles sources s'appuyait alors le président de Standish Group pour prononcer cette affirmation ?
 
@@ -79,7 +77,7 @@ J'ai bien l'impression que l'enquête pourrait encore continuer. Mais il faut bi
 
 N'y aurait-il pas des travaux plus fiables et plus à jour permettant de le vérifier ?
 
-Là aussi, j'ai trouvé un [rapport](https://go.pendo.io/rs/185-LQW-370/images/2019%20Feature%20Adoption%20Report%20Digital.pdf) publié en 2019 par la société Pendo, qui édite une plateforme d'analytics pour la recherche utilisateur. La société conclut, à partir de données anonymisées d'utilisation de sa plateforme que, 56% des fonctionnalités seraient "rarement utilisées", et 24% "jamais utilisées", soit un total de 80% de fonctionnalités pas ou peu utilisées. Ces proportions empiriques rejoignent les chiffres de Standish Group.
+Par une recherche rapide, j'ai trouvé un [rapport](https://go.pendo.io/rs/185-LQW-370/images/2019%20Feature%20Adoption%20Report%20Digital.pdf) publié en 2019 par la société Pendo, qui édite une plateforme d'analytics pour la recherche utilisateur. La société conclut, à partir de données anonymisées d'utilisation de sa plateforme que, 56% des fonctionnalités seraient "rarement utilisées", et 24% "jamais utilisées", soit un total de 80% de fonctionnalités pas ou peu utilisées. Ces proportions empiriques rejoignent les chiffres de Standish Group.
 
 Mais là aussi, la critique s'impose.
 
@@ -89,9 +87,9 @@ Si des fonctionnalités sont peu utilisées, on peut supposer qu'elles sont peu 
 
 Il faut probablement imputer cet angle de vue au positionnement commercial de cette société, qui a un intérêt à permettre à ses clients de justifiés des prix élevés pour une quantité de fonctionnalités large et effectivement utilisées, y compris par des techniques d'adoption quasi-forcée.
 
-De la même façon, [ce billet](https://chartio.com/learn/product-analytics/what-is-feature-usage/), publié sur le blog d'une solution d'analytics ciblant visiblement des startups, ne cite que des actions visant à accroître le taux d'utilisation fonctionnelle une fois celui-ci mesuré. L'exemple de la pop-up suggérant d'écouter de la musique chaque fois que l'utilisateur active une application de marche à pied et se déplace n'est certainement pas sans rappeler certaines évolutions dans les OS mobiles les plus populaires.
+De la même façon, [ce billet](https://chartio.com/learn/product-analytics/what-is-feature-usage/), publié sur le blog d'une solution d'analytics ciblant visiblement des startups, ne cite que des actions visant à accroître le taux d'utilisation fonctionnelle une fois celui-ci mesuré. L'exemple de la pop-up suggérant d'écouter de la musique chaque fois que l'utilisateur active une application de marche à pied et se déplace n'est certainement pas sans rappeler certaines évolutions dans les OS mobiles majoritaires.
 
-Cela participe d'un accroissement continu de l'emprise et de la place du numérique dans notre vie quotidienne, là où le Numérique responsable tendrait au contrairement à apaiser notre relation au numérique. Tout en étant lui aussi source potentielle d'économies financières (voir [6 arguments pour la conception responsable des services numériques](https://www.greenit.fr/2019/10/08/6-arguments-pour-la-conception-responsable-des-services-numeriques/), billet rédigé par notre ancien collègue Richard Hanna pour GreenIT.fr en 2019).
+Cela participe d'un accroissement continu de l'emprise et de la place du numérique dans notre vie quotidienne. Au contraire, le Numérique responsable vise aussi à apaiser notre relation au numérique. Tout en étant lui aussi [source potentielle d'économies financières](/blog/2019/arguments-pour-la-conception-responsable-des-services-numeriques/).
 
 ## Qu'en conclure ?
 
@@ -101,10 +99,8 @@ Le plus important dans tout cela n'est peut-être pas l'exactitude du chiffre av
 
 Autrement dit, du point de vue de l'éconception de services numériques, la limitation du périmètre fonctionnel qui permet de répondre efficacement aux besoins utilisateurs reste une priorité.
 
-Le fait qu'une fraction des fonctionnalités ne soit pas utilisée peut servir de moteur. Mais cette fraction est difficile à estimer. Il se peut qu'elle doit déjà modérée dans les organisations qui ont le plus adopté des approches visant à minimiser les développements de fonctionnalités inutiles (méthodes de développement agiles, _lean startup_, recherche utilisateur, etc).
+Le fait qu'une fraction des fonctionnalités ne soit pas utilisée peut servir de moteur. Mais cette fraction est difficile à estimer. Il se peut qu'elle doit déjà modérée dans les organisations ayant déjà adopté des approches qui tendent à minimiser les développements de fonctionnalités inutiles (développement agile, _lean startup_, recherche utilisateur, etc).
 
-Pour nos propres présentations, il conviendrait néanmoins de prendre plus de précautions en citant ce chiffre, voire d'illustrer l'enjeu de questionnement des fonctionnalités différemment.
+Pour nos propres présentations, il conviendrait néanmoins de prendre plus de précautions en citant ce chiffre, voire d'illustrer l'enjeu du questionnement des fonctionnalités différemment.
 
-Nous pourrions par exemple plutôt énoncer ceci :
-
-"Quelques études empiriques et retours d'expérience indiquent qu'une partie des fonctionnalités d'une application ne sont probablement peu ou pas utilisées. Leur remise en question et le cas échéant leur élimination est une source de réduction de coûts de développement et de maintenance, de dette technique, mais aussi d'impacts environnementaux".
+Nous pourrions par exemple plutôt énoncer ceci : "Quelques études empiriques et retours d'expérience suggèrent qu'une partie des fonctionnalités d'une application ne sont probablement peu ou pas utilisées. Leur remise en question et le cas échéant leur élimination est une source de réduction de coûts de développement et de maintenance, de dette technique, mais aussi d'impacts environnementaux".
