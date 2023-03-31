@@ -34,7 +34,7 @@ L'étude plus connue semble être le "CHAOS Report". La [première édition en 1
 
 Il n'y est cependant pas question de l'utilisation effective des fonctionnalités. L'angle d'étude par la "réussite ou non des projets" semble n'avoir pas changé, en témoigne le [CHAOS Report 2021](https://www.successthroughsafe.com/blog-1/2021/11/13/standish-chaos-report-2021).
 
-Au global, l'objet des CHAOS Reports semble avoir été (et de toujours être) de montrer l'avantage des méthodes agiles notamment par rapport aux méthodes en cascade (_waterfall_) dans le domaine du logiciel. Cela a probablement occassionné des biais. Notons par exempleles critiques méthodologiques formulées dans le papier [The Rise and Fall of the Chaos Report Figures](https://dl.acm.org/doi/abs/10.1109/MS.2009.154), publié dans la revue IEEE en 2010.
+Au global, l'objet des CHAOS Reports semble avoir été (et de toujours être) de montrer l'avantage des méthodes agiles notamment par rapport aux méthodes en cascade (_waterfall_) dans le domaine du logiciel. Cela a probablement occassionné des biais. Notons par exemple les critiques méthodologiques formulées dans le papier [The Rise and Fall of the Chaos Report Figures](https://dl.acm.org/doi/abs/10.1109/MS.2009.154), publié dans la revue IEEE en 2010.
 
 En tout état de cause cependant, le CHAOS Report n'est pas la source que l'on cherche.
 
@@ -79,7 +79,7 @@ J'ai bien l'impression que l'enquête pourrait encore continuer. Mais il faut bi
 
 N'y aurait-il pas des travaux plus fiables et plus à jour permettant de le vérifier ?
 
-Là aussi, j'ai [rapport](https://go.pendo.io/rs/185-LQW-370/images/2019%20Feature%20Adoption%20Report%20Digital.pdf) publié en 2019 par la société Pendo, qui édite une plateforme d'analytics pour la recherche utilisateur. La société conclut, à partir de données anonymisées d'utilisation de sa plateforme que, 56% des fonctionnalités seraient "rarement utilisées", et 24% "jamais utilisées", soit un total de 80% de fonctionnalités pas ou peu utilisées. Ces proportions empiriques rejoignent les chiffres de Standish Group.
+Là aussi, j'ai trouvé un [rapport](https://go.pendo.io/rs/185-LQW-370/images/2019%20Feature%20Adoption%20Report%20Digital.pdf) publié en 2019 par la société Pendo, qui édite une plateforme d'analytics pour la recherche utilisateur. La société conclut, à partir de données anonymisées d'utilisation de sa plateforme que, 56% des fonctionnalités seraient "rarement utilisées", et 24% "jamais utilisées", soit un total de 80% de fonctionnalités pas ou peu utilisées. Ces proportions empiriques rejoignent les chiffres de Standish Group.
 
 Mais là aussi, la critique s'impose.
 
