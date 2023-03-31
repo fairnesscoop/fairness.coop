@@ -9,7 +9,11 @@
         <div class="content">
             <h2 id="{{ .File.TranslationBaseName }}"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
             <p>
-                {{ .Description }}
+                {{ if (gt (len .Description) 80) }}
+                    {{ truncate 80 .Description }}
+                {{ else }}
+                    {{ .Description }}
+                {{ end }}
             </p>
             <p class="indicators">
                 <img src="{{ "image/date.svg" | relURL }}" alt=""> {{ .Date.Format "02/01/2006"  }}
