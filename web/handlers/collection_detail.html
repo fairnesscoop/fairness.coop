@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Victor - Collection: {{ .Collection.Label }}</title>
+</head>
+<body>
+  <h1>Collection: {{ .Collection.Label }}</h1>
+
+  <h2>Files</h2>
+  
+  <ul>
+    {{ range .Collection.Files }}
+      <li>
+        <a href="{{ .Url }}">
+          {{ .Path }}
+        </a>
+      </li>
+    {{ end }}
+  </ul>
+
+  <p>
+    <a href="/admin">Back to home</a>
+  </p>
+</body>
+</html>

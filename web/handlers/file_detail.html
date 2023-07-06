@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Victor - File: {{ .File.Path }}</title>
+</head>
+<body>
+  <nav>
+    <a href="{{ .File.Collection.Url }}">Back to {{ .File.Collection.Label }}</a>
+  </nav>
+
+  <h1>File: {{ .File.Path }}</h1>
+
+  <form action="{{ .File.Url }}" method="POST">
+    <div>
+      <label style="display: block;" for="content">Content</label>
+      <textarea name="content" id="content" cols="100" rows="20">{{ .Content }}</textarea>
+    </div>
+
+    <button type="submit">Save</button>
+  </form>
+
+  <footer role="contentinfo">
+    Victor CMS
+  </footer>
+</body>
+</html>
